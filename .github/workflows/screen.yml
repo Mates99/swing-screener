@@ -1,0 +1,34 @@
+name: Denny screening
+
+on:
+  schedule:
+    - cron: "30 3 * * 2-6"   # 05:30 SELČ, po zatvorení amerického trhu (utorok až sobota)
+  workflow_dispatch: {}       # tlačidlo "Run workflow" na ručné spustenie
+
+permissions:
+  contents: write
+
+concurrency:
+  group: screening
+  cancel-in-progress: false
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Inštalácia
+        run: pip install -U yfinance pandas numpy requests
+      - name: Screening
+        run: python screen.py
+      - name: Uloženie výsledku
+        run: |
+          git config user.name "screening-bot"
+          git config user.email "screening-bot@users.noreply.github.com"
+          git add results
+          git commit -m "Screening $(date -u +%Y-%m-%d)" || echo "Bez zmien"
+          git push
