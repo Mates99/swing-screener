@@ -7,7 +7,7 @@ do results/. Ranný automat v Claude si potom stiahne jediný súbor.
 import json
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import numpy as np
@@ -19,13 +19,28 @@ OUT = Path("results")
 MIN_CAP = 2e9
 MIN_AVG_VOL = 1_000_000
 CHUNK = 100
-FINALISTS_TO_CHECK = 15
+FINALISTS_TO_CHECK = 20
+EARNINGS_SCAN_DAYS = 45
 BAD_NAME_WORDS = (" ETF", " Fund", " Notes", " Preferred", " Warrant", " Unit", " Right",
                   " Depositary Shares", " Debenture", " Trust Units")
 
 
+LOG_LINES = []
+
+
 def log(msg):
     print(msg, flush=True)
+    LOG_LINES.append(f"{datetime.now(timezone.utc).strftime('%H:%M:%S')} {msg}")
+
+
+NASDAQ_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Origin": "https://www.nasdaq.com",
+    "Referer": "https://www.nasdaq.com/",
+}
 
 
 # ---------------------------------------------------------------- univerzum
@@ -33,14 +48,7 @@ def load_universe():
     """Všetky americké akcie nad 2 mld. USD z Nasdaq screenera. Pri chybe
     sa použije posledný uložený zoznam, aby beh nezlyhal úplne."""
     url = "https://api.nasdaq.com/api/screener/stocks?tableonly=true&limit=25000&download=true"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Origin": "https://www.nasdaq.com",
-        "Referer": "https://www.nasdaq.com/",
-    }
+    headers = NASDAQ_HEADERS
     cache = OUT / "universe.csv"
     try:
         r = requests.get(url, headers=headers, timeout=60)
@@ -157,25 +165,98 @@ def evaluate(m, spy63):
     return sito, fails
 
 
-def earnings_and_revenue(t):
-    info = {"earnings_date": None, "bdays_to_earnings": None, "revenue_growth_pct": None}
+def nasdaq_earnings_map(days=EARNINGS_SCAN_DAYS):
+    """Kalendár výsledkov z Nasdaqu na najbližších `days` dní: ticker -> prvý dátum.
+    Vracia aj podiel pracovných dní, ktoré sa podarilo načítať."""
+    out, ok, total = {}, 0, 0
+    today = datetime.now(timezone.utc).date()
+    for i in range(days + 1):
+        d = today + timedelta(days=i)
+        if d.weekday() >= 5:
+            continue
+        total += 1
+        try:
+            r = requests.get(f"https://api.nasdaq.com/api/calendar/earnings?date={d.isoformat()}",
+                             headers=NASDAQ_HEADERS, timeout=30)
+            r.raise_for_status()
+            rows = ((r.json() or {}).get("data") or {}).get("rows") or []
+            ok += 1
+            for row in rows:
+                sym = yf_symbol(str(row.get("symbol", "")).strip())
+                if sym and sym not in out:
+                    out[sym] = d
+        except Exception as e:  # noqa: BLE001
+            log(f"Nasdaq kalendár {d}: {type(e).__name__}: {e}")
+        time.sleep(0.4)
+    coverage = ok / total if total else 0
+    log(f"Nasdaq kalendár výsledkov: {ok}/{total} dní načítaných, {len(out)} titulov")
+    return out, coverage
+
+
+def with_retry(fn, label, tries=3, wait=10):
+    for k in range(tries):
+        try:
+            return fn()
+        except Exception as e:  # noqa: BLE001
+            log(f"{label}: pokus {k + 1} zlyhal: {type(e).__name__}: {e}")
+            if k < tries - 1:
+                time.sleep(wait * (k + 1))
+    return None
+
+
+def revenue_growth_yoy(tk):
+    """Medziročný rast tržieb za posledný kvartál z kvartálneho výkazu."""
+    q = tk.quarterly_income_stmt
+    if q is None or q.empty:
+        return None
+    row = next((r for r in ("Total Revenue", "Operating Revenue", "Revenue") if r in q.index), None)
+    if row is None:
+        return None
+    ser = q.loc[row].dropna()
+    if ser.empty:
+        return None
+    ser.index = pd.to_datetime(ser.index)
+    ser = ser.sort_index(ascending=False)
+    d0, v0 = ser.index[0], float(ser.iloc[0])
+    prior = ser[(ser.index <= d0 - timedelta(days=330)) & (ser.index >= d0 - timedelta(days=400))]
+    if prior.empty or float(prior.iloc[0]) <= 0:
+        return None
+    return round((v0 / float(prior.iloc[0]) - 1) * 100, 1)
+
+
+def earnings_and_revenue(t, nasdaq_map, nasdaq_coverage):
+    info = {"earnings_date": None, "bdays_to_earnings": None, "earnings_source": None,
+            "revenue_growth_pct": None, "revenue_source": None}
+    today = datetime.now(timezone.utc).date()
     tk = yf.Ticker(t)
-    try:
-        cal = tk.calendar or {}
-        ed = cal.get("Earnings Date")
-        if ed:
-            ed = sorted(pd.to_datetime(x).date() for x in ed)[0]
-            info["earnings_date"] = ed.isoformat()
-            info["bdays_to_earnings"] = int(np.busday_count(datetime.now(timezone.utc).date(), ed))
-    except Exception as e:  # noqa: BLE001
-        log(f"{t}: kalendár zlyhal: {e}")
-    try:
-        rg = tk.info.get("revenueGrowth")
-        if rg is not None:
-            info["revenue_growth_pct"] = round(float(rg) * 100, 1)
-    except Exception as e:  # noqa: BLE001
-        log(f"{t}: info zlyhalo: {e}")
-    time.sleep(1)
+
+    # Výsledky: 1) Nasdaq kalendár, 2) Yahoo kalendár, 3) mimo 45 dní, ak bol Nasdaq kompletný
+    ed = nasdaq_map.get(t)
+    if ed:
+        info["earnings_source"] = "nasdaq"
+    else:
+        cal = with_retry(lambda: tk.calendar or {}, f"{t} Yahoo kalendár", tries=2)
+        dates = (cal or {}).get("Earnings Date") or []
+        dates = sorted(pd.to_datetime(x).date() for x in dates)
+        dates = [x for x in dates if x >= today]
+        if dates:
+            ed = dates[0]
+            info["earnings_source"] = "yahoo"
+    if ed:
+        info["earnings_date"] = ed.isoformat()
+        info["bdays_to_earnings"] = int(np.busday_count(today, ed))
+    elif nasdaq_coverage >= 0.9:
+        info["earnings_source"] = f"nie je v najbližších {EARNINGS_SCAN_DAYS} dňoch"
+
+    # Tržby: 1) kvartálny výkaz, 2) Yahoo info
+    rg = with_retry(lambda: revenue_growth_yoy(tk), f"{t} kvartálny výkaz", tries=2)
+    if rg is not None:
+        info["revenue_growth_pct"], info["revenue_source"] = rg, "výkaz"
+    else:
+        val = with_retry(lambda: tk.info.get("revenueGrowth"), f"{t} Yahoo info", tries=2)
+        if val is not None:
+            info["revenue_growth_pct"], info["revenue_source"] = round(float(val) * 100, 1), "yahoo info"
+    time.sleep(2)
     return info
 
 
@@ -214,11 +295,19 @@ def main():
     allm.to_csv(OUT / "all.csv", index=False)
 
     passed = allm[allm["passed"]].head(FINALISTS_TO_CHECK)
+    nasdaq_map, nasdaq_cov = nasdaq_earnings_map()
+    time.sleep(30)  # pauza po hromadnom sťahovaní, aby Yahoo neodmietal ďalšie dotazy
     finalists = []
     for _, r in passed.iterrows():
-        extra = earnings_and_revenue(r["ticker"])
-        f1 = extra["bdays_to_earnings"] is not None and extra["bdays_to_earnings"] >= 5
-        f2 = extra["revenue_growth_pct"] is not None and extra["revenue_growth_pct"] > 0
+        extra = earnings_and_revenue(r["ticker"], nasdaq_map, nasdaq_cov)
+        # None = nepodarilo sa overiť (ranný beh overí vyhľadávaním), nie automaticky zamietnuté
+        if extra["bdays_to_earnings"] is not None:
+            f1 = extra["bdays_to_earnings"] >= 5
+        elif extra["earnings_source"]:
+            f1 = True
+        else:
+            f1 = None
+        f2 = None if extra["revenue_growth_pct"] is None else extra["revenue_growth_pct"] > 0
         finalists.append({
             "ticker": r["ticker"], "name": r["name"], "sector": r["sector"],
             "market_cap_bn": r["market_cap_bn"], "band": "2-5 mld." if (r["market_cap_bn"] or 0) < 5 else "nad 5 mld.",
@@ -250,13 +339,27 @@ def main():
         },
         "first_fail_after_sito": dict(sorted(fail_counts.items(), key=lambda x: -x[1])),
         "N1": {"SPY": spy, "QQQ": qqq, "veto": spy["veto"] or qqq["veto"]},
+        "data_quality": {
+            "nasdaq_earnings_coverage": round(nasdaq_cov, 2),
+            "finalists_earnings_unknown": sum(1 for f in finalists if f["F1_earnings_ok"] is None),
+            "finalists_revenue_unknown": sum(1 for f in finalists if f["F2_revenue_ok"] is None),
+        },
         "finalists": finalists,
         "near_misses": allm[allm["sito"] & (allm["fails"].str.count(",") == 0) & ~allm["passed"]]
             .head(10)[["ticker", "close", "rs63_pct", "fails"]].to_dict("records"),
     }
     (OUT / "latest.json").write_text(json.dumps(result, ensure_ascii=False, indent=1, default=str))
     log(json.dumps(result["funnel"]))
+    log(json.dumps(result["data_quality"]))
+    (OUT / "run_log.txt").write_text("\n".join(LOG_LINES[-400:]))
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:  # noqa: BLE001
+        log(f"BEH ZLYHAL: {type(e).__name__}: {e}")
+        raise
+    finally:
+        OUT.mkdir(exist_ok=True)
+        (OUT / "run_log.txt").write_text("\n".join(LOG_LINES[-400:]))
