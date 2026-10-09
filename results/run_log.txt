@@ -1,4 +1,4 @@
-03:47:32 univerzum: 1933 titulov (nasdaq)
-03:50:28 Nasdaq kalendár výsledkov: 32/32 dní načítaných, 4305 titulov
-03:51:26 {"universe": 1933, "evaluated_fresh": 1885, "stale": 1, "missing": 47, "sito": 326, "passed_T_and_V": 13, "finalists_checked": 13}
-03:51:26 {"nasdaq_earnings_coverage": 1.0, "finalists_earnings_unknown": 0, "finalists_revenue_unknown": 0}
+03:47:58 univerzum: 1929 titulov (nasdaq)
+03:51:29 Nasdaq kalendár výsledkov: 32/32 dní načítaných, 4326 titulov
+03:52:42 {"universe": 1929, "evaluated_fresh": 1885, "stale": 0, "missing": 44, "sito": 346, "passed_T_and_V": 32, "finalists_checked": 20}
+03:52:42 {"nasdaq_earnings_coverage": 1.0, "finalists_earnings_unknown": 0, "finalists_revenue_unknown": 0}
