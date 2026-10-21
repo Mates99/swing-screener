@@ -160,6 +160,9 @@ def evaluate(m, spy63):
     if m["close"] > 1.10 * m["ma20"]: fails.append("T3")
     if m["atr14"] / m["close"] > 0.05: fails.append("T4")
     if not m["ret63_pct"] > spy63: fails.append("T5")
+    # skorý trend (od 21.10.2026): nekupovať tituly, ktoré už vlnu vybehali
+    if m["close"] > 1.08 * m["ma50"]: fails.append("T6")
+    if m["ret63_pct"] > 30: fails.append("T7")
     trigger = m["close"] > m["prev_high"]
     if not trigger: fails.append("V1")
     return sito, fails
@@ -315,6 +318,7 @@ def main():
             "sl_hint": round(r["close"] * 1.02 * 0.93, 2), "tp_hint": round(r["close"] * 1.02 * 1.12, 2),
             "rs63_pct": r["rs63_pct"], "ret63_pct": r["ret63_pct"], "atr_pct": round(r["atr14"] / r["close"] * 100, 2),
             "vs_ma20_pct": round((r["close"] / r["ma20"] - 1) * 100, 2),
+            "vs_ma50_pct": round((r["close"] / r["ma50"] - 1) * 100, 2),
             **extra, "F1_earnings_ok": f1, "F2_revenue_ok": f2,
         })
 
@@ -345,6 +349,9 @@ def main():
             "finalists_revenue_unknown": sum(1 for f in finalists if f["F2_revenue_ok"] is None),
         },
         "finalists": finalists,
+        # len na porovnanie: koho by vybralo poradie pred zavedením T6/T7
+        "legacy_top": allm[allm["fails"].apply(lambda f: not [x for x in f.split(",") if x and x not in ("T6", "T7")])]
+            .head(5)[["ticker", "close", "ret63_pct", "rs63_pct"]].to_dict("records"),
         "near_misses": allm[allm["sito"] & (allm["fails"].str.count(",") == 0) & ~allm["passed"]]
             .head(10)[["ticker", "close", "rs63_pct", "fails"]].to_dict("records"),
     }
