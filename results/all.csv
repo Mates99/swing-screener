@@ -1,172 +1,172 @@
 ticker,name,market_cap_bn,sector,date,close,chg_pct,prev_high,ma20,ma20_5ago,ma50,ma200,atr14,avg_vol63,hi252,lo252,ret252_pct,ret63_pct,rs63_pct,sito,passed,fails
-MRNA,Moderna Inc. Common Stock,90.58,Health Care,2026-10-20,242.08,6.69,236.77,206.85,190.02,161.93,79.44,19.28,19762468,243.98,22.28,788.69,316.88,313.98,False,False,"U:divoký,T3,T4"
-IOVA,Iovance Biotherapeutics Inc. Common Stock,6.44,Health Care,2026-10-20,14.86,4.57,14.74,13.47,12.43,10.45,5.42,0.92,16634725,15.3,1.76,540.52,187.43,184.53,False,False,"U:divoký,T3,T4"
-TEAM,Atlassian Corporation Class A Common Stock,54.15,Technology,2026-10-20,221.11,2.96,215.28,198.25,192.94,186.68,115.03,9.1,3975763,223.7,56.01,39.25,158.91,156.01,True,False,T3
-HTFL,Heartflow Inc. Common Stock,4.44,Health Care,2026-10-20,55.59,8.96,51.78,49.94,49.63,47.83,33.11,3.21,1874653,56.29,20.13,58.6,129.43,126.53,False,False,"U:deň >+8%,T3,T4"
-KOD,Kodiak Sciences Inc Common Stock,5.74,Health Care,2026-10-20,92.97,1.77,92.74,83.37,69.63,55.52,39.48,7.52,1693204,104.0,15.83,425.25,121.78,118.88,False,False,"U:divoký,T3,T4"
-RNG,RingCentral Inc. Class A Common Stock,6.61,Technology,2026-10-20,81.62,3.07,79.7,77.79,77.08,72.83,47.12,3.76,1845442,82.21,24.14,195.08,116.73,113.83,True,True,
-ASST,Strive Inc. Class A Common Stock,3.17,Finance,2026-10-20,27.06,5.95,26.23,28.14,29.06,24.64,16.17,1.94,7794812,36.2,7.02,56.6,113.58,110.68,False,False,"U:>15% pod maximom,U:divoký,T2,T4"
-ABCL,AbCellera Biologics Inc. Common Shares,3.86,Health Care,2026-10-20,11.71,-1.84,12.28,12.93,13.03,12.07,6.52,0.81,6638460,15.02,2.74,99.83,104.36,101.46,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,V1"
-BRZE,Braze Inc. Class A Common Stock,3.41,Technology,2026-10-20,45.57,51.7,30.17,27.89,25.97,28.54,23.98,2.45,3431863,45.61,15.26,65.65,102.53,99.63,False,False,"U:deň >+8%,T3,T4"
-CAI,Caris Life Sciences Inc. Common Stock,8.68,Health Care,2026-10-20,31.11,1.3,31.99,30.11,29.95,27.39,21.33,2.17,4994888,33.13,14.19,-1.24,102.28,99.38,False,False,"U:rok v strate,T4,V1"
-FIGS,FIGS Inc. Class A Common Stock,3.23,Consumer Discretionary,2026-10-20,19.86,2.11,19.57,15.6,14.02,14.77,13.09,1.06,3355300,20.31,7.21,146.1,100.2,97.3,True,False,"T3,T4"
-APPN,Appian Corporation Class A Common Stock,3.03,Technology,2026-10-20,44.51,5.27,42.77,38.57,37.5,38.1,28.24,2.55,889249,46.06,18.63,52.38,96.6,93.7,False,False,"U:objem,T3,T4"
-VIA,Via Transportation Inc. Class A Common Stock,2.69,Technology,2026-10-20,34.03,3.28,33.22,31.05,29.77,28.55,20.66,1.49,765850,55.2,12.95,-28.75,94.46,91.56,False,False,"U:objem,U:>15% pod maximom,U:divoký,U:rok v strate"
-PAYC,Paycom Software Inc. Common Stock,11.4,Technology,2026-10-20,262.32,3.68,254.24,231.63,225.23,228.21,159.5,7.44,780420,264.49,104.9,30.45,88.31,85.41,False,False,"U:objem,T3"
-CDNA,CareDx Inc. Common Stock,3.47,Health Care,2026-10-20,69.2,3.16,68.05,64.46,61.5,55.8,31.51,4.44,1276403,72.51,14.03,354.66,83.17,80.27,False,False,"U:divoký,T4"
-XP,XP Inc. Class A Common Stock,15.68,Finance,2026-10-20,31.34,3.57,30.83,26.56,24.09,21.59,19.07,1.79,7781006,32.73,14.8,79.5,81.16,78.26,True,False,"T3,T4"
-NIQ,NIQ Global Intelligence plc Ordinary Shares,5.48,Technology,2026-10-20,19.09,2.69,18.77,17.85,17.7,18.06,13.09,0.67,1452053,19.69,7.93,37.83,79.59,76.69,True,True,
-CVI,CVR Energy Inc. Common Stock,6.02,Energy,2026-10-20,61.87,3.31,63.46,56.71,54.68,48.63,34.3,3.06,1018753,63.51,19.62,77.33,77.38,74.48,True,False,V1
-GRAL,GRAIL Inc. Common Stock ,5.47,Health Care,2026-10-20,124.67,1.84,124.5,133.05,123.66,100.6,76.42,11.18,993468,166.48,41.5,35.73,76.44,73.54,False,False,"U:objem,U:>15% pod maximom,U:divoký,T4"
-GTLB,GitLab Inc. Class A Common Stock,8.88,Technology,2026-10-20,55.0,3.21,53.72,51.31,50.15,47.83,33.26,2.84,4689734,57.89,18.73,16.77,75.44,72.54,True,False,T4
-RGC,Regencell Bioscience Holdings Limited Ordinary Shares,4.98,Health Care,2026-10-20,10.45,3.98,11.31,7.49,6.58,6.42,18.39,1.28,237755,69.0,4.51,-38.38,74.75,71.85,False,False,"U:objem,U:>15% pod maximom,U:divoký,U:rok v strate,T1,T3,T4,V1"
-BLKB,Blackbaud Inc. Common Stock,2.42,Technology,2026-10-20,53.57,0.62,53.59,45.71,43.59,45.77,41.54,1.75,513795,70.71,25.58,-16.77,73.25,70.35,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3,V1"
-VEEV,Veeva Systems Inc. Class A Common Stock,51.29,Technology,2026-10-20,318.67,0.59,318.28,290.48,278.22,272.22,205.83,10.48,1714363,322.0,148.05,11.46,72.67,69.77,True,True,
-ATRC,AtriCure Inc. Common Stock,2.82,Health Care,2026-10-20,57.67,3.85,56.58,56.55,56.91,53.11,37.26,2.48,1079393,61.7,25.36,53.95,72.05,69.15,True,False,T2
-INTA,Intapp Inc. Common Stock,3.4,Technology,2026-10-20,44.78,1.11,44.75,38.79,37.13,39.38,30.01,1.64,651104,47.93,19.01,16.86,71.77,68.87,False,False,"U:objem,T3"
-PTC,PTC Inc. Common Stock,20.95,Technology,2026-10-20,193.35,0.15,193.61,172.28,157.81,155.81,146.18,5.46,2443942,206.82,108.5,-6.08,70.94,68.04,False,False,"U:rok v strate,T3,V1"
-ACN,Accenture plc Class A Ordinary Shares (Ireland),158.44,Consumer Discretionary,2026-10-20,239.12,0.92,237.23,202.99,192.26,191.62,192.6,10.85,6496455,291.09,118.15,-1.26,70.69,67.79,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-P,Everpure Inc. Class A common stock,42.35,Technology,2026-10-20,126.52,-0.45,130.36,136.78,130.67,116.99,83.1,7.86,4850079,157.57,56.78,39.05,69.64,66.74,False,False,"U:>15% pod maximom,T4,V1"
-ANF,Abercrombie & Fitch Company Common Stock,6.87,Consumer Discretionary,2026-10-20,161.73,-0.17,162.69,142.94,138.36,135.31,102.91,5.49,1576679,163.82,65.45,142.66,68.4,65.5,True,False,"T3,V1"
-DOCU,DocuSign Inc. Common Stock,14.33,Technology,2026-10-20,80.28,4.72,76.99,71.16,69.21,67.24,53.92,2.79,3155084,80.61,40.16,13.58,67.63,64.73,True,False,T3
-IT,Gartner Inc. Common Stock,13.12,Consumer Discretionary,2026-10-20,219.64,5.74,208.07,192.67,187.24,189.67,169.94,8.16,1212361,261.1,124.25,-8.28,66.27,63.37,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-ZETA,Zeta Global Holdings Corp. Class A Common Stock,8.16,Technology,2026-10-20,33.55,3.23,33.0,32.0,31.45,30.77,22.1,1.72,7395066,35.75,14.36,80.96,66.25,63.35,True,False,T4
-NTSK,Netskope Inc. Class A Common Stock,7.93,Technology,2026-10-20,19.82,2.06,19.78,19.06,18.57,16.86,12.87,1.16,5948647,24.98,7.66,-11.16,65.79,62.89,False,False,"U:>15% pod maximom,U:rok v strate,T4"
-ESTC,Elastic N.V. Ordinary Shares,10.03,Technology,2026-10-20,95.63,1.09,95.93,93.13,91.56,89.25,66.19,4.15,2315106,108.0,42.05,14.08,62.97,60.07,True,False,V1
-DOCS,Doximity Inc. Class A Common Stock,5.61,Technology,2026-10-20,33.35,6.04,31.57,28.94,27.67,27.01,25.97,1.34,4568950,71.37,17.15,-50.96,62.76,59.86,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T3"
-AMLX,Amylyx Pharmaceuticals Inc. Common Stock,3.43,Health Care,2026-10-20,28.77,5.27,27.35,28.22,29.58,30.9,19.44,1.34,2330596,41.14,10.83,87.18,62.54,59.64,False,False,"U:>15% pod maximom,T1,T2"
-WIX,Wix.com Ltd. Ordinary Shares,3.22,Technology,2026-10-20,79.04,2.68,77.09,74.54,75.33,77.76,71.21,4.03,1409128,148.33,40.16,-42.55,62.43,59.53,False,False,"U:>15% pod maximom,U:rok v strate,T2,T4"
-HURN,Huron Consulting Group Inc. Common Stock,2.78,Consumer Discretionary,2026-10-20,180.81,3.49,176.15,165.7,160.98,159.73,137.77,6.77,279114,186.78,84.88,19.11,62.1,59.2,False,False,U:objem
-HALO,Halozyme Therapeutics Inc. Common Stock,13.9,Health Care,2026-10-20,124.37,1.53,123.6,113.5,111.01,109.74,81.16,3.66,2271528,125.1,61.23,87.11,59.82,56.92,True,True,
-GCT,GigaCloud Technology Inc Class A Ordinary Shares,2.07,Consumer Discretionary,2026-10-20,58.93,1.67,58.55,55.36,53.98,53.04,43.23,2.33,670092,60.45,25.39,117.13,58.84,55.94,False,False,U:objem
-CTSH,Cognizant Technology Solutions Corporation Class A Common Stock,30.09,Technology,2026-10-20,68.18,2.08,66.84,60.3,58.92,60.76,59.63,2.71,7366622,87.03,37.08,2.22,57.9,55.0,False,False,"U:>15% pod maximom,T3"
-MH,McGraw Hill Inc. Common Stock,2.65,Consumer Discretionary,2026-10-20,14.27,2.88,14.1,13.31,13.14,13.1,12.68,0.53,605565,18.0,8.94,9.77,56.81,53.91,False,False,"U:objem,U:>15% pod maximom"
-NOW,ServiceNow Inc. Common Stock,150.3,Technology,2026-10-20,149.54,2.88,145.48,138.93,137.08,135.7,115.01,6.27,16600142,192.97,81.24,-18.51,56.65,53.75,False,False,"U:>15% pod maximom,U:rok v strate"
-MANH,Manhattan Associates Inc. Common Stock,13.14,Technology,2026-10-20,232.86,3.3,227.39,211.26,207.42,210.24,163.67,7.32,766180,233.32,119.06,16.42,56.17,53.27,False,False,"U:objem,T3"
-ECO,Okeanis Eco Tankers Corp. Common Stock,3.47,Consumer Discretionary,2026-10-20,88.19,-0.89,92.72,87.41,85.63,77.07,56.67,5.01,703049,100.68,30.58,181.76,56.17,53.27,False,False,"U:objem,T4,V1"
-ASAN,Asana Inc. Class A Common Stock,2.32,Technology,2026-10-20,10.74,5.81,10.24,9.45,9.29,9.44,8.15,0.59,6190400,15.28,5.38,-26.54,56.1,53.2,False,False,"U:>15% pod maximom,U:rok v strate,T3,T4"
-RBRK,Rubrik Inc. Class A Common Stock,23.51,Technology,2026-10-20,114.59,1.04,115.42,117.24,115.82,105.81,74.36,6.1,3240438,127.9,42.25,45.4,55.5,52.6,True,False,"T4,V1"
-DXC,DXC Technology Company Common Stock ,2.28,Technology,2026-10-20,14.63,2.59,15.31,12.06,11.39,11.48,11.52,0.72,3670542,15.68,7.9,12.63,55.47,52.57,True,False,"T3,V1"
-PLSE,Pulse Biosciences Inc Common Stock (DE),3.39,Health Care,2026-10-20,50.84,6.92,48.12,49.76,51.03,49.89,29.81,3.46,521119,58.9,12.56,179.19,55.19,52.29,False,False,"U:objem,U:divoký,T2,T4"
-PLTR,Palantir Technologies Inc. Class A Common Stock,466.36,Technology,2026-10-20,192.6,-0.8,196.99,194.48,190.59,183.36,152.85,8.19,32398539,212.94,106.37,6.06,54.61,51.71,True,False,V1
-PRGO,Perrigo Company plc Ordinary Shares,2.23,Health Care,2026-10-20,16.17,0.5,16.79,15.09,14.47,14.37,12.4,0.71,2823687,22.02,9.23,-25.48,54.44,51.54,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-WDAY,Workday Inc. Class A Common Stock,47.04,Technology,2026-10-20,203.98,4.5,195.32,189.89,189.17,192.16,155.68,7.17,3647982,247.4,110.36,-15.43,54.04,51.14,False,False,"U:>15% pod maximom,U:rok v strate"
-SAP,SAP  SE ADS,277.68,Technology,2026-10-20,228.98,1.31,226.58,214.82,211.39,213.7,191.93,5.1,2507020,281.37,144.97,-17.61,53.94,51.04,False,False,"U:>15% pod maximom,U:rok v strate"
-DT,Dynatrace Inc. Common Stock,17.79,Technology,2026-10-20,63.64,3.41,62.44,60.79,59.1,55.45,43.67,2.12,6767707,66.3,31.64,26.98,53.87,50.97,True,True,
-NTRA,Natera Inc. Common Stock,57.57,Health Care,2026-10-20,405.92,1.63,408.2,403.78,396.0,361.38,259.23,18.73,1474860,437.41,181.0,115.23,53.63,50.73,True,False,V1
-EXLS,ExlService Holdings Inc. Common Stock,6.03,Consumer Discretionary,2026-10-20,40.86,2.77,39.92,36.58,35.59,36.36,32.73,1.19,2250519,43.88,24.85,0.37,52.29,49.39,True,False,T3
-WK,Workiva Inc. Class A Common Stock,4.18,Technology,2026-10-20,79.26,3.3,77.43,71.99,71.03,73.15,63.01,3.35,1072412,97.1,43.34,-11.47,52.28,49.38,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-TXG,10x Genomics Inc. Class A Common Stock,9.11,Industrials,2026-10-20,71.46,2.25,72.48,80.64,82.1,71.51,38.35,7.58,3344680,102.81,11.87,443.84,51.88,48.98,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,V1"
-AVTR,Avantor Inc. Common Stock,11.02,Industrials,2026-10-20,16.62,2.03,16.55,15.56,15.35,14.98,11.01,0.5,9441284,16.83,7.26,9.49,51.78,48.88,True,True,
-HAE,Haemonetics Corporation Common Stock,5.4,Health Care,2026-10-20,118.21,-0.44,119.82,111.68,108.77,106.43,77.15,4.32,737712,123.77,48.98,133.11,51.49,48.59,False,False,"U:objem,V1"
-TWST,Twist Bioscience Corporation Common Stock,9.27,Health Care,2026-10-20,142.7,2.1,141.8,165.58,169.99,148.75,84.35,16.65,2217466,219.71,23.3,335.86,51.47,48.57,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4"
-VEON,VEON Ltd. ADS,5.66,Telecommunications,2026-10-20,80.43,-2.13,84.5,76.92,73.72,68.54,56.48,2.96,146049,85.27,42.6,51.21,51.24,48.34,False,False,"U:objem,V1"
-EPAM,EPAM Systems Inc. Common Stock,6.57,Technology,2026-10-20,130.68,2.59,128.33,113.57,111.36,112.56,125.09,5.67,1282333,222.53,73.06,-9.88,50.95,48.05,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-ZS,Zscaler Inc. Common Stock,34.65,Technology,2026-10-20,214.51,0.93,214.88,211.15,207.55,193.61,165.74,10.51,2864722,336.99,114.62,-29.88,50.79,47.89,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-AUGO,Aura Minerals Inc. Common Shares,7.21,Basic Materials,2026-10-20,84.25,-2.07,88.94,84.06,85.04,84.42,74.91,4.78,952441,110.32,29.11,124.31,50.74,47.84,False,False,"U:objem,U:>15% pod maximom,T1,T2,T4,V1"
-MPC,Marathon Petroleum Corporation Common Stock,133.02,Energy,2026-10-20,475.04,0.28,493.98,437.16,420.37,402.43,279.46,17.16,2504882,493.98,161.93,155.03,50.41,47.51,True,False,V1
-FIVN,Five9 Inc. Common Stock,2.49,Technology,2026-10-20,34.31,2.91,33.44,34.75,35.18,33.74,23.44,2.18,2556931,40.0,13.29,52.96,49.5,46.6,True,False,"T2,T4"
-PRCH,Porch Group Inc. Common Stock,2.33,Technology,2026-10-20,18.18,3.0,17.98,17.14,16.85,16.97,11.67,0.81,1599557,18.41,6.36,16.09,49.14,46.24,True,True,
-CRM,Salesforce Inc. Common Stock,199.54,Technology,2026-10-20,242.43,-0.01,243.01,233.99,233.63,232.01,198.88,8.55,12708415,269.11,146.32,-4.66,48.73,45.83,False,False,"U:rok v strate,V1"
-OPCH,Option Care Health Inc. Common Stock,4.67,Health Care,2026-10-20,31.36,0.48,31.28,27.43,25.68,25.28,26.38,0.78,3871615,36.8,18.01,10.5,48.27,45.37,True,False,T3
-FRSH,Freshworks Inc. Class A Common Stock,3.69,Technology,2026-10-20,14.85,5.1,14.19,13.43,13.03,13.01,10.29,0.61,6866507,14.98,6.79,32.35,47.61,44.71,True,False,T3
-ARX,Accelerant Holdings Class A Common Shares,4.31,Finance,2026-10-20,19.76,-0.35,19.83,19.75,19.75,19.46,14.82,0.05,3656282,19.9,9.18,55.1,46.81,43.91,True,False,"T2,V1"
-BOX,Box Inc. Class A Common Stock,5.55,Technology,2026-10-20,41.75,3.19,40.79,35.79,34.3,34.66,28.17,1.1,2835236,41.77,21.34,26.21,46.75,43.85,True,False,T3
-SHOP,Shopify Inc. Class A Subordinate Voting Shares,221.66,Technology,2026-10-20,173.48,1.41,174.36,160.86,151.26,150.11,129.83,7.56,9796061,182.19,94.0,5.32,46.5,43.6,True,False,V1
-ANDG,Andersen Group Inc. Class A Common Stock,6.68,Consumer Discretionary,2026-10-20,60.65,3.41,60.21,56.42,55.37,54.23,37.65,2.09,470985,61.29,18.12,,46.43,43.53,False,False,U:objem
-SPSC,SPS Commerce Inc. Common Stock,3.08,Technology,2026-10-20,87.99,3.01,85.62,83.35,82.0,81.76,68.26,2.77,539079,114.87,49.04,-20.54,46.36,43.46,False,False,"U:objem,U:>15% pod maximom,U:rok v strate"
-ZBRA,Zebra Technologies Corporation Class A Common Stock,17.78,Industrials,2026-10-20,384.08,2.21,380.65,377.67,370.91,365.92,275.09,9.78,639220,390.8,199.05,27.41,46.18,43.28,False,False,U:objem
-PCOR,Procore Technologies Inc. Common Stock,8.81,Technology,2026-10-20,60.73,4.69,58.13,53.99,52.35,56.44,53.81,2.32,3165111,82.32,38.03,-16.1,45.81,42.91,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-MKTX,MarketAxess Holdings Inc. Common Stock,5.79,Finance,2026-10-20,164.49,-0.02,164.75,164.23,163.95,163.39,155.68,0.28,1096163,195.97,108.75,-3.77,45.63,42.73,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-ELF,e.l.f. Beauty Inc. Common Stock,6.7,Consumer Discretionary,2026-10-20,114.74,1.11,115.25,106.25,102.1,102.45,80.11,3.83,1781939,137.52,48.82,-9.95,45.19,42.29,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-CLF,Cleveland-Cliffs Inc. Common Stock,8.04,Basic Materials,2026-10-20,13.65,-3.19,14.58,12.28,12.15,12.07,11.34,0.87,20218633,16.7,7.73,-15.64,44.44,41.54,False,False,"U:>15% pod maximom,U:rok v strate,T3,T4,V1"
-CRL,Charles River Laboratories International Inc. Common Stock,14.32,Health Care,2026-10-20,315.45,5.14,305.99,298.39,292.06,290.3,216.16,13.18,949438,333.3,146.2,71.31,44.24,41.34,False,False,U:objem
-SNAP,Snap Inc. Class A Common Stock,10.6,Technology,2026-10-20,6.38,1.75,6.36,5.85,5.69,5.63,5.53,0.36,37767273,9.13,3.81,-17.46,42.73,39.83,False,False,"U:>15% pod maximom,U:rok v strate,T4"
-MSTR,Strategy Inc Common Stock Class A,57.4,Technology,2026-10-20,142.72,4.93,141.1,153.55,155.45,136.55,135.45,9.73,22280346,306.16,81.81,-51.88,42.71,39.81,False,False,"U:>15% pod maximom,U:rok v strate,T2,T4"
-TEM,Tempus AI Inc. Class A Common Stock,11.68,Technology,2026-10-20,66.75,3.75,67.7,74.2,76.61,68.3,56.83,6.23,6913326,96.29,40.77,-27.8,42.14,39.24,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,V1"
-OKTA,Okta Inc. Class A Common Stock,33.2,Technology,2026-10-20,194.02,2.15,194.4,210.0,207.84,181.6,119.59,10.83,3529979,235.0,62.66,119.68,41.94,39.04,False,False,"U:>15% pod maximom,T4,V1"
-TBBB,BBB Foods Inc. Class A Common Shares,6.88,Consumer Staples,2026-10-20,57.37,-1.75,59.48,54.5,53.04,51.54,40.95,1.66,744582,59.48,25.84,100.59,41.9,39.0,False,False,"U:objem,V1"
-INSP,Inspire Medical Systems Inc. Common Stock,2.03,Health Care,2026-10-20,71.34,1.7,70.28,69.62,70.66,66.65,59.57,2.92,802603,147.03,38.91,-11.71,41.55,38.65,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T2"
-RVTY,Revvity Inc. Common Stock,16.84,Industrials,2026-10-20,156.01,3.36,156.87,152.44,150.26,137.65,109.68,6.38,1836085,166.25,81.22,63.69,41.13,38.23,True,False,V1
-TWLO,Twilio Inc. Class A Common Stock,39.51,Technology,2026-10-20,258.69,0.54,259.79,281.05,279.78,254.45,184.12,17.22,2982180,308.4,105.0,137.29,41.07,38.17,False,False,"U:>15% pod maximom,T4,V1"
-PCTY,Paylocity Holding Corporation Common Stock,8.82,Technology,2026-10-20,170.06,2.34,167.17,151.99,146.96,150.45,125.42,4.23,688168,171.53,92.99,12.1,40.8,37.9,False,False,"U:objem,T3"
-BHC,Bausch Health Companies Inc. Common Stock,2.36,Health Care,2026-10-20,6.42,1.58,6.42,5.96,5.82,6.16,5.72,0.26,3260119,8.0,4.33,1.74,40.79,37.89,False,False,"U:>15% pod maximom,V1"
-ILMN,Illumina Inc. Common Stock,39.66,Health Care,2026-10-20,267.93,2.01,270.94,270.7,264.06,236.94,170.98,14.74,2787523,309.35,94.0,169.28,40.37,37.47,True,False,"T4,V1"
-CHYM,Chime Financial Inc. Class A Common Stock,11.22,Finance,2026-10-20,30.46,2.8,29.93,28.31,28.42,30.74,23.7,1.15,7335309,35.55,15.88,66.54,39.6,36.7,True,False,"T1,T2"
-OLLI,Ollie's Bargain Outlet Holdings Inc. Common Stock,5.56,Consumer Discretionary,2026-10-20,92.67,-1.01,94.44,88.05,84.01,80.54,88.17,3.17,1681206,130.4,60.29,-23.29,39.46,36.56,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-THC,Tenet Healthcare Corporation Common Stock,21.45,Health Care,2026-10-20,272.32,2.23,270.08,261.99,259.99,264.58,217.53,6.64,871906,283.05,157.58,34.74,39.4,36.5,False,False,U:objem
-VLO,Valero Energy Corporation Common Stock,124.76,Energy,2026-10-20,433.42,0.03,456.32,418.67,407.88,386.7,276.7,17.61,2928682,461.52,156.26,170.6,39.4,36.5,True,False,V1
-PEGA,Pegasystems Inc. Common Stock,5.76,Technology,2026-10-20,36.23,3.4,35.53,34.53,34.63,34.86,38.0,1.61,2443149,68.1,25.1,-33.87,39.4,36.5,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2"
-NSIT,Insight Enterprises Inc. Common Stock,4.81,Consumer Discretionary,2026-10-20,164.3,0.35,165.87,161.31,160.03,157.4,109.5,5.83,373379,177.34,63.62,50.09,39.39,36.49,False,False,"U:objem,V1"
-WAY,Waystar Holding Corp. Common Stock,5.37,Technology,2026-10-20,28.81,2.93,28.01,26.22,25.76,25.54,24.03,1.2,2462792,40.35,17.26,-22.05,38.58,35.68,False,False,"U:>15% pod maximom,U:rok v strate"
-SLDE,Slide Insurance Holdings Inc. Common Stock,3.17,Finance,2026-10-20,27.34,0.79,27.31,24.62,24.12,24.02,19.76,0.81,1170396,27.65,14.56,82.88,37.98,35.08,True,False,T3
-DINO,HF Sinclair Corporation Common Stock,22.12,Energy,2026-10-20,125.31,0.72,129.33,116.5,113.25,107.66,75.65,4.32,2650404,129.37,45.71,138.1,37.92,35.02,True,False,V1
-APA,APA Corporation Common Stock,17.43,Energy,2026-10-20,49.9,0.28,49.85,45.23,44.12,44.03,36.68,1.59,5607023,50.43,21.63,121.88,37.92,35.02,True,False,T3
-APPF,AppFolio Inc. Class A Common Stock,7.51,Technology,2026-10-20,223.7,5.56,213.73,204.59,204.7,211.26,184.02,8.6,376285,265.02,142.56,-6.94,37.91,35.01,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T2"
-CRVL,CorVel Corp. Common Stock,4.03,Finance,2026-10-20,81.31,1.99,80.42,76.72,74.54,72.06,61.96,2.04,191442,83.37,44.83,10.12,37.81,34.91,False,False,U:objem
-PSX,Phillips 66 Common Stock,115.94,Energy,2026-10-20,291.03,0.17,299.39,273.22,266.68,258.99,193.28,9.17,2822480,299.39,126.92,123.29,37.66,34.76,True,False,V1
-U,Unity Software Inc. Common Stock,17.86,Technology,2026-10-20,40.16,-1.03,41.17,43.14,43.43,43.51,31.86,2.22,10717546,52.15,16.78,13.86,37.21,34.31,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
-GWRE,Guidewire Software Inc. Common Stock,14.06,Technology,2026-10-20,183.58,7.08,173.02,160.31,153.87,167.38,149.26,7.9,1310077,255.89,102.3,-27.72,37.03,34.13,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2.66,Consumer Discretionary,2026-10-20,3.08,3.36,3.06,2.95,2.9,2.73,1.92,0.19,27123538,3.4,0.93,11.19,36.89,33.99,True,False,T4
-MNDY,monday.com Ltd. Ordinary Shares,4.01,Technology,2026-10-20,100.86,7.96,94.3,85.65,84.45,88.85,85.13,4.81,1339068,210.49,57.5,-45.78,36.46,33.56,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-MSFT,Microsoft Corporation Common Stock,3961.68,Technology,2026-10-20,531.87,-0.31,535.57,523.51,514.2,506.72,435.8,11.3,26484376,553.72,349.2,2.92,36.26,33.36,True,False,V1
-CBZ,CBIZ Inc. Common Stock,2.97,Consumer Discretionary,2026-10-20,54.89,0.2,54.88,54.74,54.7,54.69,40.07,0.1,1481706,56.41,24.29,5.88,36.07,33.17,True,True,
-PBR,Petroleo Brasileiro S.A. Petrobras ADS,164.72,Energy,2026-10-20,25.7,0.55,26.12,23.42,22.2,21.13,18.67,0.84,20963490,26.12,11.43,119.85,36.05,33.15,True,False,V1
-HNGE,Hinge Health Inc. Class A Common Stock,8.39,Technology,2026-10-20,107.51,3.41,104.19,99.32,96.89,94.09,64.44,4.18,1826650,108.0,30.08,109.65,35.95,33.05,True,True,
-CAKE,Cheesecake Factory Incorporated (The) Common Stock,5.78,Consumer Discretionary,2026-10-20,116.43,0.22,116.35,109.36,105.11,107.98,77.56,3.31,1578368,118.63,43.07,114.03,35.89,32.99,True,True,
-QLYS,Qualys Inc. Common Stock,6.58,Technology,2026-10-20,190.47,0.21,190.9,189.42,187.25,183.31,131.07,9.93,719220,206.25,74.51,49.24,35.83,32.93,False,False,"U:objem,T4,V1"
-TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares,48.14,Health Care,2026-10-20,40.85,-1.11,41.88,40.09,39.63,38.48,34.25,1.04,5710487,42.02,18.83,110.35,35.49,32.59,True,False,V1
-GMAB,Genmab A/S ADS,24.03,Health Care,2026-10-20,39.07,1.48,39.0,36.5,35.72,34.62,29.94,1.65,2970152,40.17,23.62,27.93,35.42,32.52,True,True,
-AVAH,Aveanna Healthcare Holdings Inc. Common Stock,2.71,Health Care,2026-10-20,12.75,2.49,12.58,12.44,12.74,12.87,9.05,0.38,3067830,14.71,5.93,24.15,35.21,32.31,True,False,"T1,T2"
-SN,SharkNinja Inc. Ordinary Shares,26.62,Consumer Discretionary,2026-10-20,198.72,5.18,192.18,184.27,178.52,180.31,139.38,6.11,1703269,198.97,83.12,114.11,35.08,32.18,True,True,
-HAFN,Hafnia Limited Common Shares,5.34,Consumer Discretionary,2026-10-20,10.17,1.9,10.36,10.05,9.93,9.2,7.84,0.41,2226557,11.1,5.17,71.79,35.06,32.16,True,False,V1
-IQV,IQVIA Holdings Inc. Common Stock,43.76,Health Care,2026-10-20,267.85,0.74,269.87,265.02,265.57,261.08,208.16,7.81,1471417,277.4,154.5,26.31,34.92,32.02,True,False,"T2,V1"
-HGTY,Hagerty Inc. Class A Common Stock,5.63,Finance,2026-10-20,15.46,-0.64,15.57,14.22,13.84,13.69,11.93,0.44,371396,15.79,9.36,38.65,34.9,32.0,False,False,"U:objem,V1"
-W,Wayfair Inc. Class A Common Stock,15.34,Consumer Discretionary,2026-10-20,113.56,1.41,113.09,104.58,103.13,102.95,88.6,4.83,2804169,119.98,55.6,36.61,34.71,31.81,True,True,
-ADMA,ADMA Biologics Inc Common Stock,2.48,Health Care,2026-10-20,11.23,1.45,11.14,10.2,9.81,9.76,11.24,0.38,2660904,20.46,7.21,-23.55,34.01,31.11,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3"
-PURR,Hyperliquid Strategies Inc Common Stock,2.5,Finance,2026-10-20,9.15,2.01,9.36,11.39,12.36,11.06,7.4,0.75,18439144,14.76,3.01,,33.58,30.68,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,V1"
-IMAX,Imax Corporation Common Stock,2.83,Consumer Discretionary,2026-10-20,52.44,1.49,52.01,52.76,53.07,52.5,42.19,1.9,1232774,57.73,31.27,61.65,33.44,30.54,True,False,"T1,T2"
-KNSA,Kiniksa Pharmaceuticals International plc Class A Ordinary Shares,6.2,Health Care,2026-10-20,83.17,4.64,80.61,77.58,77.1,78.04,58.43,2.87,603304,83.78,35.2,113.31,33.2,30.3,False,False,U:objem
-CCC,CCC Intelligent Solutions Holdings Inc. Common Stock,4.49,Technology,2026-10-20,7.63,0.0,7.63,7.02,6.74,7.04,6.1,0.24,18700601,9.44,4.08,-13.69,33.16,30.26,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-TYL,Tyler Technologies Inc. Common Stock,14.75,Technology,2026-10-20,377.17,4.74,363.14,337.39,331.25,343.64,338.87,10.83,820490,524.43,270.71,-26.08,32.66,29.76,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3"
-FRO,Frontline Plc Ordinary Shares,11.29,Consumer Discretionary,2026-10-20,50.32,-0.79,53.69,52.32,52.04,48.31,38.02,2.62,3256582,59.75,20.47,113.95,32.56,29.66,False,False,"U:>15% pod maximom,T4,V1"
-DSGX,Descartes Systems Group Inc. (The) Common Stock,7.41,Technology,2026-10-20,90.23,4.12,87.51,82.47,80.29,79.8,74.47,2.71,602711,97.71,62.56,-5.94,32.5,29.6,False,False,"U:objem,U:rok v strate"
-BTG,B2Gold Corp Common shares (Canada),6.88,Basic Materials,2026-10-20,5.2,-0.19,5.33,5.22,5.28,5.33,4.82,0.19,24242139,6.29,3.57,-8.77,31.65,28.75,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,V1"
-IDT,IDT Corporation Class B Common Stock,2.03,Telecommunications,2026-10-20,84.46,3.23,82.27,78.21,75.01,72.31,58.2,2.44,256571,84.56,46.48,74.11,31.54,28.64,False,False,U:objem
-ITGR,Integer Holdings Corporation Common Stock,4.31,Health Care,2026-10-20,126.7,-0.04,126.78,126.51,126.4,125.97,99.04,0.15,1087249,126.83,62.0,18.0,31.21,28.31,True,False,V1
-CGAU,Centerra Gold Inc. Common Shares,4.37,Basic Materials,2026-10-20,21.92,0.09,22.29,21.93,22.19,22.38,18.75,0.85,1424480,24.52,10.46,80.71,31.1,28.2,True,False,"T1,T2,V1"
-TMO,Thermo Fisher Scientific Inc Common Stock,251.2,Industrials,2026-10-20,687.37,1.18,692.99,670.82,663.27,640.15,548.3,20.92,2154876,704.0,435.27,26.39,30.56,27.66,True,False,V1
-NCNO,nCino Inc. Common Stock,2.15,Technology,2026-10-20,21.6,6.14,20.68,19.54,19.59,20.63,18.37,0.9,2295168,27.5,13.8,-13.08,30.12,27.22,False,False,"U:>15% pod maximom,U:rok v strate,T2,T3"
-MGNI,Magnite Inc. Common Stock,3.38,Technology,2026-10-20,23.81,1.1,23.64,24.6,24.88,24.28,17.36,0.92,2352265,26.84,10.82,27.53,30.11,27.21,True,False,"T1,T2"
-SAIL,SailPoint Inc. Common Stock,10.79,Technology,2026-10-20,19.23,1.75,19.36,20.11,20.42,19.53,15.99,1.08,4262136,23.08,10.3,-14.91,30.11,27.21,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,V1"
-CACI,CACI International Inc. Class A Common Stock,13.62,Technology,2026-10-20,607.75,-1.42,618.45,611.06,615.32,626.34,566.04,19.32,271438,683.5,434.7,15.36,30.02,27.12,False,False,"U:objem,T1,T2,V1"
+MRNA,Moderna Inc. Common Stock,90.58,Health Care,2026-10-20,242.08,6.69,236.77,206.85,190.02,161.93,79.44,19.28,19762468,243.98,22.28,788.69,316.88,313.98,False,False,"U:divoký,T3,T4,T6,T7"
+IOVA,Iovance Biotherapeutics Inc. Common Stock,6.44,Health Care,2026-10-20,14.86,4.57,14.74,13.47,12.43,10.45,5.42,0.92,16634725,15.3,1.76,540.52,187.43,184.53,False,False,"U:divoký,T3,T4,T6,T7"
+TEAM,Atlassian Corporation Class A Common Stock,54.15,Technology,2026-10-20,221.11,2.96,215.28,198.25,192.94,186.68,115.03,9.1,3975763,223.7,56.01,39.25,158.91,156.01,True,False,"T3,T6,T7"
+HTFL,Heartflow Inc. Common Stock,4.44,Health Care,2026-10-20,55.59,8.96,51.78,49.94,49.63,47.83,33.11,3.21,1874653,56.29,20.13,58.6,129.43,126.53,False,False,"U:deň >+8%,T3,T4,T6,T7"
+KOD,Kodiak Sciences Inc Common Stock,5.74,Health Care,2026-10-20,92.97,1.77,92.74,83.37,69.63,55.52,39.48,7.52,1693204,104.0,15.83,425.25,121.78,118.88,False,False,"U:divoký,T3,T4,T6,T7"
+RNG,RingCentral Inc. Class A Common Stock,6.61,Technology,2026-10-20,81.62,3.07,79.7,77.79,77.08,72.83,47.12,3.76,1845442,82.21,24.14,195.08,116.73,113.83,True,False,"T6,T7"
+ASST,Strive Inc. Class A Common Stock,3.17,Finance,2026-10-20,27.06,5.95,26.23,28.14,29.06,24.64,16.17,1.94,7794812,36.2,7.02,56.6,113.58,110.68,False,False,"U:>15% pod maximom,U:divoký,T2,T4,T6,T7"
+ABCL,AbCellera Biologics Inc. Common Shares,3.86,Health Care,2026-10-20,11.71,-1.84,12.28,12.93,13.03,12.07,6.52,0.81,6638460,15.02,2.74,99.83,104.36,101.46,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T7,V1"
+BRZE,Braze Inc. Class A Common Stock,3.41,Technology,2026-10-20,45.57,51.7,30.17,27.89,25.97,28.54,23.98,2.45,3431863,45.61,15.26,65.65,102.53,99.63,False,False,"U:deň >+8%,T3,T4,T6,T7"
+CAI,Caris Life Sciences Inc. Common Stock,8.68,Health Care,2026-10-20,31.11,1.3,31.99,30.11,29.95,27.39,21.33,2.17,4994888,33.13,14.19,-1.24,102.28,99.38,False,False,"U:rok v strate,T4,T6,T7,V1"
+FIGS,FIGS Inc. Class A Common Stock,3.23,Consumer Discretionary,2026-10-20,19.86,2.11,19.57,15.6,14.02,14.77,13.09,1.06,3355300,20.31,7.21,146.1,100.2,97.3,True,False,"T3,T4,T6,T7"
+APPN,Appian Corporation Class A Common Stock,3.03,Technology,2026-10-20,44.51,5.27,42.77,38.57,37.5,38.1,28.24,2.55,889249,46.06,18.63,52.38,96.6,93.7,False,False,"U:objem,T3,T4,T6,T7"
+VIA,Via Transportation Inc. Class A Common Stock,2.69,Technology,2026-10-20,34.03,3.28,33.22,31.05,29.77,28.55,20.66,1.49,765850,55.2,12.95,-28.75,94.46,91.56,False,False,"U:objem,U:>15% pod maximom,U:divoký,U:rok v strate,T6,T7"
+PAYC,Paycom Software Inc. Common Stock,11.4,Technology,2026-10-20,262.32,3.68,254.24,231.63,225.23,228.21,159.5,7.44,780420,264.49,104.9,30.45,88.31,85.41,False,False,"U:objem,T3,T6,T7"
+CDNA,CareDx Inc. Common Stock,3.47,Health Care,2026-10-20,69.2,3.16,68.05,64.46,61.5,55.8,31.51,4.44,1276403,72.51,14.03,354.66,83.17,80.27,False,False,"U:divoký,T4,T6,T7"
+XP,XP Inc. Class A Common Stock,15.68,Finance,2026-10-20,31.34,3.57,30.83,26.56,24.09,21.59,19.07,1.79,7781006,32.73,14.8,79.5,81.16,78.26,True,False,"T3,T4,T6,T7"
+NIQ,NIQ Global Intelligence plc Ordinary Shares,5.48,Technology,2026-10-20,19.09,2.69,18.77,17.85,17.7,18.06,13.09,0.67,1452053,19.69,7.93,37.83,79.59,76.69,True,False,T7
+CVI,CVR Energy Inc. Common Stock,6.02,Energy,2026-10-20,61.87,3.31,63.46,56.71,54.68,48.63,34.3,3.06,1018753,63.51,19.62,77.33,77.38,74.48,True,False,"T6,T7,V1"
+GRAL,GRAIL Inc. Common Stock ,5.47,Health Care,2026-10-20,124.67,1.84,124.5,133.05,123.66,100.6,76.42,11.18,993468,166.48,41.5,35.73,76.44,73.54,False,False,"U:objem,U:>15% pod maximom,U:divoký,T4,T6,T7"
+GTLB,GitLab Inc. Class A Common Stock,8.88,Technology,2026-10-20,55.0,3.21,53.72,51.31,50.15,47.83,33.26,2.84,4689734,57.89,18.73,16.77,75.44,72.54,True,False,"T4,T6,T7"
+RGC,Regencell Bioscience Holdings Limited Ordinary Shares,4.98,Health Care,2026-10-20,10.45,3.98,11.31,7.49,6.58,6.42,18.39,1.28,237755,69.0,4.51,-38.38,74.75,71.85,False,False,"U:objem,U:>15% pod maximom,U:divoký,U:rok v strate,T1,T3,T4,T6,T7,V1"
+BLKB,Blackbaud Inc. Common Stock,2.42,Technology,2026-10-20,53.57,0.62,53.59,45.71,43.59,45.77,41.54,1.75,513795,70.71,25.58,-16.77,73.25,70.35,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3,T6,T7,V1"
+VEEV,Veeva Systems Inc. Class A Common Stock,51.29,Technology,2026-10-20,318.67,0.59,318.28,290.48,278.22,272.22,205.83,10.48,1714363,322.0,148.05,11.46,72.67,69.77,True,False,"T6,T7"
+ATRC,AtriCure Inc. Common Stock,2.82,Health Care,2026-10-20,57.67,3.85,56.58,56.55,56.91,53.11,37.26,2.48,1079393,61.7,25.36,53.95,72.05,69.15,True,False,"T2,T6,T7"
+INTA,Intapp Inc. Common Stock,3.4,Technology,2026-10-20,44.78,1.11,44.75,38.79,37.13,39.38,30.01,1.64,651104,47.93,19.01,16.86,71.77,68.87,False,False,"U:objem,T3,T6,T7"
+PTC,PTC Inc. Common Stock,20.95,Technology,2026-10-20,193.35,0.15,193.61,172.28,157.81,155.81,146.18,5.46,2443942,206.82,108.5,-6.08,70.94,68.04,False,False,"U:rok v strate,T3,T6,T7,V1"
+ACN,Accenture plc Class A Ordinary Shares (Ireland),158.44,Consumer Discretionary,2026-10-20,239.12,0.92,237.23,202.99,192.26,191.62,192.6,10.85,6496455,291.09,118.15,-1.26,70.69,67.79,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+P,Everpure Inc. Class A common stock,42.35,Technology,2026-10-20,126.52,-0.45,130.36,136.78,130.67,116.99,83.1,7.86,4850079,157.57,56.78,39.05,69.64,66.74,False,False,"U:>15% pod maximom,T4,T6,T7,V1"
+ANF,Abercrombie & Fitch Company Common Stock,6.87,Consumer Discretionary,2026-10-20,161.73,-0.17,162.69,142.94,138.36,135.31,102.91,5.49,1576679,163.82,65.45,142.66,68.4,65.5,True,False,"T3,T6,T7,V1"
+DOCU,DocuSign Inc. Common Stock,14.33,Technology,2026-10-20,80.28,4.72,76.99,71.16,69.21,67.24,53.92,2.79,3155084,80.61,40.16,13.58,67.63,64.73,True,False,"T3,T6,T7"
+IT,Gartner Inc. Common Stock,13.12,Consumer Discretionary,2026-10-20,219.64,5.74,208.07,192.67,187.24,189.67,169.94,8.16,1212361,261.1,124.25,-8.28,66.27,63.37,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+ZETA,Zeta Global Holdings Corp. Class A Common Stock,8.16,Technology,2026-10-20,33.55,3.23,33.0,32.0,31.45,30.77,22.1,1.72,7395066,35.75,14.36,80.96,66.25,63.35,True,False,"T4,T6,T7"
+NTSK,Netskope Inc. Class A Common Stock,7.93,Technology,2026-10-20,19.82,2.06,19.78,19.06,18.57,16.86,12.87,1.16,5948647,24.98,7.66,-11.16,65.79,62.89,False,False,"U:>15% pod maximom,U:rok v strate,T4,T6,T7"
+ESTC,Elastic N.V. Ordinary Shares,10.03,Technology,2026-10-20,95.63,1.09,95.93,93.13,91.56,89.25,66.19,4.15,2315106,108.0,42.05,14.08,62.97,60.07,True,False,"T7,V1"
+DOCS,Doximity Inc. Class A Common Stock,5.61,Technology,2026-10-20,33.35,6.04,31.57,28.94,27.67,27.01,25.97,1.34,4568950,71.37,17.15,-50.96,62.76,59.86,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T3,T6,T7"
+AMLX,Amylyx Pharmaceuticals Inc. Common Stock,3.43,Health Care,2026-10-20,28.77,5.27,27.35,28.22,29.58,30.9,19.44,1.34,2330596,41.14,10.83,87.18,62.54,59.64,False,False,"U:>15% pod maximom,T1,T2,T7"
+WIX,Wix.com Ltd. Ordinary Shares,3.22,Technology,2026-10-20,79.04,2.68,77.09,74.54,75.33,77.76,71.21,4.03,1409128,148.33,40.16,-42.55,62.43,59.53,False,False,"U:>15% pod maximom,U:rok v strate,T2,T4,T7"
+HURN,Huron Consulting Group Inc. Common Stock,2.78,Consumer Discretionary,2026-10-20,180.81,3.49,176.15,165.7,160.98,159.73,137.77,6.77,279114,186.78,84.88,19.11,62.1,59.2,False,False,"U:objem,T6,T7"
+HALO,Halozyme Therapeutics Inc. Common Stock,13.9,Health Care,2026-10-20,124.37,1.53,123.6,113.5,111.01,109.74,81.16,3.66,2271528,125.1,61.23,87.11,59.82,56.92,True,False,"T6,T7"
+GCT,GigaCloud Technology Inc Class A Ordinary Shares,2.07,Consumer Discretionary,2026-10-20,58.93,1.67,58.55,55.36,53.98,53.04,43.23,2.33,670092,60.45,25.39,117.13,58.84,55.94,False,False,"U:objem,T6,T7"
+CTSH,Cognizant Technology Solutions Corporation Class A Common Stock,30.09,Technology,2026-10-20,68.18,2.08,66.84,60.3,58.92,60.76,59.63,2.71,7366622,87.03,37.08,2.22,57.9,55.0,False,False,"U:>15% pod maximom,T3,T6,T7"
+MH,McGraw Hill Inc. Common Stock,2.65,Consumer Discretionary,2026-10-20,14.27,2.88,14.1,13.31,13.14,13.1,12.68,0.53,605565,18.0,8.94,9.77,56.81,53.91,False,False,"U:objem,U:>15% pod maximom,T6,T7"
+NOW,ServiceNow Inc. Common Stock,150.3,Technology,2026-10-20,149.54,2.88,145.48,138.93,137.08,135.7,115.01,6.27,16600142,192.97,81.24,-18.51,56.65,53.75,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7"
+MANH,Manhattan Associates Inc. Common Stock,13.14,Technology,2026-10-20,232.86,3.3,227.39,211.26,207.42,210.24,163.67,7.32,766180,233.32,119.06,16.42,56.17,53.27,False,False,"U:objem,T3,T6,T7"
+ECO,Okeanis Eco Tankers Corp. Common Stock,3.47,Consumer Discretionary,2026-10-20,88.19,-0.89,92.72,87.41,85.63,77.07,56.67,5.01,703049,100.68,30.58,181.76,56.17,53.27,False,False,"U:objem,T4,T6,T7,V1"
+ASAN,Asana Inc. Class A Common Stock,2.32,Technology,2026-10-20,10.74,5.81,10.24,9.45,9.29,9.44,8.15,0.59,6190400,15.28,5.38,-26.54,56.1,53.2,False,False,"U:>15% pod maximom,U:rok v strate,T3,T4,T6,T7"
+RBRK,Rubrik Inc. Class A Common Stock,23.51,Technology,2026-10-20,114.59,1.04,115.42,117.24,115.82,105.81,74.36,6.1,3240438,127.9,42.25,45.4,55.5,52.6,True,False,"T4,T6,T7,V1"
+DXC,DXC Technology Company Common Stock ,2.28,Technology,2026-10-20,14.63,2.59,15.31,12.06,11.39,11.48,11.52,0.72,3670542,15.68,7.9,12.63,55.47,52.57,True,False,"T3,T6,T7,V1"
+PLSE,Pulse Biosciences Inc Common Stock (DE),3.39,Health Care,2026-10-20,50.84,6.92,48.12,49.76,51.03,49.89,29.81,3.46,521119,58.9,12.56,179.19,55.19,52.29,False,False,"U:objem,U:divoký,T2,T4,T7"
+PLTR,Palantir Technologies Inc. Class A Common Stock,466.36,Technology,2026-10-20,192.6,-0.8,196.99,194.48,190.59,183.36,152.85,8.19,32398539,212.94,106.37,6.06,54.61,51.71,True,False,"T7,V1"
+PRGO,Perrigo Company plc Ordinary Shares,2.23,Health Care,2026-10-20,16.17,0.5,16.79,15.09,14.47,14.37,12.4,0.71,2823687,22.02,9.23,-25.48,54.44,51.54,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7,V1"
+WDAY,Workday Inc. Class A Common Stock,47.04,Technology,2026-10-20,203.98,4.5,195.32,189.89,189.17,192.16,155.68,7.17,3647982,247.4,110.36,-15.43,54.04,51.14,False,False,"U:>15% pod maximom,U:rok v strate,T7"
+SAP,SAP  SE ADS,277.68,Technology,2026-10-20,228.98,1.31,226.58,214.82,211.39,213.7,191.93,5.1,2507020,281.37,144.97,-17.61,53.94,51.04,False,False,"U:>15% pod maximom,U:rok v strate,T7"
+DT,Dynatrace Inc. Common Stock,17.79,Technology,2026-10-20,63.64,3.41,62.44,60.79,59.1,55.45,43.67,2.12,6767707,66.3,31.64,26.98,53.87,50.97,True,False,"T6,T7"
+NTRA,Natera Inc. Common Stock,57.57,Health Care,2026-10-20,405.92,1.63,408.2,403.78,396.0,361.38,259.23,18.73,1474860,437.41,181.0,115.23,53.63,50.73,True,False,"T6,T7,V1"
+EXLS,ExlService Holdings Inc. Common Stock,6.03,Consumer Discretionary,2026-10-20,40.86,2.77,39.92,36.58,35.59,36.36,32.73,1.19,2250519,43.88,24.85,0.37,52.29,49.39,True,False,"T3,T6,T7"
+WK,Workiva Inc. Class A Common Stock,4.18,Technology,2026-10-20,79.26,3.3,77.43,71.99,71.03,73.15,63.01,3.35,1072412,97.1,43.34,-11.47,52.28,49.38,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+TXG,10x Genomics Inc. Class A Common Stock,9.11,Industrials,2026-10-20,71.46,2.25,72.48,80.64,82.1,71.51,38.35,7.58,3344680,102.81,11.87,443.84,51.88,48.98,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T7,V1"
+AVTR,Avantor Inc. Common Stock,11.02,Industrials,2026-10-20,16.62,2.03,16.55,15.56,15.35,14.98,11.01,0.5,9441284,16.83,7.26,9.49,51.78,48.88,True,False,"T6,T7"
+HAE,Haemonetics Corporation Common Stock,5.4,Health Care,2026-10-20,118.21,-0.44,119.82,111.68,108.77,106.43,77.15,4.32,737712,123.77,48.98,133.11,51.49,48.59,False,False,"U:objem,T6,T7,V1"
+TWST,Twist Bioscience Corporation Common Stock,9.27,Health Care,2026-10-20,142.7,2.1,141.8,165.58,169.99,148.75,84.35,16.65,2217466,219.71,23.3,335.86,51.47,48.57,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T7"
+VEON,VEON Ltd. ADS,5.66,Telecommunications,2026-10-20,80.43,-2.13,84.5,76.92,73.72,68.54,56.48,2.96,146049,85.27,42.6,51.21,51.24,48.34,False,False,"U:objem,T6,T7,V1"
+EPAM,EPAM Systems Inc. Common Stock,6.57,Technology,2026-10-20,130.68,2.59,128.33,113.57,111.36,112.56,125.09,5.67,1282333,222.53,73.06,-9.88,50.95,48.05,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+ZS,Zscaler Inc. Common Stock,34.65,Technology,2026-10-20,214.51,0.93,214.88,211.15,207.55,193.61,165.74,10.51,2864722,336.99,114.62,-29.88,50.79,47.89,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7,V1"
+AUGO,Aura Minerals Inc. Common Shares,7.21,Basic Materials,2026-10-20,84.25,-2.07,88.94,84.06,85.04,84.42,74.91,4.78,952441,110.32,29.11,124.31,50.74,47.84,False,False,"U:objem,U:>15% pod maximom,T1,T2,T4,T7,V1"
+MPC,Marathon Petroleum Corporation Common Stock,133.02,Energy,2026-10-20,475.04,0.28,493.98,437.16,420.37,402.43,279.46,17.16,2504882,493.98,161.93,155.03,50.41,47.51,True,False,"T6,T7,V1"
+FIVN,Five9 Inc. Common Stock,2.49,Technology,2026-10-20,34.31,2.91,33.44,34.75,35.18,33.74,23.44,2.18,2556931,40.0,13.29,52.96,49.5,46.6,True,False,"T2,T4,T7"
+PRCH,Porch Group Inc. Common Stock,2.33,Technology,2026-10-20,18.18,3.0,17.98,17.14,16.85,16.97,11.67,0.81,1599557,18.41,6.36,16.09,49.14,46.24,True,False,T7
+CRM,Salesforce Inc. Common Stock,199.54,Technology,2026-10-20,242.43,-0.01,243.01,233.99,233.63,232.01,198.88,8.55,12708415,269.11,146.32,-4.66,48.73,45.83,False,False,"U:rok v strate,T7,V1"
+OPCH,Option Care Health Inc. Common Stock,4.67,Health Care,2026-10-20,31.36,0.48,31.28,27.43,25.68,25.28,26.38,0.78,3871615,36.8,18.01,10.5,48.27,45.37,True,False,"T3,T6,T7"
+FRSH,Freshworks Inc. Class A Common Stock,3.69,Technology,2026-10-20,14.85,5.1,14.19,13.43,13.03,13.01,10.29,0.61,6866507,14.98,6.79,32.35,47.61,44.71,True,False,"T3,T6,T7"
+ARX,Accelerant Holdings Class A Common Shares,4.31,Finance,2026-10-20,19.76,-0.35,19.83,19.75,19.75,19.46,14.82,0.05,3656282,19.9,9.18,55.1,46.81,43.91,True,False,"T2,T7,V1"
+BOX,Box Inc. Class A Common Stock,5.55,Technology,2026-10-20,41.75,3.19,40.79,35.79,34.3,34.66,28.17,1.1,2835236,41.77,21.34,26.21,46.75,43.85,True,False,"T3,T6,T7"
+SHOP,Shopify Inc. Class A Subordinate Voting Shares,221.66,Technology,2026-10-20,173.48,1.41,174.36,160.86,151.26,150.11,129.83,7.56,9796061,182.19,94.0,5.32,46.5,43.6,True,False,"T6,T7,V1"
+ANDG,Andersen Group Inc. Class A Common Stock,6.68,Consumer Discretionary,2026-10-20,60.65,3.41,60.21,56.42,55.37,54.23,37.65,2.09,470985,61.29,18.12,,46.43,43.53,False,False,"U:objem,T6,T7"
+SPSC,SPS Commerce Inc. Common Stock,3.08,Technology,2026-10-20,87.99,3.01,85.62,83.35,82.0,81.76,68.26,2.77,539079,114.87,49.04,-20.54,46.36,43.46,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T7"
+ZBRA,Zebra Technologies Corporation Class A Common Stock,17.78,Industrials,2026-10-20,384.08,2.21,380.65,377.67,370.91,365.92,275.09,9.78,639220,390.8,199.05,27.41,46.18,43.28,False,False,"U:objem,T7"
+PCOR,Procore Technologies Inc. Common Stock,8.81,Technology,2026-10-20,60.73,4.69,58.13,53.99,52.35,56.44,53.81,2.32,3165111,82.32,38.03,-16.1,45.81,42.91,False,False,"U:>15% pod maximom,U:rok v strate,T3,T7"
+MKTX,MarketAxess Holdings Inc. Common Stock,5.79,Finance,2026-10-20,164.49,-0.02,164.75,164.23,163.95,163.39,155.68,0.28,1096163,195.97,108.75,-3.77,45.63,42.73,False,False,"U:>15% pod maximom,U:rok v strate,T7,V1"
+ELF,e.l.f. Beauty Inc. Common Stock,6.7,Consumer Discretionary,2026-10-20,114.74,1.11,115.25,106.25,102.1,102.45,80.11,3.83,1781939,137.52,48.82,-9.95,45.19,42.29,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7,V1"
+CLF,Cleveland-Cliffs Inc. Common Stock,8.04,Basic Materials,2026-10-20,13.65,-3.19,14.58,12.28,12.15,12.07,11.34,0.87,20218633,16.7,7.73,-15.64,44.44,41.54,False,False,"U:>15% pod maximom,U:rok v strate,T3,T4,T6,T7,V1"
+CRL,Charles River Laboratories International Inc. Common Stock,14.32,Health Care,2026-10-20,315.45,5.14,305.99,298.39,292.06,290.3,216.16,13.18,949438,333.3,146.2,71.31,44.24,41.34,False,False,"U:objem,T6,T7"
+SNAP,Snap Inc. Class A Common Stock,10.6,Technology,2026-10-20,6.38,1.75,6.36,5.85,5.69,5.63,5.53,0.36,37767273,9.13,3.81,-17.46,42.73,39.83,False,False,"U:>15% pod maximom,U:rok v strate,T4,T6,T7"
+MSTR,Strategy Inc Common Stock Class A,57.4,Technology,2026-10-20,142.72,4.93,141.1,153.55,155.45,136.55,135.45,9.73,22280346,306.16,81.81,-51.88,42.71,39.81,False,False,"U:>15% pod maximom,U:rok v strate,T2,T4,T7"
+TEM,Tempus AI Inc. Class A Common Stock,11.68,Technology,2026-10-20,66.75,3.75,67.7,74.2,76.61,68.3,56.83,6.23,6913326,96.29,40.77,-27.8,42.14,39.24,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,T7,V1"
+OKTA,Okta Inc. Class A Common Stock,33.2,Technology,2026-10-20,194.02,2.15,194.4,210.0,207.84,181.6,119.59,10.83,3529979,235.0,62.66,119.68,41.94,39.04,False,False,"U:>15% pod maximom,T4,T7,V1"
+TBBB,BBB Foods Inc. Class A Common Shares,6.88,Consumer Staples,2026-10-20,57.37,-1.75,59.48,54.5,53.04,51.54,40.95,1.66,744582,59.48,25.84,100.59,41.9,39.0,False,False,"U:objem,T6,T7,V1"
+INSP,Inspire Medical Systems Inc. Common Stock,2.03,Health Care,2026-10-20,71.34,1.7,70.28,69.62,70.66,66.65,59.57,2.92,802603,147.03,38.91,-11.71,41.55,38.65,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T2,T7"
+RVTY,Revvity Inc. Common Stock,16.84,Industrials,2026-10-20,156.01,3.36,156.87,152.44,150.26,137.65,109.68,6.38,1836085,166.25,81.22,63.69,41.13,38.23,True,False,"T6,T7,V1"
+TWLO,Twilio Inc. Class A Common Stock,39.51,Technology,2026-10-20,258.69,0.54,259.79,281.05,279.78,254.45,184.12,17.22,2982180,308.4,105.0,137.29,41.07,38.17,False,False,"U:>15% pod maximom,T4,T7,V1"
+PCTY,Paylocity Holding Corporation Common Stock,8.82,Technology,2026-10-20,170.06,2.34,167.17,151.99,146.96,150.45,125.42,4.23,688168,171.53,92.99,12.1,40.8,37.9,False,False,"U:objem,T3,T6,T7"
+BHC,Bausch Health Companies Inc. Common Stock,2.36,Health Care,2026-10-20,6.42,1.58,6.42,5.96,5.82,6.16,5.72,0.26,3260119,8.0,4.33,1.74,40.79,37.89,False,False,"U:>15% pod maximom,T7,V1"
+ILMN,Illumina Inc. Common Stock,39.66,Health Care,2026-10-20,267.93,2.01,270.94,270.7,264.06,236.94,170.98,14.74,2787523,309.35,94.0,169.28,40.37,37.47,True,False,"T4,T6,T7,V1"
+CHYM,Chime Financial Inc. Class A Common Stock,11.22,Finance,2026-10-20,30.46,2.8,29.93,28.31,28.42,30.74,23.7,1.15,7335309,35.55,15.88,66.54,39.6,36.7,True,False,"T1,T2,T7"
+OLLI,Ollie's Bargain Outlet Holdings Inc. Common Stock,5.56,Consumer Discretionary,2026-10-20,92.67,-1.01,94.44,88.05,84.01,80.54,88.17,3.17,1681206,130.4,60.29,-23.29,39.46,36.56,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7,V1"
+THC,Tenet Healthcare Corporation Common Stock,21.45,Health Care,2026-10-20,272.32,2.23,270.08,261.99,259.99,264.58,217.53,6.64,871906,283.05,157.58,34.74,39.4,36.5,False,False,"U:objem,T7"
+VLO,Valero Energy Corporation Common Stock,124.76,Energy,2026-10-20,433.42,0.03,456.32,418.67,407.88,386.7,276.7,17.61,2928682,461.52,156.26,170.6,39.4,36.5,True,False,"T6,T7,V1"
+PEGA,Pegasystems Inc. Common Stock,5.76,Technology,2026-10-20,36.23,3.4,35.53,34.53,34.63,34.86,38.0,1.61,2443149,68.1,25.1,-33.87,39.4,36.5,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T7"
+NSIT,Insight Enterprises Inc. Common Stock,4.81,Consumer Discretionary,2026-10-20,164.3,0.35,165.87,161.31,160.03,157.4,109.5,5.83,373379,177.34,63.62,50.09,39.39,36.49,False,False,"U:objem,T7,V1"
+WAY,Waystar Holding Corp. Common Stock,5.37,Technology,2026-10-20,28.81,2.93,28.01,26.22,25.76,25.54,24.03,1.2,2462792,40.35,17.26,-22.05,38.58,35.68,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7"
+SLDE,Slide Insurance Holdings Inc. Common Stock,3.17,Finance,2026-10-20,27.34,0.79,27.31,24.62,24.12,24.02,19.76,0.81,1170396,27.65,14.56,82.88,37.98,35.08,True,False,"T3,T6,T7"
+DINO,HF Sinclair Corporation Common Stock,22.12,Energy,2026-10-20,125.31,0.72,129.33,116.5,113.25,107.66,75.65,4.32,2650404,129.37,45.71,138.1,37.92,35.02,True,False,"T6,T7,V1"
+APA,APA Corporation Common Stock,17.43,Energy,2026-10-20,49.9,0.28,49.85,45.23,44.12,44.03,36.68,1.59,5607023,50.43,21.63,121.88,37.92,35.02,True,False,"T3,T6,T7"
+APPF,AppFolio Inc. Class A Common Stock,7.51,Technology,2026-10-20,223.7,5.56,213.73,204.59,204.7,211.26,184.02,8.6,376285,265.02,142.56,-6.94,37.91,35.01,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T2,T7"
+CRVL,CorVel Corp. Common Stock,4.03,Finance,2026-10-20,81.31,1.99,80.42,76.72,74.54,72.06,61.96,2.04,191442,83.37,44.83,10.12,37.81,34.91,False,False,"U:objem,T6,T7"
+PSX,Phillips 66 Common Stock,115.94,Energy,2026-10-20,291.03,0.17,299.39,273.22,266.68,258.99,193.28,9.17,2822480,299.39,126.92,123.29,37.66,34.76,True,False,"T6,T7,V1"
+U,Unity Software Inc. Common Stock,17.86,Technology,2026-10-20,40.16,-1.03,41.17,43.14,43.43,43.51,31.86,2.22,10717546,52.15,16.78,13.86,37.21,34.31,False,False,"U:>15% pod maximom,T1,T2,T4,T7,V1"
+GWRE,Guidewire Software Inc. Common Stock,14.06,Technology,2026-10-20,183.58,7.08,173.02,160.31,153.87,167.38,149.26,7.9,1310077,255.89,102.3,-27.72,37.03,34.13,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+AMC,AMC Entertainment Holdings Inc. Class A Common Stock,2.66,Consumer Discretionary,2026-10-20,3.08,3.36,3.06,2.95,2.9,2.73,1.92,0.19,27123538,3.4,0.93,11.19,36.89,33.99,True,False,"T4,T6,T7"
+MNDY,monday.com Ltd. Ordinary Shares,4.01,Technology,2026-10-20,100.86,7.96,94.3,85.65,84.45,88.85,85.13,4.81,1339068,210.49,57.5,-45.78,36.46,33.56,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+MSFT,Microsoft Corporation Common Stock,3961.68,Technology,2026-10-20,531.87,-0.31,535.57,523.51,514.2,506.72,435.8,11.3,26484376,553.72,349.2,2.92,36.26,33.36,True,False,"T7,V1"
+CBZ,CBIZ Inc. Common Stock,2.97,Consumer Discretionary,2026-10-20,54.89,0.2,54.88,54.74,54.7,54.69,40.07,0.1,1481706,56.41,24.29,5.88,36.07,33.17,True,False,T7
+PBR,Petroleo Brasileiro S.A. Petrobras ADS,164.72,Energy,2026-10-20,25.7,0.55,26.12,23.42,22.2,21.13,18.67,0.84,20963490,26.12,11.43,119.85,36.05,33.15,True,False,"T6,T7,V1"
+HNGE,Hinge Health Inc. Class A Common Stock,8.39,Technology,2026-10-20,107.51,3.41,104.19,99.32,96.89,94.09,64.44,4.18,1826650,108.0,30.08,109.65,35.95,33.05,True,False,"T6,T7"
+CAKE,Cheesecake Factory Incorporated (The) Common Stock,5.78,Consumer Discretionary,2026-10-20,116.43,0.22,116.35,109.36,105.11,107.98,77.56,3.31,1578368,118.63,43.07,114.03,35.89,32.99,True,False,T7
+QLYS,Qualys Inc. Common Stock,6.58,Technology,2026-10-20,190.47,0.21,190.9,189.42,187.25,183.31,131.07,9.93,719220,206.25,74.51,49.24,35.83,32.93,False,False,"U:objem,T4,T7,V1"
+TEVA,Teva Pharmaceutical Industries Limited Ordinary Shares,48.14,Health Care,2026-10-20,40.85,-1.11,41.88,40.09,39.63,38.48,34.25,1.04,5710487,42.02,18.83,110.35,35.49,32.59,True,False,"T7,V1"
+GMAB,Genmab A/S ADS,24.03,Health Care,2026-10-20,39.07,1.48,39.0,36.5,35.72,34.62,29.94,1.65,2970152,40.17,23.62,27.93,35.42,32.52,True,False,"T6,T7"
+AVAH,Aveanna Healthcare Holdings Inc. Common Stock,2.71,Health Care,2026-10-20,12.75,2.49,12.58,12.44,12.74,12.87,9.05,0.38,3067830,14.71,5.93,24.15,35.21,32.31,True,False,"T1,T2,T7"
+SN,SharkNinja Inc. Ordinary Shares,26.62,Consumer Discretionary,2026-10-20,198.72,5.18,192.18,184.27,178.52,180.31,139.38,6.11,1703269,198.97,83.12,114.11,35.08,32.18,True,False,"T6,T7"
+HAFN,Hafnia Limited Common Shares,5.34,Consumer Discretionary,2026-10-20,10.17,1.9,10.36,10.05,9.93,9.2,7.84,0.41,2226557,11.1,5.17,71.79,35.06,32.16,True,False,"T6,T7,V1"
+IQV,IQVIA Holdings Inc. Common Stock,43.76,Health Care,2026-10-20,267.85,0.74,269.87,265.02,265.57,261.08,208.16,7.81,1471417,277.4,154.5,26.31,34.92,32.02,True,False,"T2,T7,V1"
+HGTY,Hagerty Inc. Class A Common Stock,5.63,Finance,2026-10-20,15.46,-0.64,15.57,14.22,13.84,13.69,11.93,0.44,371396,15.79,9.36,38.65,34.9,32.0,False,False,"U:objem,T6,T7,V1"
+W,Wayfair Inc. Class A Common Stock,15.34,Consumer Discretionary,2026-10-20,113.56,1.41,113.09,104.58,103.13,102.95,88.6,4.83,2804169,119.98,55.6,36.61,34.71,31.81,True,False,"T6,T7"
+ADMA,ADMA Biologics Inc Common Stock,2.48,Health Care,2026-10-20,11.23,1.45,11.14,10.2,9.81,9.76,11.24,0.38,2660904,20.46,7.21,-23.55,34.01,31.11,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T6,T7"
+PURR,Hyperliquid Strategies Inc Common Stock,2.5,Finance,2026-10-20,9.15,2.01,9.36,11.39,12.36,11.06,7.4,0.75,18439144,14.76,3.01,,33.58,30.68,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T7,V1"
+IMAX,Imax Corporation Common Stock,2.83,Consumer Discretionary,2026-10-20,52.44,1.49,52.01,52.76,53.07,52.5,42.19,1.9,1232774,57.73,31.27,61.65,33.44,30.54,True,False,"T1,T2,T7"
+KNSA,Kiniksa Pharmaceuticals International plc Class A Ordinary Shares,6.2,Health Care,2026-10-20,83.17,4.64,80.61,77.58,77.1,78.04,58.43,2.87,603304,83.78,35.2,113.31,33.2,30.3,False,False,"U:objem,T7"
+CCC,CCC Intelligent Solutions Holdings Inc. Common Stock,4.49,Technology,2026-10-20,7.63,0.0,7.63,7.02,6.74,7.04,6.1,0.24,18700601,9.44,4.08,-13.69,33.16,30.26,False,False,"U:>15% pod maximom,U:rok v strate,T6,T7,V1"
+TYL,Tyler Technologies Inc. Common Stock,14.75,Technology,2026-10-20,377.17,4.74,363.14,337.39,331.25,343.64,338.87,10.83,820490,524.43,270.71,-26.08,32.66,29.76,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3,T6,T7"
+FRO,Frontline Plc Ordinary Shares,11.29,Consumer Discretionary,2026-10-20,50.32,-0.79,53.69,52.32,52.04,48.31,38.02,2.62,3256582,59.75,20.47,113.95,32.56,29.66,False,False,"U:>15% pod maximom,T4,T7,V1"
+DSGX,Descartes Systems Group Inc. (The) Common Stock,7.41,Technology,2026-10-20,90.23,4.12,87.51,82.47,80.29,79.8,74.47,2.71,602711,97.71,62.56,-5.94,32.5,29.6,False,False,"U:objem,U:rok v strate,T6,T7"
+BTG,B2Gold Corp Common shares (Canada),6.88,Basic Materials,2026-10-20,5.2,-0.19,5.33,5.22,5.28,5.33,4.82,0.19,24242139,6.29,3.57,-8.77,31.65,28.75,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T7,V1"
+IDT,IDT Corporation Class B Common Stock,2.03,Telecommunications,2026-10-20,84.46,3.23,82.27,78.21,75.01,72.31,58.2,2.44,256571,84.56,46.48,74.11,31.54,28.64,False,False,"U:objem,T6,T7"
+ITGR,Integer Holdings Corporation Common Stock,4.31,Health Care,2026-10-20,126.7,-0.04,126.78,126.51,126.4,125.97,99.04,0.15,1087249,126.83,62.0,18.0,31.21,28.31,True,False,"T7,V1"
+CGAU,Centerra Gold Inc. Common Shares,4.37,Basic Materials,2026-10-20,21.92,0.09,22.29,21.93,22.19,22.38,18.75,0.85,1424480,24.52,10.46,80.71,31.1,28.2,True,False,"T1,T2,T7,V1"
+TMO,Thermo Fisher Scientific Inc Common Stock,251.2,Industrials,2026-10-20,687.37,1.18,692.99,670.82,663.27,640.15,548.3,20.92,2154876,704.0,435.27,26.39,30.56,27.66,True,False,"T7,V1"
+NCNO,nCino Inc. Common Stock,2.15,Technology,2026-10-20,21.6,6.14,20.68,19.54,19.59,20.63,18.37,0.9,2295168,27.5,13.8,-13.08,30.12,27.22,False,False,"U:>15% pod maximom,U:rok v strate,T2,T3,T7"
+MGNI,Magnite Inc. Common Stock,3.38,Technology,2026-10-20,23.81,1.1,23.64,24.6,24.88,24.28,17.36,0.92,2352265,26.84,10.82,27.53,30.11,27.21,True,False,"T1,T2,T7"
+SAIL,SailPoint Inc. Common Stock,10.79,Technology,2026-10-20,19.23,1.75,19.36,20.11,20.42,19.53,15.99,1.08,4262136,23.08,10.3,-14.91,30.11,27.21,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,T7,V1"
+CACI,CACI International Inc. Class A Common Stock,13.62,Technology,2026-10-20,607.75,-1.42,618.45,611.06,615.32,626.34,566.04,19.32,271438,683.5,434.7,15.36,30.02,27.12,False,False,"U:objem,T1,T2,T7,V1"
 CRCL,Circle Internet Group Inc. Class A Common Stock,20.66,Finance,2026-10-20,85.87,5.53,84.8,84.36,85.89,86.07,86.1,5.45,13025661,147.44,49.9,-34.36,29.79,26.89,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4"
 SSNC,SS&C Technologies Holdings Inc. Common Stock,19.86,Technology,2026-10-20,86.92,2.72,85.26,80.41,79.33,81.07,74.38,1.66,1605382,89.93,61.4,6.79,29.69,26.79,True,True,
-A,Agilent Technologies Inc. Common Stock,47.9,Industrials,2026-10-20,173.01,1.83,175.0,171.24,167.75,159.86,134.85,4.7,2226949,177.47,108.35,20.99,29.63,26.73,True,False,V1
-VERX,Vertex Inc. Class A Common Stock,2.19,Technology,2026-10-20,14.32,5.84,13.55,12.45,12.1,12.8,13.48,0.57,1816733,26.54,10.21,-44.17,29.59,26.69,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-TRI,Thomson Reuters Corporation Common Shares,46.89,Consumer Discretionary,2026-10-20,112.82,4.24,109.42,101.88,99.03,102.36,96.88,3.38,1791044,164.3,76.28,-29.86,29.19,26.29,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-PBF,PBF Energy Inc. Class A Common Stock,9.63,Energy,2026-10-20,83.0,2.14,87.45,81.58,79.02,76.63,51.78,4.94,3345466,92.46,25.62,181.26,29.02,26.12,True,False,"T4,V1"
-G,Genpact Limited Common Stock,6.3,Consumer Discretionary,2026-10-20,38.7,2.71,37.85,34.58,33.86,35.33,35.82,1.33,2132685,48.64,26.85,-2.91,28.96,26.06,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-TRMD,TORM plc Class A Common Stock,3.86,Consumer Discretionary,2026-10-20,38.01,1.06,39.15,38.25,37.79,35.14,29.93,1.6,1450750,41.86,19.3,81.09,28.93,26.03,True,False,V1
+A,Agilent Technologies Inc. Common Stock,47.9,Industrials,2026-10-20,173.01,1.83,175.0,171.24,167.75,159.86,134.85,4.7,2226949,177.47,108.35,20.99,29.63,26.73,True,False,"T6,V1"
+VERX,Vertex Inc. Class A Common Stock,2.19,Technology,2026-10-20,14.32,5.84,13.55,12.45,12.1,12.8,13.48,0.57,1816733,26.54,10.21,-44.17,29.59,26.69,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
+TRI,Thomson Reuters Corporation Common Shares,46.89,Consumer Discretionary,2026-10-20,112.82,4.24,109.42,101.88,99.03,102.36,96.88,3.38,1791044,164.3,76.28,-29.86,29.19,26.29,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
+PBF,PBF Energy Inc. Class A Common Stock,9.63,Energy,2026-10-20,83.0,2.14,87.45,81.58,79.02,76.63,51.78,4.94,3345466,92.46,25.62,181.26,29.02,26.12,True,False,"T4,T6,V1"
+G,Genpact Limited Common Stock,6.3,Consumer Discretionary,2026-10-20,38.7,2.71,37.85,34.58,33.86,35.33,35.82,1.33,2132685,48.64,26.85,-2.91,28.96,26.06,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
+TRMD,TORM plc Class A Common Stock,3.86,Consumer Discretionary,2026-10-20,38.01,1.06,39.15,38.25,37.79,35.14,29.93,1.6,1450750,41.86,19.3,81.09,28.93,26.03,True,False,"T6,V1"
 PI,Impinj Inc. Common Stock,5.37,Technology,2026-10-20,177.84,1.19,177.7,182.85,182.47,176.38,144.77,8.94,442136,247.06,87.36,-12.57,28.85,25.95,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T4"
 DHT,DHT Holdings Inc.,3.71,Consumer Discretionary,2026-10-20,23.35,1.39,24.15,23.53,23.26,21.67,18.27,1.25,4021869,26.91,11.64,92.02,28.79,25.89,True,False,"T4,V1"
 SWKS,Skyworks Solutions Inc. Common Stock,11.93,Technology,2026-10-20,81.3,1.33,82.35,82.68,85.04,77.83,66.69,4.04,6936174,92.8,51.93,6.78,28.72,25.82,True,False,"T2,V1"
 BMNR,BitMine Immersion Technologies Inc. Common Stock,13.01,Finance,2026-10-20,22.82,5.8,22.15,25.04,25.94,23.97,21.32,1.48,38027674,55.19,12.8,-57.58,28.64,25.74,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T1,T2,T4"
-ISRG,Intuitive Surgical Inc. Common Stock,153.03,Health Care,2026-10-20,438.0,1.11,434.62,414.53,405.38,393.65,438.35,11.05,2517380,603.88,328.57,-4.46,28.56,25.66,False,False,"U:>15% pod maximom,U:rok v strate,T1"
-EL,Estee Lauder Companies Inc. (The) Common Stock,38.33,Consumer Discretionary,2026-10-20,106.12,0.32,106.26,97.6,95.32,97.31,91.7,3.29,3081993,121.64,66.22,3.51,28.43,25.53,True,False,V1
+ISRG,Intuitive Surgical Inc. Common Stock,153.03,Health Care,2026-10-20,438.0,1.11,434.62,414.53,405.38,393.65,438.35,11.05,2517380,603.88,328.57,-4.46,28.56,25.66,False,False,"U:>15% pod maximom,U:rok v strate,T1,T6"
+EL,Estee Lauder Companies Inc. (The) Common Stock,38.33,Consumer Discretionary,2026-10-20,106.12,0.32,106.26,97.6,95.32,97.31,91.7,3.29,3081993,121.64,66.22,3.51,28.43,25.53,True,False,"T6,V1"
 PGEN,Precigen Inc. Common Stock,2.38,Health Care,2026-10-20,6.83,2.55,6.68,7.59,7.81,7.28,5.19,0.44,5153346,8.98,3.04,73.35,28.38,25.48,False,False,"U:>15% pod maximom,T1,T2,T4"
-BSY,Bentley Systems Incorporated Class B Common Stock,11.1,Technology,2026-10-20,38.13,3.81,36.85,34.14,33.01,34.38,34.34,1.35,2586993,52.85,28.08,-26.18,28.21,25.31,False,False,"U:>15% pod maximom,U:rok v strate,T3"
+BSY,Bentley Systems Incorporated Class B Common Stock,11.1,Technology,2026-10-20,38.13,3.81,36.85,34.14,33.01,34.38,34.34,1.35,2586993,52.85,28.08,-26.18,28.21,25.31,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
 CORT,Corcept Therapeutics Incorporated Common Stock,12.12,Health Care,2026-10-20,116.45,3.88,113.09,116.58,116.58,115.71,72.54,4.9,1207495,126.38,28.66,48.16,28.14,25.24,False,False,"U:divoký,T2"
 NTNX,Nutanix Inc. Class A Common Stock,18.27,Technology,2026-10-20,68.2,0.99,68.32,70.84,71.1,68.72,51.71,2.23,2618553,75.98,34.01,-0.07,27.81,24.91,False,False,"U:rok v strate,T1,T2,V1"
-SIG,Signet Jewelers Limited Common Shares,4.47,Consumer Discretionary,2026-10-20,115.72,-0.89,120.44,106.32,102.66,96.64,90.93,4.49,860563,122.64,71.62,10.3,27.7,24.8,False,False,"U:objem,V1"
+SIG,Signet Jewelers Limited Common Shares,4.47,Consumer Discretionary,2026-10-20,115.72,-0.89,120.44,106.32,102.66,96.64,90.93,4.49,860563,122.64,71.62,10.3,27.7,24.8,False,False,"U:objem,T6,V1"
 RGEN,Repligen Corporation Common Stock,8.63,Health Care,2026-10-20,178.88,1.39,178.66,180.75,180.87,176.35,144.26,9.95,1173184,198.87,100.99,15.75,27.69,24.79,True,False,"T2,T4"
-INTR,Inter & Co. Inc. Class A Common Shares,3.05,Finance,2026-10-20,7.26,5.22,7.04,6.36,6.0,5.82,6.92,0.45,6434749,10.36,4.97,-22.19,27.59,24.69,False,False,"U:>15% pod maximom,U:rok v strate,T3,T4"
-LIND,Lindblad Expeditions Holdings Inc. Common Stock,2.25,Consumer Discretionary,2026-10-20,35.45,3.29,35.2,33.49,31.65,30.83,23.62,1.55,882309,36.97,11.37,195.42,27.52,24.62,False,False,U:objem
-FDS,FactSet Research Systems Inc. Common Stock,10.78,Technology,2026-10-20,312.27,2.99,303.95,282.4,276.95,286.69,249.13,10.7,845582,320.48,185.0,7.53,27.35,24.45,False,False,"U:objem,T3"
+INTR,Inter & Co. Inc. Class A Common Shares,3.05,Finance,2026-10-20,7.26,5.22,7.04,6.36,6.0,5.82,6.92,0.45,6434749,10.36,4.97,-22.19,27.59,24.69,False,False,"U:>15% pod maximom,U:rok v strate,T3,T4,T6"
+LIND,Lindblad Expeditions Holdings Inc. Common Stock,2.25,Consumer Discretionary,2026-10-20,35.45,3.29,35.2,33.49,31.65,30.83,23.62,1.55,882309,36.97,11.37,195.42,27.52,24.62,False,False,"U:objem,T6"
+FDS,FactSet Research Systems Inc. Common Stock,10.78,Technology,2026-10-20,312.27,2.99,303.95,282.4,276.95,286.69,249.13,10.7,845582,320.48,185.0,7.53,27.35,24.45,False,False,"U:objem,T3,T6"
 RMD,ResMed Inc. Common Stock,33.72,Health Care,2026-10-20,245.5,2.39,240.32,228.5,224.77,228.04,225.03,5.41,1315357,277.67,180.27,-9.55,27.26,24.36,False,False,U:rok v strate
 IOT,Samsara Inc. Class A Common Stock,23.6,Technology,2026-10-20,42.39,5.19,40.69,40.38,39.92,39.99,33.9,2.1,5781149,47.47,23.38,13.92,27.18,24.28,True,True,
-AVPT,AvePoint Inc. Class A Common Stock,3.12,Technology,2026-10-20,15.23,3.32,14.8,14.18,13.85,13.69,11.76,0.59,2053939,15.48,8.84,2.42,27.13,24.23,True,True,
-MTD,Mettler-Toledo International Inc. Common Stock,32.57,Industrials,2026-10-20,1634.01,0.51,1642.0,1553.15,1501.77,1451.68,1329.17,39.93,197676,1659.7,1023.05,20.39,27.07,24.17,False,False,"U:objem,V1"
+AVPT,AvePoint Inc. Class A Common Stock,3.12,Technology,2026-10-20,15.23,3.32,14.8,14.18,13.85,13.69,11.76,0.59,2053939,15.48,8.84,2.42,27.13,24.23,True,False,T6
+MTD,Mettler-Toledo International Inc. Common Stock,32.57,Industrials,2026-10-20,1634.01,0.51,1642.0,1553.15,1501.77,1451.68,1329.17,39.93,197676,1659.7,1023.05,20.39,27.07,24.17,False,False,"U:objem,T6,V1"
 CLMT,Calumet Inc. Common Stock,4.88,Energy,2026-10-20,56.05,0.92,58.25,55.63,55.91,53.44,37.32,2.17,1357753,59.87,17.85,198.46,26.98,24.08,True,False,"T2,V1"
 MORN,Morningstar Inc. Common Stock,7.72,Finance,2026-10-20,211.76,2.97,207.26,198.74,197.14,203.64,185.51,6.07,321344,223.79,141.49,-2.95,26.93,24.03,False,False,"U:objem,U:rok v strate"
 DLB,Dolby Laboratories Common Stock,5.72,Miscellaneous,2026-10-20,62.31,2.05,61.08,58.99,58.32,60.69,59.33,1.41,904098,69.95,48.26,-9.42,26.83,23.93,False,False,"U:objem,U:rok v strate"
@@ -174,7 +174,7 @@ DBX,Dropbox Inc. Class A Common Stock,8.11,Technology,2026-10-20,36.36,1.17,36.0
 AEM,Agnico Eagle Mines Limited Common Stock,95.22,Basic Materials,2026-10-20,186.25,-0.72,190.1,186.29,189.77,194.95,189.77,6.17,2505333,255.24,134.38,4.34,26.66,23.76,False,False,"U:>15% pod maximom,T1,T2,V1"
 STGW,Stagwell Inc. Class A Common Stock,2.19,Consumer Discretionary,2026-10-20,8.94,-0.11,9.17,8.62,8.46,8.68,7.02,0.38,1452611,9.64,4.29,70.61,26.63,23.73,True,False,V1
 BWIN,The Baldwin Insurance Group Inc. Class A Common Stock,4.45,Finance,2026-10-20,31.89,0.06,31.99,31.85,31.86,31.29,24.84,0.11,2652822,32.71,15.88,39.87,26.55,23.65,True,False,"T2,V1"
-MCK,McKesson Corporation Common Stock,117.81,Health Care,2026-10-20,1030.12,1.95,1012.58,927.37,897.3,902.25,855.96,25.51,899949,1030.27,723.68,30.76,26.54,23.64,False,False,"U:objem,T3"
+MCK,McKesson Corporation Common Stock,117.81,Health Care,2026-10-20,1030.12,1.95,1012.58,927.37,897.3,902.25,855.96,25.51,899949,1030.27,723.68,30.76,26.54,23.64,False,False,"U:objem,T3,T6"
 BDX,Becton Dickinson and Company Common Stock,51.96,Health Care,2026-10-20,193.8,1.6,191.86,184.4,181.85,184.44,164.49,4.13,1762041,195.99,127.59,29.06,26.53,23.63,True,True,
 ABNB,Airbnb Inc. Class A Common Stock,105.06,Consumer Discretionary,2026-10-20,176.94,0.84,175.82,163.29,161.33,172.59,145.42,4.36,4744284,193.45,110.81,39.09,26.34,23.44,True,True,
 TNK,Teekay Tankers Ltd.,3.28,Consumer Discretionary,2026-10-20,94.47,-0.35,99.21,99.77,100.37,95.07,77.58,4.48,464346,110.65,50.94,70.31,26.33,23.43,False,False,"U:objem,T1,T2,V1"
@@ -183,69 +183,69 @@ NTAP,NetApp Inc. Common Stock,40.73,Technology,2026-10-20,209.97,1.25,210.84,217
 AYA,Aya Gold & Silver Inc. Common Shares,3.82,Basic Materials,2026-10-20,26.27,-1.02,27.04,26.86,27.47,27.42,20.48,1.19,1049203,30.67,9.25,106.53,25.69,22.79,True,False,"T1,T2,V1"
 EDU,New Oriental Education & Technology Group Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands),9.38,Real Estate,2026-10-20,61.15,1.07,60.85,57.54,56.36,56.69,54.3,1.43,769850,64.97,44.25,5.43,25.62,22.72,False,False,U:objem
 PATH,UiPath Inc. Class A Common Stock,6.84,Technology,2026-10-20,13.43,2.36,13.22,13.03,13.11,14.61,12.49,0.54,52999917,19.84,9.2,-15.69,25.51,22.61,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2"
-HCA,HCA Healthcare Inc. Common Stock,98.48,Health Care,2026-10-20,465.75,2.39,460.77,443.84,435.48,428.35,444.84,11.41,1360982,556.52,353.99,7.53,25.25,22.35,False,False,U:>15% pod maximom
+HCA,HCA Healthcare Inc. Common Stock,98.48,Health Care,2026-10-20,465.75,2.39,460.77,443.84,435.48,428.35,444.84,11.41,1360982,556.52,353.99,7.53,25.25,22.35,False,False,"U:>15% pod maximom,T6"
 DHR,Danaher Corporation Common Stock,157.77,Industrials,2026-10-20,224.24,-0.08,230.57,222.06,218.84,214.59,201.27,6.56,4327119,242.8,160.93,7.61,25.18,22.28,True,False,V1
-BTE,Baytex Energy Corp Common Shares,3.83,Energy,2026-10-20,5.37,-0.56,5.45,4.81,4.68,4.79,4.32,0.19,16935861,5.49,2.18,136.56,25.17,22.27,True,False,"T3,V1"
-NOG,Northern Oil and Gas Inc. Common Stock,2.96,Energy,2026-10-20,27.54,-0.76,27.87,24.73,24.11,25.3,24.3,0.92,2195579,31.17,17.18,29.3,24.9,22.0,True,False,"T3,V1"
+BTE,Baytex Energy Corp Common Shares,3.83,Energy,2026-10-20,5.37,-0.56,5.45,4.81,4.68,4.79,4.32,0.19,16935861,5.49,2.18,136.56,25.17,22.27,True,False,"T3,T6,V1"
+NOG,Northern Oil and Gas Inc. Common Stock,2.96,Energy,2026-10-20,27.54,-0.76,27.87,24.73,24.11,25.3,24.3,0.92,2195579,31.17,17.18,29.3,24.9,22.0,True,False,"T3,T6,V1"
 BR,Broadridge Financial Solutions Inc. Common Stock,19.77,Consumer Discretionary,2026-10-20,179.99,2.78,175.28,165.45,162.92,170.35,167.61,3.71,1083442,236.02,133.83,-21.97,24.89,21.99,False,False,"U:>15% pod maximom,U:rok v strate"
-QTWO,Q2 Holdings Inc. Common Stock,3.88,Technology,2026-10-20,65.96,6.01,62.55,58.37,57.34,60.82,54.67,1.97,720869,76.24,40.79,8.7,24.78,21.88,False,False,"U:objem,T3"
+QTWO,Q2 Holdings Inc. Common Stock,3.88,Technology,2026-10-20,65.96,6.01,62.55,58.37,57.34,60.82,54.67,1.97,720869,76.24,40.79,8.7,24.78,21.88,False,False,"U:objem,T3,T6"
 MMSI,Merit Medical Systems Inc. Common Stock,5.37,Health Care,2026-10-20,91.18,1.36,90.74,87.46,86.59,88.33,76.75,2.34,791280,94.75,59.74,9.58,24.72,21.82,False,False,U:objem
-ULTA,Ulta Beauty Inc. Common Stock,25.3,Consumer Discretionary,2026-10-20,602.9,1.91,596.68,563.4,550.29,547.36,554.01,15.33,561503,714.97,443.6,15.12,24.69,21.79,False,False,"U:objem,U:>15% pod maximom"
+ULTA,Ulta Beauty Inc. Common Stock,25.3,Consumer Discretionary,2026-10-20,602.9,1.91,596.68,563.4,550.29,547.36,554.01,15.33,561503,714.97,443.6,15.12,24.69,21.79,False,False,"U:objem,U:>15% pod maximom,T6"
 SHAK,Shake Shack Inc. Class A Common Stock,3.08,Consumer Discretionary,2026-10-20,69.74,-2.96,72.57,64.17,60.75,66.21,76.07,2.68,1516763,107.46,51.6,-24.69,24.67,21.77,False,False,"U:>15% pod maximom,U:rok v strate,T1,V1"
-CNK,Cinemark Holdings Inc Cinemark Holdings Inc. Common Stock,4.52,Consumer Discretionary,2026-10-20,40.15,2.95,39.36,37.33,36.4,36.56,30.65,1.2,2267330,40.36,21.6,50.37,24.5,21.6,True,True,
+CNK,Cinemark Holdings Inc Cinemark Holdings Inc. Common Stock,4.52,Consumer Discretionary,2026-10-20,40.15,2.95,39.36,37.33,36.4,36.56,30.65,1.2,2267330,40.36,21.6,50.37,24.5,21.6,True,False,T6
 HPQ,HP Inc. Common Stock,27.27,Technology,2026-10-20,31.21,3.21,30.55,31.18,31.88,31.3,24.09,1.16,14837553,36.23,17.56,12.83,24.34,21.44,True,False,"T1,T2"
 UHS,Universal Health Services Inc. Common Stock,10.74,Health Care,2026-10-20,185.61,1.82,186.11,179.02,177.34,175.79,178.15,4.36,761868,246.33,140.08,-10.44,24.29,21.39,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,V1"
 DV,DoubleVerify Holdings Inc. Common Stock,2.09,Technology,2026-10-20,13.53,0.15,13.51,13.48,13.46,13.41,11.22,0.04,3581653,13.65,7.64,20.16,24.24,21.34,True,True,
 REGN,Regeneron Pharmaceuticals Inc. Common Stock,80.51,Health Care,2026-10-20,807.48,3.25,800.0,764.06,763.86,790.8,735.62,22.92,741234,859.34,572.75,40.0,24.0,21.1,False,False,U:objem
 TRMB,Trimble Inc. Common Stock,13.98,Industrials,2026-10-20,62.12,3.62,60.26,59.14,58.52,58.83,61.48,1.79,2856165,84.42,47.92,-20.95,23.99,21.09,False,False,"U:>15% pod maximom,U:rok v strate"
-CON,Concentra Group Holdings Parent Inc. Common Stock,4.87,Health Care,2026-10-20,38.76,1.52,38.68,36.51,35.75,35.47,27.69,0.99,988920,39.6,18.55,92.17,23.95,21.05,False,False,U:objem
+CON,Concentra Group Holdings Parent Inc. Common Stock,4.87,Health Care,2026-10-20,38.76,1.52,38.68,36.51,35.75,35.47,27.69,0.99,988920,39.6,18.55,92.17,23.95,21.05,False,False,"U:objem,T6"
 TARS,Tarsus Pharmaceuticals Inc. Common Stock,3.43,Health Care,2026-10-20,71.03,2.2,70.94,73.56,75.43,74.99,68.01,3.28,840349,91.53,53.89,-0.22,23.36,20.46,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2"
-FTRE,Fortrea Holdings Inc. Common Stock,2.13,Health Care,2026-10-20,22.78,1.61,23.04,20.8,20.24,19.38,15.44,1.18,1598001,23.55,8.55,118.62,23.2,20.3,True,False,"T4,V1"
-HAS,Hasbro Inc. Common Stock,13.89,Consumer Discretionary,2026-10-20,109.52,11.2,100.05,92.88,89.86,92.76,91.21,3.25,1820322,109.81,69.5,46.44,23.0,20.1,False,False,"U:deň >+8%,T3"
-BIIB,Biogen Inc. Common Stock,34.5,Health Care,2026-10-20,243.1,4.12,236.0,227.72,223.6,220.94,198.44,7.02,1013614,244.65,138.0,65.79,22.94,20.04,True,True,
-COP,ConocoPhillips Common Stock,174.48,Energy,2026-10-20,145.95,0.49,146.7,133.56,129.99,132.78,119.23,3.23,6586484,147.15,85.57,67.64,22.86,19.96,True,False,V1
+FTRE,Fortrea Holdings Inc. Common Stock,2.13,Health Care,2026-10-20,22.78,1.61,23.04,20.8,20.24,19.38,15.44,1.18,1598001,23.55,8.55,118.62,23.2,20.3,True,False,"T4,T6,V1"
+HAS,Hasbro Inc. Common Stock,13.89,Consumer Discretionary,2026-10-20,109.52,11.2,100.05,92.88,89.86,92.76,91.21,3.25,1820322,109.81,69.5,46.44,23.0,20.1,False,False,"U:deň >+8%,T3,T6"
+BIIB,Biogen Inc. Common Stock,34.5,Health Care,2026-10-20,243.1,4.12,236.0,227.72,223.6,220.94,198.44,7.02,1013614,244.65,138.0,65.79,22.94,20.04,True,False,T6
+COP,ConocoPhillips Common Stock,174.48,Energy,2026-10-20,145.95,0.49,146.7,133.56,129.99,132.78,119.23,3.23,6586484,147.15,85.57,67.64,22.86,19.96,True,False,"T6,V1"
 RXRX,Recursion Pharmaceuticals Inc. Class A Common Stock,2.15,Health Care,2026-10-20,3.66,1.39,3.69,3.99,3.99,3.64,3.56,0.47,21843996,7.18,2.77,-45.21,22.82,19.92,False,False,"U:>15% pod maximom,U:rok v strate,T2,T4,V1"
-GME,GameStop Corporation Common Stock,13.34,Consumer Discretionary,2026-10-20,26.47,0.11,27.16,25.48,24.44,21.94,22.55,1.17,8855403,28.3,17.79,13.26,22.55,19.65,True,False,V1
+GME,GameStop Corporation Common Stock,13.34,Consumer Discretionary,2026-10-20,26.47,0.11,27.16,25.48,24.44,21.94,22.55,1.17,8855403,28.3,17.79,13.26,22.55,19.65,True,False,"T6,V1"
 UFPT,UFP Technologies Inc. Common Stock,2.27,Health Care,2026-10-20,291.34,-0.65,295.55,295.17,291.86,295.84,247.68,8.82,140641,338.71,173.86,47.69,22.43,19.53,False,False,"U:objem,T1,V1"
 HRB,H&R Block Inc. Common Stock,5.81,Consumer Discretionary,2026-10-20,48.41,2.2,48.72,43.82,42.96,47.14,38.92,1.52,2115614,58.67,28.16,-5.76,22.4,19.5,False,False,"U:>15% pod maximom,U:rok v strate,T3,V1"
-HUBS,HubSpot Inc. Common Stock,11.7,Technology,2026-10-20,250.76,6.87,234.87,222.15,218.77,230.47,236.49,11.8,1720931,497.96,169.63,-44.47,22.38,19.48,False,False,"U:>15% pod maximom,U:rok v strate,T3"
-MTCH,Match Group Inc. Common Stock,10.27,Technology,2026-10-20,46.53,4.02,44.95,41.55,41.29,41.29,36.08,1.26,3276057,46.62,28.81,41.09,22.35,19.45,True,False,T3
-ASO,Academy Sports and Outdoors Inc. Common Stock,3.59,Consumer Discretionary,2026-10-20,59.65,2.42,59.11,52.47,50.25,49.42,52.63,1.98,1708163,62.44,41.29,17.98,22.08,19.18,True,False,T3
+HUBS,HubSpot Inc. Common Stock,11.7,Technology,2026-10-20,250.76,6.87,234.87,222.15,218.77,230.47,236.49,11.8,1720931,497.96,169.63,-44.47,22.38,19.48,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
+MTCH,Match Group Inc. Common Stock,10.27,Technology,2026-10-20,46.53,4.02,44.95,41.55,41.29,41.29,36.08,1.26,3276057,46.62,28.81,41.09,22.35,19.45,True,False,"T3,T6"
+ASO,Academy Sports and Outdoors Inc. Common Stock,3.59,Consumer Discretionary,2026-10-20,59.65,2.42,59.11,52.47,50.25,49.42,52.63,1.98,1708163,62.44,41.29,17.98,22.08,19.18,True,False,"T3,T6"
 NEM,Newmont Corporation,124.35,Basic Materials,2026-10-20,116.81,-1.02,119.07,116.88,118.84,121.85,112.36,3.42,6960085,135.29,76.05,23.1,21.99,19.09,True,False,"T1,T2,V1"
-GDDY,GoDaddy Inc. Class A Common Stock,13.51,Technology,2026-10-20,108.8,1.97,107.53,100.6,98.88,99.03,92.09,3.12,2157115,137.93,71.59,-17.86,21.7,18.8,False,False,"U:>15% pod maximom,U:rok v strate"
-VET,Vermilion Energy Inc. Common (Canada),2.08,Energy,2026-10-20,13.41,-1.4,13.64,12.04,11.84,12.33,11.4,0.45,1463385,14.82,7.17,82.2,21.58,18.68,True,False,"T3,V1"
+GDDY,GoDaddy Inc. Class A Common Stock,13.51,Technology,2026-10-20,108.8,1.97,107.53,100.6,98.88,99.03,92.09,3.12,2157115,137.93,71.59,-17.86,21.7,18.8,False,False,"U:>15% pod maximom,U:rok v strate,T6"
+VET,Vermilion Energy Inc. Common (Canada),2.08,Energy,2026-10-20,13.41,-1.4,13.64,12.04,11.84,12.33,11.4,0.45,1463385,14.82,7.17,82.2,21.58,18.68,True,False,"T3,T6,V1"
 ERO,Ero Copper Corp. Common Shares,3.59,Basic Materials,2026-10-20,32.9,-4.44,34.62,36.4,36.45,36.08,30.59,1.83,1363190,40.83,19.09,45.0,21.54,18.64,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
 BLSH,Bullish Ordinary Shares,4.38,Finance,2026-10-20,28.71,4.7,30.51,33.39,35.3,32.73,32.81,2.27,1487844,60.14,20.55,-51.14,21.34,18.44,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,V1"
 PFE,Pfizer Inc. Common Stock,167.8,Health Care,2026-10-20,30.11,2.28,29.69,28.54,28.07,28.08,26.61,0.6,34763419,30.25,23.62,21.95,21.31,18.41,True,True,
-SU,Suncor Energy  Inc. Common Stock,91.69,Energy,2026-10-20,78.44,0.06,78.68,71.55,69.33,69.1,62.19,2.02,4201147,79.75,37.77,104.7,21.2,18.3,True,False,V1
-PAGS,PagSeguro Digital Ltd. Class A Common Shares,3.24,Technology,2026-10-20,11.72,5.3,11.24,10.18,9.75,9.6,9.83,0.55,3376642,12.32,8.42,29.79,21.2,18.3,True,False,T3
-KVYO,Klaviyo Inc. Series A Common Stock,4.99,Technology,2026-10-20,19.61,11.93,17.59,16.8,16.29,17.43,18.34,1.04,6251452,33.35,12.53,-19.4,21.05,18.15,False,False,"U:>15% pod maximom,U:deň >+8%,U:rok v strate,T3,T4"
-TW,Tradeweb Markets Inc. Class A Common Stock,26.84,Finance,2026-10-20,119.37,4.07,115.07,107.2,104.32,105.79,108.58,2.89,1399815,127.69,91.42,9.63,20.76,17.86,True,False,T3
+SU,Suncor Energy  Inc. Common Stock,91.69,Energy,2026-10-20,78.44,0.06,78.68,71.55,69.33,69.1,62.19,2.02,4201147,79.75,37.77,104.7,21.2,18.3,True,False,"T6,V1"
+PAGS,PagSeguro Digital Ltd. Class A Common Shares,3.24,Technology,2026-10-20,11.72,5.3,11.24,10.18,9.75,9.6,9.83,0.55,3376642,12.32,8.42,29.79,21.2,18.3,True,False,"T3,T6"
+KVYO,Klaviyo Inc. Series A Common Stock,4.99,Technology,2026-10-20,19.61,11.93,17.59,16.8,16.29,17.43,18.34,1.04,6251452,33.35,12.53,-19.4,21.05,18.15,False,False,"U:>15% pod maximom,U:deň >+8%,U:rok v strate,T3,T4,T6"
+TW,Tradeweb Markets Inc. Class A Common Stock,26.84,Finance,2026-10-20,119.37,4.07,115.07,107.2,104.32,105.79,108.58,2.89,1399815,127.69,91.42,9.63,20.76,17.86,True,False,"T3,T6"
 S,SentinelOne Inc. Class A Common Stock,7.56,Technology,2026-10-20,22.0,1.34,22.22,23.97,24.22,22.56,17.24,1.16,8999538,26.5,11.81,28.35,20.75,17.85,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
 GRMN,Garmin Ltd. Common Stock (Switzerland),55.19,Industrials,2026-10-20,290.35,1.46,286.99,282.93,281.18,285.51,250.82,7.71,906996,314.28,186.67,16.55,20.72,17.82,False,False,U:objem
 ADSK,Autodesk Inc. Common Stock,50.31,Technology,2026-10-20,245.58,2.03,241.72,225.19,219.79,232.94,235.25,8.09,2106971,320.0,185.5,-20.25,20.68,17.78,False,False,"U:>15% pod maximom,U:rok v strate"
 CRWD,CrowdStrike Holdings Inc. Class A Common Stock,233.56,Technology,2026-10-20,227.37,-0.32,234.26,257.66,260.03,233.49,161.68,11.7,9560095,286.99,85.68,80.59,20.67,17.77,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
 FSM,Fortuna Mining Corp. Common Shares,3.23,Basic Materials,2026-10-20,10.39,-1.89,10.74,10.94,11.29,11.45,10.34,0.43,5433849,13.85,7.69,16.74,20.67,17.77,False,False,"U:>15% pod maximom,T1,T2,V1"
-QGEN,Qiagen N.V. Common Shares,9.59,Health Care,2026-10-20,48.9,5.05,46.92,45.13,44.42,43.99,42.48,1.58,2589112,57.82,32.53,0.47,20.53,17.63,False,False,U:>15% pod maximom
+QGEN,Qiagen N.V. Common Shares,9.59,Health Care,2026-10-20,48.9,5.05,46.92,45.13,44.42,43.99,42.48,1.58,2589112,57.82,32.53,0.47,20.53,17.63,False,False,"U:>15% pod maximom,T6"
 ADP,Automatic Data Processing Inc. Common Stock,113.74,Technology,2026-10-20,292.75,1.99,288.54,270.32,266.4,273.56,238.99,5.58,2161085,294.27,188.16,3.43,20.41,17.51,True,True,
-GIB,CGI Inc. Common Stock,17.58,Consumer Discretionary,2026-10-20,78.98,4.18,76.52,70.96,69.61,72.04,72.74,2.12,434731,95.2,59.63,-9.29,20.27,17.37,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3"
+GIB,CGI Inc. Common Stock,17.58,Consumer Discretionary,2026-10-20,78.98,4.18,76.52,70.96,69.61,72.04,72.74,2.12,434731,95.2,59.63,-9.29,20.27,17.37,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3,T6"
 SXT,Sensient Technologies Corporation Common Stock,5.67,Industrials,2026-10-20,135.22,1.56,135.11,130.95,129.91,131.86,112.41,3.18,386346,138.82,82.6,39.68,20.24,17.34,False,False,U:objem
 GILD,Gilead Sciences Inc. Common Stock,189.8,Health Care,2026-10-20,156.51,2.25,157.24,150.29,149.05,147.7,138.35,3.94,6061020,160.51,114.02,27.13,20.08,17.18,True,False,V1
 MDB,MongoDB Inc. Class A Common Stock,28.09,Technology,2026-10-20,366.18,5.02,352.22,368.01,378.66,393.01,339.21,21.2,2190752,473.1,215.68,11.84,20.07,17.17,False,False,"U:>15% pod maximom,T1,T2,T4"
 HMC,Honda Motor Company Ltd. Common Stock,44.19,Industrials,2026-10-20,34.25,0.56,34.19,32.65,32.23,32.29,28.72,0.48,987950,34.56,23.25,9.49,20.05,17.15,False,False,U:objem
 DXCM,DexCom Inc. Common Stock,32.45,Health Care,2026-10-20,85.74,-0.28,86.61,85.8,86.52,87.53,74.16,2.43,4323384,92.59,54.11,25.3,20.03,17.13,True,False,"T1,T2,V1"
-AGYS,Agilysys Inc. Common Stock (DE),3.17,Technology,2026-10-20,116.4,3.72,113.14,103.64,101.09,107.57,91.79,4.03,260411,145.25,61.5,5.07,19.95,17.05,False,False,"U:objem,U:>15% pod maximom,T3"
+AGYS,Agilysys Inc. Common Stock (DE),3.17,Technology,2026-10-20,116.4,3.72,113.14,103.64,101.09,107.57,91.79,4.03,260411,145.25,61.5,5.07,19.95,17.05,False,False,"U:objem,U:>15% pod maximom,T3,T6"
 AMGN,Amgen Inc. Common Stock,229.74,Health Care,2026-10-20,438.94,3.29,434.51,416.41,405.84,415.73,369.94,11.14,2827146,447.03,288.0,44.71,19.91,17.01,True,True,
 DOX,Amdocs Limited Ordinary Shares,6.48,Technology,2026-10-20,61.41,2.37,60.41,58.83,58.73,59.96,63.43,1.58,1074306,85.63,49.74,-25.69,19.89,16.99,False,False,"U:>15% pod maximom,U:rok v strate,T1"
 EXPO,Exponent Inc. Common Stock,3.44,Consumer Discretionary,2026-10-20,72.55,0.42,72.9,68.7,67.59,68.73,66.43,1.98,508588,81.95,51.91,5.05,19.48,16.58,False,False,"U:objem,V1"
 GAP,Gap Inc. (The) Common Stock,8.27,Consumer Discretionary,2026-10-20,23.47,-0.3,23.6,22.93,22.33,21.79,23.32,0.7,6634044,29.36,18.11,6.78,19.44,16.54,False,False,"U:>15% pod maximom,V1"
 WAT,Waters Corporation Common Stock,42.67,Industrials,2026-10-20,442.83,1.97,441.28,434.61,430.86,421.69,366.81,13.91,799222,454.54,282.77,29.04,19.42,16.52,False,False,U:objem
-CDW,CDW Corporation Common Stock,19.08,Consumer Discretionary,2026-10-20,154.99,1.53,153.93,141.26,140.09,143.09,131.99,5.2,1678463,161.1,97.12,-0.25,19.38,16.48,False,False,U:rok v strate
-CSGP,CoStar Group Inc. Common Stock,12.89,Finance,2026-10-20,33.05,3.9,32.05,29.08,28.44,30.37,37.9,1.08,6660969,79.08,25.89,-55.91,19.36,16.46,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3"
+CDW,CDW Corporation Common Stock,19.08,Consumer Discretionary,2026-10-20,154.99,1.53,153.93,141.26,140.09,143.09,131.99,5.2,1678463,161.1,97.12,-0.25,19.38,16.48,False,False,"U:rok v strate,T6"
+CSGP,CoStar Group Inc. Common Stock,12.89,Finance,2026-10-20,33.05,3.9,32.05,29.08,28.44,30.37,37.9,1.08,6660969,79.08,25.89,-55.91,19.36,16.46,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T6"
 SNOW,Snowflake Inc. Common Stock,111.26,Technology,2026-10-20,319.61,1.35,320.43,336.8,340.09,332.5,234.94,16.44,4961246,384.56,118.3,30.1,19.35,16.45,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
-OTEX,Open Text Corporation Common Shares,6.45,Technology,2026-10-20,26.5,3.03,25.86,23.64,22.99,23.83,24.08,0.79,1502207,39.81,19.78,-32.28,19.32,16.42,False,False,"U:>15% pod maximom,U:rok v strate,T3"
+OTEX,Open Text Corporation Common Shares,6.45,Technology,2026-10-20,26.5,3.03,25.86,23.64,22.99,23.83,24.08,0.79,1502207,39.81,19.78,-32.28,19.32,16.42,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
 NEOG,Neogen Corporation Common Stock,2.54,Health Care,2026-10-20,11.72,0.77,11.95,12.41,12.73,12.17,10.28,0.7,3334004,14.26,5.37,98.98,19.23,16.33,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
-KD,Kyndryl Holdings Inc. Common Stock,2.89,Technology,2026-10-20,13.89,4.59,13.52,12.02,11.86,12.56,14.02,0.66,4172684,29.45,10.1,-50.27,19.23,16.33,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3"
+KD,Kyndryl Holdings Inc. Common Stock,2.89,Technology,2026-10-20,13.89,4.59,13.52,12.02,11.86,12.56,14.02,0.66,4172684,29.45,10.1,-50.27,19.23,16.33,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T6"
 DAC,Danaos Corporation Common Stock,2.85,Consumer Discretionary,2026-10-20,157.43,0.61,160.75,160.74,161.02,155.36,128.32,4.9,141185,172.76,85.31,82.72,19.09,16.19,False,False,"U:objem,T2,V1"
 LDOS,Leidos Holdings Inc. Common Stock,15.82,Technology,2026-10-20,127.66,1.28,126.71,121.68,122.5,130.06,143.48,3.68,1316841,205.77,98.86,-32.98,19.02,16.12,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2"
 WEX,WEX Inc. common stock,6.25,Consumer Discretionary,2026-10-20,185.12,1.01,183.64,175.87,178.29,186.59,163.16,4.51,636131,203.99,125.29,21.06,18.91,16.01,False,False,"U:objem,T1,T2"
@@ -258,9 +258,9 @@ SNPS,Synopsys Inc. Common Stock,87.11,Technology,2026-10-20,447.62,-1.53,462.5,4
 SONO,Sonos Inc. Common Stock,2.0,Consumer Staples,2026-10-20,17.37,2.6,17.38,17.54,17.22,16.38,15.24,0.63,1852360,19.82,12.44,2.54,18.49,15.59,True,False,V1
 LPG,Dorian LPG Ltd. Common Stock,2.25,Consumer Discretionary,2026-10-20,52.07,-0.82,54.72,55.38,56.25,53.2,41.0,2.36,587438,59.97,23.76,92.35,18.48,15.58,False,False,"U:objem,T1,T2,V1"
 CME,CME Group Inc. Class A Common Stock,105.55,Finance,2026-10-20,295.31,0.61,294.1,275.07,270.3,275.0,278.92,5.9,1971307,329.16,218.31,10.35,18.48,15.58,True,True,
-URBN,Urban Outfitters Inc. Common Stock,7.44,Consumer Discretionary,2026-10-20,87.32,0.56,88.34,80.85,78.07,78.73,72.59,2.68,1099719,90.59,59.54,30.58,18.46,15.56,True,False,V1
+URBN,Urban Outfitters Inc. Common Stock,7.44,Consumer Discretionary,2026-10-20,87.32,0.56,88.34,80.85,78.07,78.73,72.59,2.68,1099719,90.59,59.54,30.58,18.46,15.56,True,False,"T6,V1"
 EQX,Equinox Gold Corp. Common Shares,12.95,Basic Materials,2026-10-20,11.06,-0.27,11.21,11.21,11.54,11.98,12.93,0.48,13513403,18.96,8.48,-9.42,18.29,15.39,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,V1"
-CNQ,Canadian Natural Resources Limited Common Stock,111.97,Energy,2026-10-20,54.18,0.11,54.37,49.61,48.63,49.78,45.08,1.34,6296225,55.13,29.68,80.0,18.27,15.37,True,False,V1
+CNQ,Canadian Natural Resources Limited Common Stock,111.97,Energy,2026-10-20,54.18,0.11,54.37,49.61,48.63,49.78,45.08,1.34,6296225,55.13,29.68,80.0,18.27,15.37,True,False,"T6,V1"
 PCVX,Vaxcyte Inc. Common Stock,10.02,Health Care,2026-10-20,66.23,4.0,66.02,63.08,61.53,61.35,56.42,6.07,1934477,90.75,39.87,54.38,18.27,15.37,False,False,"U:>15% pod maximom,T4"
 ROP,Roper Technologies Inc. Common Stock,37.93,Industrials,2026-10-20,398.21,3.84,385.08,366.33,362.98,386.1,364.63,9.26,790582,519.1,305.96,-21.29,18.26,15.36,False,False,"U:objem,U:>15% pod maximom,U:rok v strate"
 TALO,Talos Energy Inc. Common Stock,3.01,Energy,2026-10-20,18.05,0.0,18.3,16.97,16.78,16.93,14.71,0.63,2417563,18.73,8.97,98.13,18.21,15.31,True,False,V1
@@ -268,15 +268,15 @@ IFF,International Flavors & Fragrances Inc. Common Stock,23.21,Industrials,2026-
 CHEF,The Chefs' Warehouse Inc. Common Stock,4.54,Consumer Discretionary,2026-10-20,110.88,-0.36,113.54,111.68,111.01,111.23,85.15,4.16,659230,118.51,56.46,90.19,18.05,15.15,False,False,"U:objem,T1,V1"
 FOX,Fox Corporation Class B Common Stock,24.6,Industrials,2026-10-20,59.75,2.43,58.45,56.57,56.69,58.35,56.26,1.64,1083555,68.18,44.08,14.66,18.01,15.11,True,False,T2
 TNET,TriNet Group Inc. Common Stock,3.17,Consumer Discretionary,2026-10-20,70.83,2.52,70.69,65.77,65.24,67.32,53.05,2.36,360061,73.08,33.61,15.79,17.99,15.09,False,False,U:objem
-MAT,Mattel Inc. Common Stock,4.82,Consumer Discretionary,2026-10-20,16.99,0.65,17.2,15.46,14.51,14.79,15.68,0.91,5601352,22.48,12.4,-7.51,17.99,15.09,False,False,"U:>15% pod maximom,U:rok v strate,T4,V1"
-COTY,Coty Inc. Class A Common Stock,2.81,Consumer Discretionary,2026-10-20,3.22,0.94,3.19,2.84,2.69,2.78,2.53,0.11,6577082,4.34,1.82,-22.03,17.95,15.05,False,False,"U:>15% pod maximom,U:rok v strate,T3"
+MAT,Mattel Inc. Common Stock,4.82,Consumer Discretionary,2026-10-20,16.99,0.65,17.2,15.46,14.51,14.79,15.68,0.91,5601352,22.48,12.4,-7.51,17.99,15.09,False,False,"U:>15% pod maximom,U:rok v strate,T4,T6,V1"
+COTY,Coty Inc. Class A Common Stock,2.81,Consumer Discretionary,2026-10-20,3.22,0.94,3.19,2.84,2.69,2.78,2.53,0.11,6577082,4.34,1.82,-22.03,17.95,15.05,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6"
 OR,OR Royalties Inc. Common Shares,6.52,Basic Materials,2026-10-20,34.78,-0.06,35.72,34.69,35.15,35.49,36.87,1.07,914601,48.06,27.54,-7.38,17.94,15.04,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,V1"
 MEDP,Medpace Holdings Inc. Common Stock,17.3,Health Care,2026-10-20,622.43,0.45,625.69,614.73,614.35,607.38,526.72,21.14,270060,677.9,373.0,14.33,17.86,14.96,False,False,"U:objem,V1"
 INTU,Intuit Inc. Common Stock,87.02,Technology,2026-10-20,335.29,2.97,327.19,296.46,291.67,321.03,372.24,12.09,3804347,689.17,252.84,-49.56,17.86,14.96,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3"
 WPM,Wheaton Precious Metals Corp Common Shares (Canada),59.94,Basic Materials,2026-10-20,131.23,-0.58,134.28,136.11,140.67,144.0,133.95,4.3,1931780,165.76,92.57,24.47,17.84,14.94,False,False,"U:>15% pod maximom,T1,T2,V1"
 INSW,International Seaways Inc. Common Stock ,5.19,Consumer Discretionary,2026-10-20,104.76,-0.07,112.0,113.19,112.83,106.04,83.44,5.71,675028,126.27,44.84,126.12,17.83,14.93,False,False,"U:objem,U:>15% pod maximom,T1,T4,V1"
 LYFT,Lyft Inc. Class A Common Stock,6.43,Consumer Discretionary,2026-10-20,17.25,1.53,17.1,15.83,15.42,16.28,15.22,0.54,10729214,25.54,12.46,-14.65,17.67,14.77,False,False,"U:>15% pod maximom,U:rok v strate"
-ARQT,Arcutis Biotherapeutics Inc. Common Stock,4.01,Health Care,2026-10-20,32.82,2.92,33.01,26.81,25.94,25.75,25.11,1.56,2440596,33.3,19.3,57.18,17.63,14.73,True,False,"T3,V1"
+ARQT,Arcutis Biotherapeutics Inc. Common Stock,4.01,Health Care,2026-10-20,32.82,2.92,33.01,26.81,25.94,25.75,25.11,1.56,2440596,33.3,19.3,57.18,17.63,14.73,True,False,"T3,T6,V1"
 RDNT,RadNet Inc. Common Stock,5.45,Health Care,2026-10-20,69.65,0.55,70.0,70.16,71.6,73.28,65.32,2.26,685342,85.84,50.82,-11.21,17.61,14.71,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,V1"
 IBM,International Business Machines Corporation Common Stock,222.71,Technology,2026-10-20,241.92,2.34,238.38,227.08,226.86,232.13,251.14,6.41,6015207,332.46,199.19,-14.71,17.57,14.67,False,False,"U:>15% pod maximom,U:rok v strate,T1"
 ADBE,Adobe Inc. Common Stock,96.17,Technology,2026-10-20,256.73,3.9,247.63,240.35,240.27,255.86,253.32,8.34,4945523,363.7,190.12,-25.24,17.57,14.67,False,False,"U:>15% pod maximom,U:rok v strate"
@@ -285,14 +285,14 @@ DK,Delek US Holdings Inc. Common Stock,4.6,Energy,2026-10-20,77.63,3.4,79.55,74.
 LOPE,Grand Canyon Education Inc. Common Stock,4.23,Real Estate,2026-10-20,160.36,-1.08,162.97,155.76,153.22,151.74,158.13,3.66,307780,223.04,134.27,-24.59,17.29,14.39,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,V1"
 IAG,Iamgold Corporation Ordinary Shares,10.15,Basic Materials,2026-10-20,17.76,-0.11,18.19,18.45,19.08,19.41,18.37,0.71,5225003,24.87,10.87,29.92,17.23,14.33,False,False,"U:>15% pod maximom,T1,T2,V1"
 BILL,BILL Holdings Inc. Common Stock,3.9,Technology,2026-10-20,49.09,7.44,46.27,44.52,44.83,46.94,42.71,1.7,1977701,57.21,31.41,-6.53,17.19,14.29,False,False,"U:rok v strate,T2,T3"
-EXEL,Exelixis Inc. Common Stock,15.53,Health Care,2026-10-20,64.39,2.73,62.81,59.58,58.37,57.19,50.05,1.69,2384977,64.42,33.76,86.42,17.12,14.22,True,True,
+EXEL,Exelixis Inc. Common Stock,15.53,Health Care,2026-10-20,64.39,2.73,62.81,59.58,58.37,57.19,50.05,1.69,2384977,64.42,33.76,86.42,17.12,14.22,True,False,T6
 SM,SM Energy Company Common Stock,9.25,Energy,2026-10-20,38.85,-0.1,39.83,36.14,35.53,36.35,29.48,1.34,3589600,41.56,17.45,82.74,17.05,14.15,True,False,V1
 VRDN,Viridian Therapeutics Inc. Common Stock,2.36,Health Care,2026-10-20,22.43,7.84,20.88,19.57,20.06,21.59,22.07,1.02,1785674,34.29,13.18,-6.89,17.01,14.11,False,False,"U:>15% pod maximom,U:rok v strate,T2,T3"
-CVX,Chevron Corporation Common Stock,443.3,Energy,2026-10-20,225.71,0.6,225.67,211.81,207.93,208.5,190.57,4.64,8458928,227.28,146.49,46.11,16.96,14.06,True,True,
+CVX,Chevron Corporation Common Stock,443.3,Energy,2026-10-20,225.71,0.6,225.67,211.81,207.93,208.5,190.57,4.64,8458928,227.28,146.49,46.11,16.96,14.06,True,False,T6
 ECPG,Encore Capital Group Inc Common Stock,2.13,Finance,2026-10-20,103.16,2.52,103.61,98.92,98.33,99.13,81.4,3.33,344776,105.98,40.52,145.21,16.95,14.05,False,False,"U:objem,V1"
 VAC,Marriott Vacations Worldwide Corporation Common Stock,3.79,Finance,2026-10-20,113.29,2.89,110.83,105.45,103.38,107.17,84.34,3.33,466926,131.34,44.58,67.07,16.79,13.89,False,False,U:objem
 DUOL,Duolingo Inc. Class A Common Stock,6.65,Technology,2026-10-20,139.58,-1.78,142.57,144.77,145.88,145.34,125.24,5.92,1148873,328.53,87.89,-55.37,16.79,13.89,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,V1"
-CAH,Cardinal Health Inc. Common Stock,58.5,Health Care,2026-10-20,257.55,1.94,254.47,235.4,228.72,235.13,220.36,6.32,1813939,258.3,155.84,63.76,16.78,13.88,True,True,
+CAH,Cardinal Health Inc. Common Stock,58.5,Health Care,2026-10-20,257.55,1.94,254.47,235.4,228.72,235.13,220.36,6.32,1813939,258.3,155.84,63.76,16.78,13.88,True,False,T6
 IBRX,ImmunityBio Inc. Common Stock,8.92,Health Care,2026-10-20,8.77,4.16,9.7,9.43,9.24,8.6,7.66,0.81,11525093,12.43,1.95,257.96,16.78,13.88,False,False,"U:>15% pod maximom,U:divoký,T4,V1"
 BWLP,BW LPG Limited Common Shares,3.9,Consumer Discretionary,2026-10-20,24.87,1.55,25.51,25.16,25.36,24.59,19.87,0.93,407953,26.71,11.72,104.19,16.76,13.86,False,False,"U:objem,T2,V1"
 VRSN,VeriSign Inc. Common Stock,27.68,Technology,2026-10-20,306.53,0.02,307.66,294.9,294.42,291.9,269.26,7.02,821226,312.48,208.86,14.84,16.73,13.83,False,False,"U:objem,V1"
@@ -304,46 +304,46 @@ RDY,Dr. Reddy's Laboratories Ltd Common Stock,10.92,Health Care,2026-10-20,13.26
 ZIM,ZIM Integrated Shipping Services Ltd. Ordinary Shares,3.49,Consumer Discretionary,2026-10-20,29.14,0.55,29.44,29.55,29.75,28.85,26.19,0.7,1643334,30.98,13.4,116.98,16.51,13.61,True,False,"T2,V1"
 DIS,Walt Disney Company (The) Common Stock,189.23,Consumer Discretionary,2026-10-20,111.67,1.9,110.11,106.53,105.11,106.38,103.57,2.14,9280866,117.09,92.19,-0.26,16.48,13.58,False,False,U:rok v strate
 MRK,Merck & Company Inc. Common Stock (new),354.36,Health Care,2026-10-20,148.3,3.25,147.41,145.32,145.76,145.77,125.27,3.97,9931393,156.92,82.01,71.8,16.34,13.44,True,False,T2
-HCI,HCI Group Inc. Common Stock,2.48,Finance,2026-10-20,204.28,2.26,203.67,187.57,184.23,186.4,169.65,5.49,164431,210.5,144.75,4.28,16.33,13.43,False,False,U:objem
+HCI,HCI Group Inc. Common Stock,2.48,Finance,2026-10-20,204.28,2.26,203.67,187.57,184.23,186.4,169.65,5.49,164431,210.5,144.75,4.28,16.33,13.43,False,False,"U:objem,T6"
 WOR,Worthington Enterprises Inc. Common Shares,3.12,Industrials,2026-10-20,63.9,0.9,65.08,61.69,60.45,59.48,55.99,1.57,321712,67.54,45.01,12.6,16.25,13.35,False,False,"U:objem,V1"
 IOSP,Innospec Inc. Common Stock,2.41,Industrials,2026-10-20,99.16,1.19,98.49,97.12,96.13,95.05,83.57,2.1,198747,100.48,65.51,33.3,16.25,13.35,False,False,U:objem
-OVV,Ovintiv Inc. (DE),19.8,Energy,2026-10-20,70.29,0.36,70.14,63.12,61.35,63.85,56.34,1.9,3367253,70.98,35.47,93.8,16.16,13.26,True,False,T3
-WS,Worthington Steel Inc. Common Shares,2.13,Industrials,2026-10-20,41.24,-1.01,41.69,37.44,35.84,35.96,37.44,2.19,333733,49.17,27.22,31.59,16.14,13.24,False,False,"U:objem,U:>15% pod maximom,T3,T4,V1"
+OVV,Ovintiv Inc. (DE),19.8,Energy,2026-10-20,70.29,0.36,70.14,63.12,61.35,63.85,56.34,1.9,3367253,70.98,35.47,93.8,16.16,13.26,True,False,"T3,T6"
+WS,Worthington Steel Inc. Common Shares,2.13,Industrials,2026-10-20,41.24,-1.01,41.69,37.44,35.84,35.96,37.44,2.19,333733,49.17,27.22,31.59,16.14,13.24,False,False,"U:objem,U:>15% pod maximom,T3,T4,T6,V1"
 ALRM,Alarm.com Holdings Inc. Common Stock,2.82,Technology,2026-10-20,58.68,2.12,58.08,55.49,54.6,55.73,49.56,1.32,425146,58.86,41.49,16.59,16.11,13.21,False,False,U:objem
-PR,Permian Resources Corporation Class A Common Stock,20.77,Energy,2026-10-20,24.84,0.16,24.92,22.74,22.25,22.88,19.95,0.74,9573093,25.21,12.06,101.46,16.07,13.17,True,False,V1
+PR,Permian Resources Corporation Class A Common Stock,20.77,Energy,2026-10-20,24.84,0.16,24.92,22.74,22.25,22.88,19.95,0.74,9573093,25.21,12.06,101.46,16.07,13.17,True,False,"T6,V1"
 FROG,JFrog Ltd. Ordinary Shares,11.22,Technology,2026-10-20,92.37,1.51,92.62,94.58,94.93,93.01,70.22,5.73,1979949,105.76,34.05,92.48,15.93,13.03,True,False,"T1,T2,T4,V1"
 BIO,Bio-Rad Laboratories Inc. Class A Common Stock,9.43,Industrials,2026-10-20,354.5,0.48,356.34,368.33,373.66,372.71,311.36,13.48,267758,396.23,236.73,10.13,15.86,12.96,False,False,"U:objem,T1,T2,V1"
-COKE,Coca-Cola Consolidated Inc. Common Stock,13.97,Consumer Staples,2026-10-20,213.19,1.56,214.56,195.73,192.36,193.57,184.58,6.61,497887,219.65,126.0,60.73,15.64,12.74,False,False,"U:objem,V1"
+COKE,Coca-Cola Consolidated Inc. Common Stock,13.97,Consumer Staples,2026-10-20,213.19,1.56,214.56,195.73,192.36,193.57,184.58,6.61,497887,219.65,126.0,60.73,15.64,12.74,False,False,"U:objem,T6,V1"
 MDT,Medtronic plc. Ordinary Shares,118.67,Health Care,2026-10-20,94.63,2.0,94.8,89.79,89.2,91.11,88.28,2.52,16475971,106.33,73.31,-1.34,15.56,12.66,False,False,"U:rok v strate,V1"
-TDC,Teradata Corporation Common Stock,2.92,Technology,2026-10-20,32.45,3.51,31.54,29.99,29.53,28.91,29.78,1.04,2231130,41.78,20.54,55.56,15.52,12.62,False,False,U:>15% pod maximom
+TDC,Teradata Corporation Common Stock,2.92,Technology,2026-10-20,32.45,3.51,31.54,29.99,29.53,28.91,29.78,1.04,2231130,41.78,20.54,55.56,15.52,12.62,False,False,"U:>15% pod maximom,T6"
 TTAN,ServiceTitan Inc. Class A Common Stock,7.55,Technology,2026-10-20,80.71,3.13,78.57,69.41,64.58,76.29,73.12,3.4,2367752,111.36,53.0,-13.68,15.46,12.56,False,False,"U:>15% pod maximom,U:rok v strate,T3"
 E,ENI S.p.A. Common Stock,92.59,Energy,2026-10-20,58.86,0.02,59.04,55.96,55.0,55.46,51.06,1.04,369365,59.84,34.5,69.14,15.23,12.33,False,False,"U:objem,V1"
 EXPE,Expedia Group Inc. Common Stock,33.4,Consumer Discretionary,2026-10-20,300.76,3.1,293.93,271.0,269.23,292.55,259.48,10.53,1843553,342.0,185.34,37.81,15.2,12.3,True,False,T3
-XOM,ExxonMobil Holdings Corporation Common Stock,733.07,Energy,2026-10-20,177.86,-0.24,179.3,168.07,164.09,164.55,152.28,3.6,13573119,180.26,111.98,57.82,15.16,12.26,True,False,V1
-V,Visa Inc.,719.92,Consumer Discretionary,2026-10-20,406.57,0.91,403.79,378.6,370.49,374.22,339.75,7.27,6450750,408.59,293.89,18.05,15.04,12.14,True,True,
+XOM,ExxonMobil Holdings Corporation Common Stock,733.07,Energy,2026-10-20,177.86,-0.24,179.3,168.07,164.09,164.55,152.28,3.6,13573119,180.26,111.98,57.82,15.16,12.26,True,False,"T6,V1"
+V,Visa Inc.,719.92,Consumer Discretionary,2026-10-20,406.57,0.91,403.79,378.6,370.49,374.22,339.75,7.27,6450750,408.59,293.89,18.05,15.04,12.14,True,False,T6
 EMR,Emerson Electric Company Common Stock,89.55,Technology,2026-10-20,160.46,-0.05,163.51,159.82,156.99,156.49,146.24,4.13,2669320,166.35,122.64,23.1,14.92,12.02,True,False,V1
 RUSHB,Rush Enterprises Inc. Class B,6.63,Consumer Discretionary,2026-10-20,57.93,2.01,57.88,56.1,55.49,53.78,47.35,1.87,151045,58.85,31.81,53.8,14.82,11.92,False,False,U:objem
 LH,Labcorp Holdings Inc. Common Stock,25.86,Health Care,2026-10-20,323.13,1.35,320.0,312.62,312.52,320.46,284.08,6.56,730979,341.8,244.52,11.07,14.8,11.9,False,False,U:objem
-KDP,Keurig Dr Pepper Inc. Common Stock,46.89,Consumer Staples,2026-10-20,34.63,0.49,34.74,32.02,31.29,31.74,29.7,0.8,11455334,34.89,24.88,24.79,14.67,11.77,True,False,V1
+KDP,Keurig Dr Pepper Inc. Common Stock,46.89,Consumer Staples,2026-10-20,34.63,0.49,34.74,32.02,31.29,31.74,29.7,0.8,11455334,34.89,24.88,24.79,14.67,11.77,True,False,"T6,V1"
 AAMI,Acadian Asset Management Inc. Common Stock,3.31,Finance,2026-10-20,94.36,1.24,94.16,93.1,92.74,92.5,72.15,3.12,420592,98.52,41.47,99.58,14.63,11.73,False,False,U:objem
 MSI,Motorola Solutions Inc. Common Stock,75.95,Technology,2026-10-20,463.46,0.99,463.77,452.6,452.77,463.95,435.62,7.74,912179,494.85,359.36,3.35,14.62,11.72,False,False,"U:objem,T1,T2,V1"
 EQNR,Equinor ASA,115.39,Energy,2026-10-20,45.76,-0.85,46.77,43.46,42.85,43.05,36.64,1.22,3521395,47.01,22.26,97.5,14.51,11.61,True,False,V1
 NEU,NewMarket Corp Common Stock,8.09,Industrials,2026-10-20,879.7,-0.01,885.24,900.16,901.81,905.87,756.81,19.7,124479,981.66,580.03,17.32,14.48,11.58,False,False,"U:objem,T1,T2,V1"
 FRPT,Freshpet Inc. Common Stock,3.18,Consumer Staples,2026-10-20,66.05,-0.11,66.42,62.39,60.99,66.47,63.74,2.46,1196201,86.0,46.45,27.71,14.45,11.55,False,False,"U:>15% pod maximom,T1,V1"
-WMG,Warner Music Group Corp. Class A Common Stock,16.24,Consumer Discretionary,2026-10-20,31.33,0.93,31.68,28.49,27.79,27.95,28.57,0.91,2221911,35.42,23.34,-5.92,14.43,11.53,False,False,"U:rok v strate,V1"
+WMG,Warner Music Group Corp. Class A Common Stock,16.24,Consumer Discretionary,2026-10-20,31.33,0.93,31.68,28.49,27.79,27.95,28.57,0.91,2221911,35.42,23.34,-5.92,14.43,11.53,False,False,"U:rok v strate,T6,V1"
 CVE,Cenovus Energy Inc Common Stock,62.31,Energy,2026-10-20,33.17,-0.18,33.61,31.77,31.62,32.03,26.87,1.06,7168477,34.16,15.63,95.69,14.42,11.52,True,False,V1
 GEHC,GE HealthCare Technologies Inc. Common Stock ,31.51,Health Care,2026-10-20,70.23,0.67,70.08,66.8,65.54,68.5,70.35,1.76,3795388,89.77,58.75,-6.96,14.36,11.46,False,False,"U:>15% pod maximom,U:rok v strate,T1"
 ARIS,Aris Mining Corporation Common Shares,3.58,,2026-10-20,17.05,-1.73,17.57,17.48,17.98,18.63,17.99,0.74,1596103,23.29,8.75,63.47,14.35,11.45,False,False,"U:>15% pod maximom,T1,T2,V1"
 KNSL,Kinsale Capital Group Inc. Common Stock,8.33,Finance,2026-10-20,371.99,1.75,366.91,340.61,339.5,359.65,352.41,9.15,233615,462.82,287.2,-15.98,14.23,11.33,False,False,"U:objem,U:>15% pod maximom,U:rok v strate"
-WSM,Williams-Sonoma Inc. Common Stock (DE),29.38,Consumer Discretionary,2026-10-20,253.99,1.83,252.37,238.61,232.26,234.65,212.28,6.83,1106425,256.86,165.51,33.8,14.23,11.33,True,True,
+WSM,Williams-Sonoma Inc. Common Stock (DE),29.38,Consumer Discretionary,2026-10-20,253.99,1.83,252.37,238.61,232.26,234.65,212.28,6.83,1106425,256.86,165.51,33.8,14.23,11.33,True,False,T6
 COR,Cencora Inc. Common Stock,64.88,Health Care,2026-10-20,343.27,0.96,342.18,320.51,313.8,321.0,317.52,6.98,1301087,377.54,244.82,4.85,14.2,11.3,True,True,
-ABBV,AbbVie Inc. Common Stock,499.53,Health Care,2026-10-20,289.08,2.26,287.93,272.03,266.84,264.01,234.52,7.07,4844838,291.4,190.75,24.57,14.13,11.23,True,True,
+ABBV,AbbVie Inc. Common Stock,499.53,Health Care,2026-10-20,289.08,2.26,287.93,272.03,266.84,264.01,234.52,7.07,4844838,291.4,190.75,24.57,14.13,11.23,True,False,T6
 OSCR,Oscar Health Inc. Class A Common Stock,10.04,Health Care,2026-10-20,33.66,3.44,33.59,31.9,31.52,31.63,23.02,1.47,5382641,35.01,10.69,66.8,14.1,11.2,True,True,
 TREX,Trex Company Inc. Common Stock,4.74,Basic Materials,2026-10-20,48.79,4.95,46.89,44.7,43.93,45.4,42.68,1.61,1731103,51.75,29.77,-2.91,14.02,11.12,False,False,U:rok v strate
-BP,BP p.l.c. Common Stock,129.43,Energy,2026-10-20,49.39,-0.1,50.03,46.13,44.9,44.87,42.39,1.19,9117926,50.27,32.92,48.68,14.01,11.11,True,False,V1
+BP,BP p.l.c. Common Stock,129.43,Energy,2026-10-20,49.39,-0.1,50.03,46.13,44.9,44.87,42.39,1.19,9117926,50.27,32.92,48.68,14.01,11.11,True,False,"T6,V1"
 FFIV,F5 Inc. Common Stock,25.53,Telecommunications,2026-10-20,456.71,1.31,458.76,455.58,452.1,425.7,357.28,14.65,588987,483.3,223.76,54.03,14.0,11.1,False,False,"U:objem,V1"
 MRVL,Marvell Technology Inc. Common Stock,207.9,Technology,2026-10-20,240.42,1.4,246.58,261.04,263.17,242.05,177.38,17.59,21836022,329.88,70.69,180.08,13.95,11.05,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,V1"
-KSS,Kohl's Corporation Common Stock,2.43,Consumer Discretionary,2026-10-20,21.74,1.4,22.11,19.76,18.61,18.72,16.85,1.01,4103631,25.22,11.38,34.45,13.94,11.04,True,False,"T3,V1"
+KSS,Kohl's Corporation Common Stock,2.43,Consumer Discretionary,2026-10-20,21.74,1.4,22.11,19.76,18.61,18.72,16.85,1.01,4103631,25.22,11.38,34.45,13.94,11.04,True,False,"T3,T6,V1"
 FAST,Fastenal Company Common Stock,58.55,Consumer Discretionary,2026-10-20,51.65,1.23,51.6,50.73,50.28,50.37,46.8,1.44,7493331,52.92,38.97,20.14,13.94,11.04,True,True,
 CVSA,Covista Inc. Common Shares,4.35,Real Estate,2026-10-20,127.64,-0.73,129.83,125.67,125.15,128.13,119.02,3.37,336417,156.26,86.97,-16.63,13.88,10.98,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,V1"
 CPAY,Corpay Inc. Common Stock,26.43,Consumer Discretionary,2026-10-20,408.36,1.44,404.01,398.66,397.88,404.67,352.33,9.48,507117,427.46,252.84,42.76,13.75,10.85,False,False,U:objem
@@ -357,13 +357,13 @@ GKOS,Glaukos Corporation Common Stock,9.85,Health Care,2026-10-20,173.43,3.88,16
 PRDO,Perdoceo Education Corporation Common Stock,2.11,Real Estate,2026-10-20,33.37,-1.13,33.99,32.35,32.05,32.59,33.34,0.87,659847,38.5,26.66,-6.53,13.46,10.56,False,False,"U:objem,U:rok v strate,V1"
 PAY,Paymentus Holdings Inc. Class A Common Stock,3.96,Consumer Discretionary,2026-10-20,32.96,4.83,32.11,31.2,32.0,34.95,28.69,1.16,1150638,45.31,20.11,12.03,13.46,10.56,False,False,"U:>15% pod maximom,T1,T2"
 BAH,Booz Allen Hamilton Holding Corporation Common Stock,8.91,Consumer Discretionary,2026-10-20,74.97,1.23,74.19,71.87,72.79,74.41,77.01,2.58,1820144,109.1,59.5,-25.74,13.37,10.47,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2"
-PSO,Pearson Plc Common Stock,10.95,Consumer Discretionary,2026-10-20,18.24,0.27,18.3,16.77,16.25,16.38,14.91,0.31,703482,18.4,12.02,24.85,13.36,10.46,False,False,"U:objem,V1"
-WIT,Wipro Limited Common Stock,19.11,Technology,2026-10-20,2.05,6.22,1.96,1.74,1.68,1.78,2.1,0.08,8800528,3.09,1.59,-22.35,13.26,10.36,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3"
-ELV,Elevance Health Inc. Common Stock,93.3,Health Care,2026-10-20,440.18,2.31,435.5,407.61,402.33,405.41,370.05,10.71,1123434,440.67,274.84,24.32,13.13,10.23,True,True,
+PSO,Pearson Plc Common Stock,10.95,Consumer Discretionary,2026-10-20,18.24,0.27,18.3,16.77,16.25,16.38,14.91,0.31,703482,18.4,12.02,24.85,13.36,10.46,False,False,"U:objem,T6,V1"
+WIT,Wipro Limited Common Stock,19.11,Technology,2026-10-20,2.05,6.22,1.96,1.74,1.68,1.78,2.1,0.08,8800528,3.09,1.59,-22.35,13.26,10.36,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T6"
+ELV,Elevance Health Inc. Common Stock,93.3,Health Care,2026-10-20,440.18,2.31,435.5,407.61,402.33,405.41,370.05,10.71,1123434,440.67,274.84,24.32,13.13,10.23,True,False,T6
 DGX,Quest Diagnostics Incorporated Common Stock,25.93,Health Care,2026-10-20,237.12,0.94,235.99,233.26,235.31,237.35,209.48,4.47,1045584,248.84,171.18,24.53,13.01,10.11,True,False,"T1,T2"
 AVY,Avery Dennison Corporation Common Stock,13.31,Consumer Discretionary,2026-10-20,178.12,1.46,176.7,171.14,169.93,173.83,172.11,3.6,890874,199.54,152.42,11.15,12.96,10.06,False,False,U:objem
 VCTR,Victory Capital Holdings Inc. Class A Common Stock,6.62,Finance,2026-10-20,108.45,0.69,109.03,110.13,109.48,111.99,87.51,3.62,651344,123.55,57.03,65.55,12.96,10.06,False,False,"U:objem,T1,V1"
-FIZZ,National Beverage Corp. Common Stock,3.25,Consumer Staples,2026-10-20,35.13,1.21,34.9,31.36,30.62,31.61,33.57,0.9,385060,38.21,28.97,-3.54,12.89,9.99,False,False,"U:objem,U:rok v strate,T3"
+FIZZ,National Beverage Corp. Common Stock,3.25,Consumer Staples,2026-10-20,35.13,1.21,34.9,31.36,30.62,31.61,33.57,0.9,385060,38.21,28.97,-3.54,12.89,9.99,False,False,"U:objem,U:rok v strate,T3,T6"
 DGII,Digi International Inc. Common Stock,2.78,Telecommunications,2026-10-20,74.73,2.06,73.42,74.76,74.84,74.64,61.72,2.86,371404,86.84,34.41,91.32,12.89,9.99,False,False,"U:objem,T2"
 TTEK,Tetra Tech Inc. Common Stock,8.87,Consumer Discretionary,2026-10-20,34.96,0.95,34.8,33.79,34.14,35.22,33.01,0.81,2440971,43.14,25.81,4.73,12.85,9.95,False,False,"U:>15% pod maximom,T1,T2"
 BAX,Baxter International Inc. Common Stock,12.92,Health Care,2026-10-20,24.51,-1.92,25.45,24.21,23.74,24.89,21.16,0.74,6675728,30.0,15.73,5.97,12.74,9.84,False,False,"U:>15% pod maximom,T1,V1"
@@ -372,7 +372,7 @@ FNV,Franco-Nevada Corporation,46.59,Basic Materials,2026-10-20,241.12,-0.19,244.
 VNT,Vontier Corporation Common Stock ,4.48,Industrials,2026-10-20,33.99,2.47,33.45,32.15,31.71,32.37,33.89,0.85,1398817,48.2,27.25,-21.05,12.59,9.69,False,False,"U:>15% pod maximom,U:rok v strate"
 RRC,Range Resources Corporation Common Stock,10.1,Energy,2026-10-20,43.63,0.93,43.6,40.08,39.04,40.47,39.74,1.08,2603258,48.31,32.68,17.54,12.59,9.69,True,True,
 UI,Ubiquiti Inc. Common Stock,35.8,Technology,2026-10-20,605.04,2.29,609.13,601.89,597.01,586.89,660.85,27.17,132503,1099.99,500.23,-17.78,12.57,9.67,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,V1"
-NHC,National HealthCare Corporation Common Stock,3.75,Health Care,2026-10-20,247.94,3.64,245.96,229.89,225.32,226.66,190.49,6.74,106341,247.94,118.14,100.87,12.53,9.63,False,False,U:objem
+NHC,National HealthCare Corporation Common Stock,3.75,Health Care,2026-10-20,247.94,3.64,245.96,229.89,225.32,226.66,190.49,6.74,106341,247.94,118.14,100.87,12.53,9.63,False,False,"U:objem,T6"
 TECK,Teck Resources Ltd Ordinary Shares,31.08,Industrials,2026-10-20,64.33,1.34,64.21,65.99,66.38,66.76,60.07,2.16,2862161,72.56,38.0,45.25,12.45,9.55,True,False,"T1,T2"
 DRI,Darden Restaurants Inc. Common Stock,24.47,Consumer Discretionary,2026-10-20,217.99,0.81,216.82,204.25,203.02,211.58,205.18,4.69,1166942,229.76,169.0,16.0,12.4,9.5,True,True,
 DVN,Devon Energy Corporation Common Stock,56.01,Energy,2026-10-20,50.38,-1.06,50.98,48.48,47.93,48.22,45.38,1.39,10787322,52.71,31.47,57.78,12.25,9.35,True,False,V1
@@ -383,10 +383,10 @@ AMG,Affiliated Managers Group Inc. Common Stock,9.96,Finance,2026-10-20,388.75,0
 VAL,Valaris Limited Common Shares,6.21,Energy,2026-10-20,88.35,-1.16,90.64,82.84,82.01,84.63,84.32,3.22,1105058,114.12,48.08,80.45,12.13,9.23,False,False,"U:>15% pod maximom,V1"
 NWSA,News Corporation Class A Common Stock,16.25,Consumer Discretionary,2026-10-20,30.65,1.96,30.21,29.12,29.05,29.64,26.76,0.63,3944317,31.66,22.2,15.92,12.11,9.21,True,True,
 TSCO,Tractor Supply Company Common Stock,17.1,Consumer Discretionary,2026-10-20,32.91,0.3,33.47,32.46,32.36,33.67,38.8,1.01,11227988,58.21,28.36,-40.48,12.09,9.19,False,False,"U:>15% pod maximom,U:rok v strate,T1,V1"
-LW,Lamb Weston Holdings Inc. Common Stock ,7.36,Consumer Staples,2026-10-20,53.78,0.64,54.45,47.7,46.01,49.79,46.11,2.28,2075155,67.07,37.62,-18.11,12.04,9.14,False,False,"U:>15% pod maximom,U:rok v strate,T3,V1"
+LW,Lamb Weston Holdings Inc. Common Stock ,7.36,Consumer Staples,2026-10-20,53.78,0.64,54.45,47.7,46.01,49.79,46.11,2.28,2075155,67.07,37.62,-18.11,12.04,9.14,False,False,"U:>15% pod maximom,U:rok v strate,T3,T6,V1"
 AU,AngloGold Ashanti PLC Ordinary Shares,46.29,Basic Materials,2026-10-20,90.83,-0.75,93.42,93.52,96.34,101.6,97.15,2.81,2617680,129.14,62.55,20.64,11.9,9.0,False,False,"U:>15% pod maximom,T1,T2,V1"
 EXPD,Expeditors International of Washington Inc. Common Stock,25.58,Industrials,2026-10-20,198.41,0.81,198.61,191.96,190.09,189.79,165.34,3.94,1027025,200.66,116.84,64.74,11.81,8.91,True,False,V1
-CBOE,Cboe Global Markets Inc. Common Stock,34.27,Finance,2026-10-20,315.0,2.78,311.98,285.17,275.33,288.74,289.82,11.76,1114073,371.18,227.15,32.86,11.78,8.88,False,False,"U:>15% pod maximom,T3"
+CBOE,Cboe Global Markets Inc. Common Stock,34.27,Finance,2026-10-20,315.0,2.78,311.98,285.17,275.33,288.74,289.82,11.76,1114073,371.18,227.15,32.86,11.78,8.88,False,False,"U:>15% pod maximom,T3,T6"
 TOST,Toast Inc. Class A Common Stock,18.18,Technology,2026-10-20,32.65,3.82,32.0,30.6,30.26,32.47,29.48,1.17,8920342,39.72,22.26,-13.33,11.78,8.88,False,False,"U:>15% pod maximom,U:rok v strate"
 AMRX,Amneal Pharmaceuticals Inc. Class A Common Stock,6.74,Health Care,2026-10-20,19.84,2.48,19.44,19.81,19.71,18.63,15.43,0.65,2548231,21.17,9.92,93.75,11.77,8.87,True,True,
 FTDR,Frontdoor Inc. Common Stock,5.5,Consumer Discretionary,2026-10-20,80.48,0.8,80.4,76.77,76.83,79.78,68.38,2.46,561084,93.43,48.47,21.44,11.72,8.82,False,False,"U:objem,T2"
@@ -398,24 +398,24 @@ WHD,Cactus Inc. Class A Common Stock,4.95,Consumer Discretionary,2026-10-20,62.4
 HNI,HNI Corporation Common Stock,3.33,Consumer Discretionary,2026-10-20,45.96,-0.26,47.52,46.74,46.76,47.54,41.74,1.5,561784,52.79,28.93,3.0,11.5,8.6,False,False,"U:objem,T1,T2,V1"
 SKE,Skeena Resources Limited Common Shares,3.94,Basic Materials,2026-10-20,31.4,-0.13,31.87,31.0,31.1,32.03,30.43,1.46,532688,38.77,15.43,62.86,11.47,8.57,False,False,"U:objem,U:>15% pod maximom,T1,T2,V1"
 SBSW,D/B/A Sibanye-Stillwater Limited ADS,6.91,Basic Materials,2026-10-20,9.77,0.0,10.1,10.02,10.46,11.13,12.31,0.37,5140139,21.29,7.87,-15.85,11.4,8.5,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,V1"
-BJ,BJ's Wholesale Club Holdings Inc. Common Stock,12.96,Consumer Discretionary,2026-10-20,102.33,-0.27,103.32,97.3,94.66,94.53,93.96,2.8,1866746,106.04,83.21,8.95,11.37,8.47,True,False,V1
+BJ,BJ's Wholesale Club Holdings Inc. Common Stock,12.96,Consumer Discretionary,2026-10-20,102.33,-0.27,103.32,97.3,94.66,94.53,93.96,2.8,1866746,106.04,83.21,8.95,11.37,8.47,True,False,"T6,V1"
 SSRM,SSR Mining Inc. Common Stock,6.42,Industrials,2026-10-20,31.27,-0.7,32.01,33.56,34.84,35.07,30.08,1.55,2626558,39.44,18.19,28.1,11.36,8.46,False,False,"U:>15% pod maximom,T1,T2,V1"
 SOLV,Solventum Corporation Common Stock,14.48,Health Care,2026-10-20,86.39,1.58,86.25,87.39,87.91,88.5,78.32,2.14,1052822,94.16,62.38,18.55,11.27,8.37,True,False,"T1,T2"
 ADPT,Adaptive Biotechnologies Corporation Common Stock,3.82,Health Care,2026-10-20,24.42,1.96,24.88,26.94,27.8,26.13,19.22,1.53,2274657,30.74,12.0,36.96,11.25,8.35,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
 ICE,Intercontinental Exchange Inc. Common Stock,88.92,Finance,2026-10-20,158.57,0.11,160.72,155.1,154.06,156.59,154.68,3.16,3384431,176.05,121.79,2.11,11.25,8.35,True,False,V1
 WTW,Willis Towers Watson Public Limited Company Ordinary Shares,29.2,Finance,2026-10-20,318.72,1.36,316.29,297.61,296.93,316.86,296.98,7.02,529242,351.51,240.61,-3.43,11.24,8.34,False,False,"U:objem,U:rok v strate"
 VLTO,Veralto Corp Common Stock ,24.49,Industrials,2026-10-20,101.36,0.89,100.94,97.48,96.07,97.15,92.85,1.9,1676333,105.75,80.03,-2.52,11.2,8.3,False,False,U:rok v strate
-MUR,Murphy Oil Corporation Common Stock,6.1,Energy,2026-10-20,43.09,1.29,42.68,38.52,37.43,37.45,36.41,1.4,1691784,43.4,26.49,56.29,11.17,8.27,True,False,T3
+MUR,Murphy Oil Corporation Common Stock,6.1,Energy,2026-10-20,43.09,1.29,42.68,38.52,37.43,37.45,36.41,1.4,1691784,43.4,26.49,56.29,11.17,8.27,True,False,"T3,T6"
 XXI,Twenty One Capital Inc. Class A Common Stock,3.09,Finance,2026-10-20,5.58,1.45,5.76,6.34,6.41,5.98,6.55,0.37,1939531,20.9,4.15,-72.1,11.16,8.26,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T1,T2,T4,V1"
 BGR,BlackRock Energy and Resources Trust,2.47,Finance,2026-10-20,18.24,0.0,18.34,17.52,17.31,17.37,16.14,0.32,95938,18.43,12.92,40.09,11.15,8.25,False,False,"U:objem,V1"
 CHT,Chunghwa Telecom Co. Ltd.,36.95,Telecommunications,2026-10-20,47.59,-0.08,47.84,46.34,45.93,44.83,43.54,0.56,211025,47.84,39.28,8.6,11.14,8.24,False,False,"U:objem,V1"
-CVLT,Commvault Systems Inc. Common Stock,6.33,Technology,2026-10-20,155.85,2.0,154.67,151.99,149.97,143.9,117.23,6.22,602038,177.81,71.75,-11.66,11.13,8.23,False,False,"U:objem,U:rok v strate"
+CVLT,Commvault Systems Inc. Common Stock,6.33,Technology,2026-10-20,155.85,2.0,154.67,151.99,149.97,143.9,117.23,6.22,602038,177.81,71.75,-11.66,11.13,8.23,False,False,"U:objem,U:rok v strate,T6"
 HRMY,Harmony Biosciences Holdings Inc. Common Stock,2.19,Health Care,2026-10-20,38.7,3.09,37.97,39.22,40.25,39.96,34.67,1.47,878026,43.49,25.52,48.73,11.02,8.12,False,False,"U:objem,T1,T2"
 LFST,LifeStance Health Group Inc. Common Stock,4.5,Health Care,2026-10-20,12.22,3.82,11.92,12.08,12.21,12.37,9.11,0.41,4289761,13.56,4.77,136.82,10.99,8.09,True,False,"T1,T2"
 SPOT,Spotify Technology S.A. Ordinary Shares,106.78,Consumer Discretionary,2026-10-20,526.08,1.41,528.52,510.16,508.72,521.92,496.82,17.48,1674041,696.95,405.0,-22.12,10.95,8.05,False,False,"U:>15% pod maximom,U:rok v strate,V1"
 NUE,Nucor Corporation Common Stock,59.15,Industrials,2026-10-20,261.5,0.3,265.83,248.72,247.32,253.42,220.05,7.26,1353403,280.11,133.78,91.42,10.85,7.95,True,False,V1
 RNR,RenaissanceRe Holdings Ltd. Common Stock,14.61,Finance,2026-10-20,354.33,0.8,352.2,332.74,327.54,328.71,307.44,7.1,319807,357.07,231.17,42.51,10.84,7.94,False,False,U:objem
-HLT,Hilton Worldwide Holdings Inc. Common Stock ,77.88,Consumer Discretionary,2026-10-20,359.29,3.83,346.34,325.88,316.28,320.48,318.57,6.81,1797615,360.4,253.54,37.64,10.81,7.91,True,False,T3
+HLT,Hilton Worldwide Holdings Inc. Common Stock ,77.88,Consumer Discretionary,2026-10-20,359.29,3.83,346.34,325.88,316.28,320.48,318.57,6.81,1797615,360.4,253.54,37.64,10.81,7.91,True,False,"T3,T6"
 EQH,Equitable Holdings Inc. Common Stock,14.52,Finance,2026-10-20,54.02,1.6,54.06,53.03,53.09,52.21,45.61,1.5,2855565,55.22,35.19,12.52,10.81,7.91,True,False,"T2,V1"
 CHRD,Chord Energy Corporation Common Stock,8.45,Energy,2026-10-20,152.22,-1.46,155.85,141.75,139.61,143.92,128.77,4.55,709800,157.06,84.25,69.7,10.79,7.89,False,False,"U:objem,V1"
 DEO,Diageo plc Common Stock,52.04,Consumer Staples,2026-10-20,93.41,-0.09,94.54,88.06,86.33,89.64,85.58,1.69,1122044,102.74,72.45,-4.65,10.77,7.87,False,False,"U:rok v strate,V1"
@@ -425,7 +425,7 @@ NRIX,Nurix Therapeutics Inc. Common stock,2.72,Health Care,2026-10-20,26.1,4.69,
 AMT,American Tower Corporation (REIT) Common Stock,85.28,Real Estate,2026-10-20,183.56,0.29,186.0,172.31,170.47,174.0,176.94,4.81,2776712,196.08,160.06,-4.93,10.54,7.64,False,False,"U:rok v strate,V1"
 BRK-A,Berkshire Hathaway Inc.,1174.79,,2026-10-20,809555.0,1.36,799596.0,770107.95,761624.75,763497.96,740895.99,8505.14,185,810900.0,698000.0,9.31,10.48,7.58,False,False,U:objem
 RNW,ReNew Energy Global plc Class A Ordinary Shares,2.51,Utilities,2026-10-20,6.87,-0.15,6.89,6.86,6.86,6.84,5.91,0.02,2190222,7.78,4.39,-9.84,10.45,7.55,False,False,"U:rok v strate,T2,V1"
-LLY,Eli Lilly and Company Common Stock,1167.6,Health Care,2026-10-20,1283.66,3.49,1259.75,1188.21,1165.05,1182.47,1081.75,37.77,2490506,1311.75,793.82,58.68,10.37,7.47,True,True,
+LLY,Eli Lilly and Company Common Stock,1167.6,Health Care,2026-10-20,1283.66,3.49,1259.75,1188.21,1165.05,1182.47,1081.75,37.77,2490506,1311.75,793.82,58.68,10.37,7.47,True,False,T6
 CRBG,Corebridge Financial Inc. Common Stock,15.34,Finance,2026-10-20,34.95,1.57,34.95,34.27,34.32,33.85,29.64,0.94,4578330,35.64,22.19,10.04,10.32,7.42,True,False,"T2,V1"
 BRK-B,Berkshire Hathaway Inc.,1174.27,,2026-10-20,539.82,1.43,533.19,513.07,507.48,508.92,493.92,5.99,4381871,541.0,464.01,9.26,10.3,7.4,True,True,
 FTNT,Fortinet Inc. Common Stock,125.83,Technology,2026-10-20,170.93,-0.33,173.31,181.57,180.88,169.77,124.8,6.32,4501971,197.13,73.55,101.43,10.24,7.34,True,False,V1
@@ -441,14 +441,14 @@ RIG,Transocean Ltd (Switzerland) Common Stock,6.58,Energy,2026-10-20,5.82,-1.19,
 GGG,Graco Inc. Common Stock,13.08,Industrials,2026-10-20,81.09,0.42,81.76,78.94,77.8,78.89,81.63,1.39,1854780,95.69,72.51,-1.52,9.76,6.86,False,False,"U:>15% pod maximom,U:rok v strate,T1,V1"
 ABM,ABM Industries Incorporated Common Stock,3.01,Consumer Discretionary,2026-10-20,51.56,0.29,51.8,49.69,49.35,48.78,44.46,0.99,442161,52.12,36.96,13.22,9.68,6.78,False,False,"U:objem,V1"
 EOG,EOG Resources Inc. Common Stock,82.69,Energy,2026-10-20,157.91,0.16,159.0,146.95,143.71,146.55,134.84,3.65,3003933,159.93,101.59,48.41,9.66,6.76,True,False,V1
-VTRS,Viatris Inc. Common Stock,20.97,Health Care,2026-10-20,18.65,2.14,18.75,17.76,17.47,17.06,15.66,0.5,9323668,18.75,9.92,80.89,9.64,6.74,True,False,V1
+VTRS,Viatris Inc. Common Stock,20.97,Health Care,2026-10-20,18.65,2.14,18.75,17.76,17.47,17.06,15.66,0.5,9323668,18.75,9.92,80.89,9.64,6.74,True,False,"T6,V1"
 EGO,Eldorado Gold Corporation Ordinary Shares,9.19,Basic Materials,2026-10-20,35.18,0.09,35.9,37.91,39.73,40.93,37.04,1.53,3000369,51.16,24.44,22.41,9.63,6.73,False,False,"U:>15% pod maximom,T1,T2,V1"
 EHC,Encompass Health Corporation Common Stock,12.01,Health Care,2026-10-20,121.67,-0.03,128.38,123.2,122.58,122.42,109.18,3.25,934395,129.96,92.77,-2.82,9.59,6.69,False,False,"U:objem,U:rok v strate,T1,V1"
 EMBJ,Embraer S.A. Common Stock,13.24,Industrials,2026-10-20,72.37,-1.2,73.97,73.92,74.72,74.37,67.58,2.28,1367720,80.75,53.56,19.23,9.57,6.67,True,False,"T1,T2,V1"
 KR,Kroger Company (The) Common Stock,37.24,Consumer Staples,2026-10-20,62.98,-0.11,63.45,60.56,59.79,59.08,63.44,1.67,7086263,76.58,54.15,-8.92,9.45,6.55,False,False,"U:>15% pod maximom,U:rok v strate,T1,V1"
 OXY,Occidental Petroleum Corporation Common Stock,62.7,Energy,2026-10-20,62.92,0.32,63.06,59.13,58.18,59.54,55.24,1.59,8482041,67.45,38.8,53.35,9.43,6.53,True,False,V1
 FIVE,Five Below Inc. Common Stock,12.42,Consumer Discretionary,2026-10-20,223.8,-0.8,226.65,219.01,222.14,233.8,216.58,7.31,1074501,263.88,143.02,43.32,9.24,6.34,False,False,"U:>15% pod maximom,T1,T2,V1"
-EBAY,eBay Inc. Common Stock,53.61,Consumer Discretionary,2026-10-20,121.19,0.6,121.15,111.72,109.21,108.08,102.84,3.41,4494801,124.59,78.03,26.7,9.23,6.33,True,True,
+EBAY,eBay Inc. Common Stock,53.61,Consumer Discretionary,2026-10-20,121.19,0.6,121.15,111.72,109.21,108.08,102.84,3.41,4494801,124.59,78.03,26.7,9.23,6.33,True,False,T6
 TM,Toyota Motor Corporation Common Stock,252.94,Industrials,2026-10-20,196.53,1.27,194.65,187.67,187.5,191.01,199.7,2.88,349257,248.9,166.1,-1.79,9.22,6.32,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1"
 AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,2.19,Health Care,2026-10-20,16.74,1.52,16.74,16.33,16.38,16.26,15.58,0.45,961322,19.25,11.39,41.39,9.2,6.3,False,False,"U:objem,T2,V1"
 RYAN,Ryan Specialty Holdings Inc. Class A Common Stock,10.43,Finance,2026-10-20,42.89,5.2,40.83,38.3,38.14,40.25,39.28,1.24,1959880,58.94,29.28,-18.35,9.16,6.26,False,False,"U:>15% pod maximom,U:rok v strate,T3"
@@ -460,13 +460,13 @@ VRTX,Vertex Pharmaceuticals Incorporated Common Stock,127.22,Health Care,2026-10
 TILE,Interface Inc. Common Stock,2.05,Consumer Discretionary,2026-10-20,35.64,0.56,36.46,35.14,34.86,36.15,31.84,0.89,475788,40.5,24.4,28.43,8.89,5.99,False,False,"U:objem,T1,V1"
 MD,Pediatrix Medical Group Inc. Common Stock,2.22,Health Care,2026-10-20,28.08,2.86,27.63,26.46,26.06,26.5,23.59,0.71,746741,28.29,16.47,66.35,8.71,5.81,False,False,U:objem
 MRSH,Marsh Common Stock,89.63,Finance,2026-10-20,191.26,1.46,188.85,175.92,172.72,181.22,176.76,3.96,2530130,198.49,156.6,0.71,8.68,5.78,True,True,
-ETSY,Etsy Inc. Common Stock,7.83,Consumer Discretionary,2026-10-20,87.41,2.52,86.62,75.91,72.76,77.32,67.13,3.16,3167933,90.32,44.0,22.53,8.61,5.71,True,False,T3
+ETSY,Etsy Inc. Common Stock,7.83,Consumer Discretionary,2026-10-20,87.41,2.52,86.62,75.91,72.76,77.32,67.13,3.16,3167933,90.32,44.0,22.53,8.61,5.71,True,False,"T3,T6"
 AMR,Alpha Metallurgical Resources Inc. Common Stock,2.03,Energy,2026-10-20,158.81,-0.8,167.91,172.72,176.86,188.91,187.77,8.17,325930,253.82,133.64,-1.38,8.57,5.67,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,T4,V1"
 SEIC,SEI Investments Company Common Stock,12.58,Finance,2026-10-20,107.15,2.25,105.44,104.3,104.14,106.34,92.22,2.34,754347,112.15,75.08,31.17,8.51,5.61,False,False,U:objem
 PGR,Progressive Corporation (The) Common Stock,127.38,Finance,2026-10-20,221.93,1.29,219.34,213.21,212.17,215.01,208.61,5.69,2601304,239.38,189.2,1.16,8.5,5.6,True,True,
 PTEN,Patterson-UTI Energy Inc. Common Stock,4.6,Energy,2026-10-20,11.63,-3.49,12.1,11.29,11.31,11.79,10.35,0.49,8003912,13.39,5.24,101.56,8.49,5.59,True,False,"T1,T2,V1"
 MET,MetLife Inc. Common Stock,63.28,Finance,2026-10-20,101.18,1.61,101.09,97.75,96.89,96.99,84.84,2.05,3332098,102.43,67.33,28.5,8.48,5.58,True,True,
-WST,West Pharmaceutical Services Inc. Common Stock,27.02,Health Care,2026-10-20,388.78,1.27,387.01,373.59,369.07,359.47,308.39,8.47,600130,389.75,223.83,41.43,8.47,5.57,False,False,U:objem
+WST,West Pharmaceutical Services Inc. Common Stock,27.02,Health Care,2026-10-20,388.78,1.27,387.01,373.59,369.07,359.47,308.39,8.47,600130,389.75,223.83,41.43,8.47,5.57,False,False,"U:objem,T6"
 NET,Cloudflare Inc. Class A Common Stock,105.96,Technology,2026-10-20,291.69,-1.98,306.76,339.94,347.97,319.49,243.23,16.4,3333098,370.35,158.83,36.92,8.44,5.54,False,False,"U:>15% pod maximom,T1,T2,T4,V1"
 WT,WisdomTree Inc. Common Stock,3.23,Finance,2026-10-20,21.61,1.31,21.53,23.06,23.46,23.34,18.75,0.89,2627133,25.91,10.69,65.72,8.43,5.53,False,False,"U:>15% pod maximom,T1,T2"
 BRO,Brown & Brown Inc. Common Stock,23.16,Finance,2026-10-20,70.9,2.43,69.42,63.33,62.35,67.14,67.01,1.79,2195385,90.46,53.81,-18.99,8.43,5.53,False,False,"U:>15% pod maximom,U:rok v strate,T3"
@@ -474,11 +474,11 @@ HP,Helmerich & Payne Inc. Common Stock,3.82,Energy,2026-10-20,38.18,-0.05,38.36,
 ZBH,Zimmer Biomet Holdings Inc. Common Stock,18.12,Health Care,2026-10-20,96.0,1.06,95.47,91.19,91.32,95.21,91.44,2.21,2095712,106.88,79.12,-6.56,8.25,5.35,False,False,"U:rok v strate,T2"
 TTC,Toro Company (The) Common Stock,9.51,Consumer Discretionary,2026-10-20,102.65,2.23,100.68,98.1,96.26,96.97,94.7,2.17,727773,105.19,67.64,37.56,8.21,5.31,False,False,U:objem
 RS,Reliance Inc. Common Stock,21.22,Industrials,2026-10-20,417.27,0.38,421.4,399.14,394.08,398.49,363.86,10.57,310076,433.02,260.31,49.87,8.04,5.14,False,False,"U:objem,V1"
-PVH,PVH Corp. Common Stock,3.93,Industrials,2026-10-20,86.5,1.53,85.72,79.29,76.51,76.94,76.87,2.76,925549,100.75,59.6,5.36,8.02,5.12,False,False,U:objem
+PVH,PVH Corp. Common Stock,3.93,Industrials,2026-10-20,86.5,1.53,85.72,79.29,76.51,76.94,76.87,2.76,925549,100.75,59.6,5.36,8.02,5.12,False,False,"U:objem,T6"
 AVNT,Avient Corporation Common Stock,3.62,Industrials,2026-10-20,40.35,2.13,40.0,40.25,40.59,42.05,38.17,1.44,819498,46.64,27.48,26.37,8.0,5.1,False,False,"U:objem,T1,T2"
 LAUR,Laureate Education Inc. Common Stock,5.41,Real Estate,2026-10-20,38.96,-0.87,39.39,38.57,37.84,37.64,35.47,0.94,1028895,40.92,24.98,32.92,7.98,5.08,True,False,V1
 ECL,Ecolab Inc. Common Stock,80.16,Consumer Discretionary,2026-10-20,288.16,0.78,290.0,281.01,277.01,279.82,275.06,5.76,1356392,309.27,243.15,2.85,7.97,5.07,True,False,V1
-CXT,Crane NXT Co. Common Stock,3.27,Industrials,2026-10-20,55.87,-1.55,57.11,50.26,48.16,49.78,47.51,1.92,556309,68.54,35.71,-17.18,7.96,5.06,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3,V1"
+CXT,Crane NXT Co. Common Stock,3.27,Industrials,2026-10-20,55.87,-1.55,57.11,50.26,48.16,49.78,47.51,1.92,556309,68.54,35.71,-17.18,7.96,5.06,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T3,T6,V1"
 NWS,News Corporation Class B Common Stock,17.78,Consumer Discretionary,2026-10-20,33.4,1.52,32.97,32.09,32.09,33.06,30.33,0.64,1102930,35.76,25.49,11.56,7.92,5.02,True,False,T2
 ZTS,Zoetis Inc. Class A Common Stock,32.89,Health Care,2026-10-20,80.04,0.57,79.98,73.41,71.85,74.23,95.41,1.91,5223315,148.3,68.77,-44.82,7.89,4.99,False,False,"U:>15% pod maximom,U:rok v strate,T1"
 FSLY,Fastly Inc. Class A Common Stock,3.66,Technology,2026-10-20,22.07,-4.0,23.6,25.6,26.0,24.87,20.86,2.09,6580871,34.82,7.87,166.55,7.87,4.97,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,V1"
@@ -494,14 +494,14 @@ AXTI,AXT Inc Common Stock,3.72,Technology,2026-10-20,57.09,0.53,59.43,71.34,75.0
 MHK,Mohawk Industries Inc. Common Stock,7.84,Consumer Discretionary,2026-10-20,118.95,2.74,121.61,121.66,122.75,127.09,115.86,4.5,1068661,140.3,92.99,-7.24,7.73,4.83,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,V1"
 PLMR,Palomar Holdings Inc. Common stock,3.63,Finance,2026-10-20,140.53,1.96,140.13,130.1,129.47,131.47,125.94,3.68,227747,147.62,100.81,22.06,7.73,4.83,False,False,U:objem
 RACE,Ferrari N.V. Common Shares,92.23,Industrials,2026-10-20,400.24,1.52,397.12,394.88,399.13,406.77,368.17,6.55,439622,437.15,312.51,0.48,7.7,4.8,False,False,"U:objem,T1,T2"
-BKE,Buckle Inc. (The) Common Stock,2.42,Consumer Discretionary,2026-10-20,46.57,-0.81,47.0,43.9,42.49,43.09,47.74,1.07,446706,58.52,39.44,-15.88,7.7,4.8,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,V1"
-CI,The Cigna Group Common Stock,78.88,Health Care,2026-10-20,306.6,2.71,302.15,280.62,274.83,279.8,280.68,7.7,1633223,311.34,239.51,-0.08,7.64,4.74,False,False,U:rok v strate
+BKE,Buckle Inc. (The) Common Stock,2.42,Consumer Discretionary,2026-10-20,46.57,-0.81,47.0,43.9,42.49,43.09,47.74,1.07,446706,58.52,39.44,-15.88,7.7,4.8,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T6,V1"
+CI,The Cigna Group Common Stock,78.88,Health Care,2026-10-20,306.6,2.71,302.15,280.62,274.83,279.8,280.68,7.7,1633223,311.34,239.51,-0.08,7.64,4.74,False,False,"U:rok v strate,T6"
 RSG,Republic Services Inc. Common Stock,70.13,Utilities,2026-10-20,232.98,1.72,231.13,217.7,214.55,219.0,215.7,4.12,1445476,233.42,196.41,5.84,7.6,4.7,True,True,
 OGC,OceanaGold Corporation Common Shares,5.98,,2026-10-20,26.4,-1.01,27.16,27.05,27.58,28.6,30.46,0.98,565614,43.33,20.18,6.49,7.58,4.68,False,False,"U:objem,U:>15% pod maximom,T1,T2,V1"
-HUM,Humana Inc. Common Stock,49.83,Health Care,2026-10-20,427.38,2.99,423.12,403.6,393.14,395.35,302.67,20.53,1332736,456.5,163.11,50.49,7.49,4.59,True,True,
+HUM,Humana Inc. Common Stock,49.83,Health Care,2026-10-20,427.38,2.99,423.12,403.6,393.14,395.35,302.67,20.53,1332736,456.5,163.11,50.49,7.49,4.59,True,False,T6
 BZ,KANZHUN LIMITED American Depository Shares,7.87,Technology,2026-10-20,16.55,-0.84,16.75,15.34,14.9,15.84,15.41,0.42,6461769,22.81,12.57,-25.48,7.47,4.57,False,False,"U:>15% pod maximom,U:rok v strate,V1"
-CNC,Centene Corporation Common Stock,33.9,Health Care,2026-10-20,70.81,3.18,70.34,65.28,64.14,65.54,54.43,2.23,4593904,71.21,31.63,98.85,7.47,4.57,True,True,
-MAR,Marriott International Class A Common Stock,101.88,Consumer Discretionary,2026-10-20,397.31,1.69,392.77,365.99,354.24,353.68,353.03,7.16,1560226,410.98,256.76,52.81,7.44,4.54,True,True,
+CNC,Centene Corporation Common Stock,33.9,Health Care,2026-10-20,70.81,3.18,70.34,65.28,64.14,65.54,54.43,2.23,4593904,71.21,31.63,98.85,7.47,4.57,True,False,T6
+MAR,Marriott International Class A Common Stock,101.88,Consumer Discretionary,2026-10-20,397.31,1.69,392.77,365.99,354.24,353.68,353.03,7.16,1560226,410.98,256.76,52.81,7.44,4.54,True,False,T6
 GPN,Global Payments Inc. Common Stock,22.38,Consumer Discretionary,2026-10-20,84.82,0.27,84.88,82.81,83.26,87.2,76.63,2.34,2599985,95.88,61.16,-2.53,7.41,4.51,False,False,"U:rok v strate,T1,T2,V1"
 IMO,Imperial Oil Limited Common Stock,65.4,Energy,2026-10-20,134.99,-0.18,135.97,125.85,124.74,129.58,122.27,3.41,571515,139.44,83.27,56.46,7.41,4.51,False,False,"U:objem,V1"
 VRNS,Varonis Systems Inc. Common Stock,5.59,Technology,2026-10-20,48.68,-0.04,48.76,48.04,47.91,45.99,34.92,1.61,2490614,63.8,19.7,-21.77,7.39,4.49,False,False,"U:>15% pod maximom,U:rok v strate,V1"
@@ -517,11 +517,11 @@ CCEP,Coca-Cola Europacific Partners plc Ordinary Shares,50.79,Consumer Staples,2
 J,Jacobs Solutions Inc. Common Stock,16.19,Industrials,2026-10-20,139.67,0.96,142.04,138.97,139.72,143.22,133.43,3.69,869987,168.44,105.68,-14.09,7.03,4.13,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,V1"
 MRX,Marex Group Limited Ordinary Shares,5.16,Finance,2026-10-20,70.47,1.18,72.62,71.67,72.48,71.99,55.94,3.2,718717,79.11,29.91,128.58,7.02,4.12,False,False,"U:objem,T1,T2,V1"
 GHC,Graham Holdings Company Common Stock,5.13,Real Estate,2026-10-20,1225.68,1.28,1211.5,1168.32,1152.53,1158.02,1134.18,25.81,30952,1262.35,974.0,22.39,6.96,4.06,False,False,U:objem
-IRON,Disc Medicine Inc. Common Stock,3.03,Health Care,2026-10-20,79.48,0.7,80.22,63.79,64.62,71.57,70.66,4.59,655984,99.5,40.0,-8.82,6.94,4.04,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T2,T3,T4,V1"
+IRON,Disc Medicine Inc. Common Stock,3.03,Health Care,2026-10-20,79.48,0.7,80.22,63.79,64.62,71.57,70.66,4.59,655984,99.5,40.0,-8.82,6.94,4.04,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T2,T3,T4,T6,V1"
 STE,STERIS plc (Ireland) Ordinary Shares,21.64,Health Care,2026-10-20,225.18,1.45,223.41,214.0,210.36,220.76,225.95,4.84,673401,269.44,195.14,-7.03,6.94,4.04,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1"
 AJG,Arthur J. Gallagher & Co. Common Stock,64.85,Finance,2026-10-20,259.26,2.47,254.16,235.16,232.03,246.35,231.88,6.67,1389455,284.33,190.75,-7.16,6.91,4.01,False,False,"U:rok v strate,T3"
-DRH,Diamondrock Hospitality Company Common Stock,2.75,Real Estate,2026-10-20,13.79,2.45,13.55,12.74,12.47,12.51,11.12,0.36,2908793,13.88,7.58,76.79,6.9,4.0,True,True,
-PG,Procter & Gamble Company (The) Common Stock,366.54,Consumer Discretionary,2026-10-20,159.32,1.03,158.49,150.55,147.81,147.37,148.19,2.49,8894866,167.25,137.62,4.84,6.83,3.93,True,True,
+DRH,Diamondrock Hospitality Company Common Stock,2.75,Real Estate,2026-10-20,13.79,2.45,13.55,12.74,12.47,12.51,11.12,0.36,2908793,13.88,7.58,76.79,6.9,4.0,True,False,T6
+PG,Procter & Gamble Company (The) Common Stock,366.54,Consumer Discretionary,2026-10-20,159.32,1.03,158.49,150.55,147.81,147.37,148.19,2.49,8894866,167.25,137.62,4.84,6.83,3.93,True,False,T6
 BLK,BlackRock Inc. Common Stock,174.17,Finance,2026-10-20,1128.68,0.36,1141.59,1081.88,1068.67,1106.12,1061.65,27.32,605833,1187.17,917.39,-2.7,6.82,3.92,False,False,"U:objem,U:rok v strate,V1"
 JHX,James Hardie Industries plc. Ordinary Shares,14.83,Industrials,2026-10-20,26.45,3.52,26.0,25.42,25.63,27.66,24.17,0.86,9290630,31.43,16.46,24.3,6.74,3.84,False,False,"U:>15% pod maximom,T1,T2"
 CBC,Central Bancompany Inc. Class A Common Stock,7.76,Finance,2026-10-20,33.55,3.55,33.55,32.23,31.89,32.26,28.24,0.83,1061906,33.82,22.5,,6.68,3.78,True,False,V1
@@ -538,7 +538,7 @@ AZO,AutoZone Inc. Common Stock,50.57,Consumer Discretionary,2026-10-20,3160.18,2
 RLI,RLI Corp. Common Stock (DE),5.62,Finance,2026-10-20,62.71,2.47,62.38,57.2,56.98,60.5,58.41,1.48,787152,67.12,47.26,5.15,6.31,3.41,False,False,U:objem
 AFG,American Financial Group Inc. Common Stock,12.28,Finance,2026-10-20,149.24,0.78,149.28,141.73,140.33,142.69,135.66,2.5,375706,150.31,123.09,14.3,6.29,3.39,False,False,"U:objem,V1"
 SCI,Service Corporation International Common Stock,11.04,Consumer Discretionary,2026-10-20,82.2,1.76,81.54,78.06,77.48,80.39,79.91,1.45,970593,90.99,68.41,0.6,6.27,3.37,False,False,U:objem
-STNE,StoneCo Ltd. Class A Common Shares,2.83,Technology,2026-10-20,12.07,5.05,11.74,10.77,10.31,10.17,12.38,0.67,5738336,19.64,8.95,-35.32,6.25,3.35,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T4"
+STNE,StoneCo Ltd. Class A Common Shares,2.83,Technology,2026-10-20,12.07,5.05,11.74,10.77,10.31,10.17,12.38,0.67,5738336,19.64,8.95,-35.32,6.25,3.35,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T4,T6"
 SMCI,Super Micro Computer Inc. Common Stock,21.09,Technology,2026-10-20,32.47,1.15,33.18,39.9,41.5,38.71,32.49,2.51,42935796,56.6,19.48,-41.01,6.25,3.35,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,V1"
 GEF,Greif Inc. Class A Common Stock,3.73,,2026-10-20,81.56,0.93,83.08,81.27,81.97,83.46,74.03,2.12,338252,90.57,55.75,37.45,6.2,3.3,False,False,"U:objem,T1,T2,V1"
 TPG,TPG Inc. Class A Common Stock,16.29,Finance,2026-10-20,44.38,2.97,43.4,44.08,44.87,48.09,46.52,1.64,2857201,70.38,36.95,-20.49,6.2,3.3,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2"
@@ -555,15 +555,15 @@ LNG,Cheniere Energy Inc. Common Stock,59.19,Utilities,2026-10-20,283.35,-1.13,29
 FCX,Freeport-McMoRan Inc. Common Stock,100.16,Basic Materials,2026-10-20,68.87,-1.26,70.09,71.32,71.84,72.01,64.86,2.49,12666000,80.24,38.54,63.24,5.95,3.05,True,False,"T1,T2,V1"
 ADUS,Addus HomeCare Corporation Common Stock,2.15,Health Care,2026-10-20,118.03,2.49,116.85,114.04,114.09,116.31,105.9,2.62,204952,124.44,87.95,-2.79,5.95,3.05,False,False,"U:objem,U:rok v strate,T2"
 GFF,Griffon Corporation Common Stock,4.2,Industrials,2026-10-20,94.99,2.51,93.76,93.76,94.07,96.71,88.56,2.8,346874,108.57,65.01,26.25,5.93,3.03,False,False,"U:objem,T1,T2"
-PACS,PACS Group Inc. Common Stock,7.26,Health Care,2026-10-20,47.72,4.08,48.0,43.61,42.47,43.6,39.43,1.56,792992,49.49,10.31,276.34,5.9,3.0,False,False,"U:objem,U:divoký,V1"
+PACS,PACS Group Inc. Common Stock,7.26,Health Care,2026-10-20,47.72,4.08,48.0,43.61,42.47,43.6,39.43,1.56,792992,49.49,10.31,276.34,5.9,3.0,False,False,"U:objem,U:divoký,T6,V1"
 BCPC,Balchem Corporation Common Stock,5.43,Industrials,2026-10-20,171.62,0.7,171.11,168.04,167.16,171.42,168.76,3.23,213107,183.9,146.21,13.83,5.87,2.97,False,False,U:objem
 JKHY,Jack Henry & Associates Inc. Common Stock,10.71,Technology,2026-10-20,154.71,1.26,153.56,148.81,148.73,156.24,155.61,3.88,939984,193.39,121.04,-0.23,5.85,2.95,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1"
 FIG,Figma Inc. Class A Common Stock,11.48,Technology,2026-10-20,22.71,5.43,21.84,21.67,21.82,23.76,23.6,1.16,15813050,58.58,16.6,-59.24,5.78,2.88,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4"
 WLY,John Wiley & Sons Inc. Common Stock,2.63,Consumer Discretionary,2026-10-20,52.28,0.97,52.97,49.67,48.67,50.13,42.53,1.5,471051,57.45,28.38,41.87,5.68,2.78,False,False,"U:objem,V1"
 KNTK,Kinetik Holdings Inc. Class A Common Stock,8.87,Utilities,2026-10-20,54.52,-0.24,55.75,53.2,52.91,53.64,47.97,1.6,1174382,56.92,31.33,48.76,5.62,2.72,True,False,V1
 CRSP,CRISPR Therapeutics AG Common Shares,4.84,Health Care,2026-10-20,49.88,-0.32,50.3,53.1,54.73,54.8,53.08,2.86,1571258,75.06,44.12,-32.57,5.59,2.69,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,V1"
-SHO,Sunstone Hotel Investors Inc. Sunstone Hotel Investors Inc. Common Shares,2.23,Consumer Discretionary,2026-10-20,12.4,3.42,12.0,11.45,11.23,11.21,10.42,0.3,2396766,12.47,8.69,33.91,5.53,2.63,True,True,
-RBLX,Roblox Corporation Class A Common Stock,36.25,Technology,2026-10-20,52.35,3.15,50.96,46.87,46.5,44.04,53.36,2.35,12652585,135.85,33.88,-61.18,5.46,2.56,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T1,T3"
+SHO,Sunstone Hotel Investors Inc. Sunstone Hotel Investors Inc. Common Shares,2.23,Consumer Discretionary,2026-10-20,12.4,3.42,12.0,11.45,11.23,11.21,10.42,0.3,2396766,12.47,8.69,33.91,5.53,2.63,True,False,T6
+RBLX,Roblox Corporation Class A Common Stock,36.25,Technology,2026-10-20,52.35,3.15,50.96,46.87,46.5,44.04,53.36,2.35,12652585,135.85,33.88,-61.18,5.46,2.56,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T1,T3,T6"
 SWK,Stanley Black & Decker Inc. Common Stock,13.77,Consumer Discretionary,2026-10-20,94.09,3.18,92.56,90.31,89.7,93.59,84.78,2.71,1779417,104.68,61.9,36.18,5.42,2.52,True,True,
 JXN,Jackson Financial Inc. Class A Common Stock ,8.71,Finance,2026-10-20,130.44,1.42,131.14,130.99,131.46,132.89,117.31,3.64,733041,140.9,89.67,33.31,5.41,2.51,False,False,"U:objem,T1,T2,V1"
 EG,Everest Group Ltd. Common Stock,14.97,Finance,2026-10-20,393.19,0.69,392.01,373.49,370.67,373.37,350.75,7.31,356631,401.07,302.44,12.04,5.39,2.49,False,False,U:objem
@@ -571,14 +571,14 @@ NWL,Newell Brands Inc. Common Stock,2.36,Industrials,2026-10-20,5.68,2.53,5.7,5.
 BNS,Bank Nova Scotia Halifax Pfd 3 Ordinary Shares,111.81,Finance,2026-10-20,92.28,1.25,91.68,90.74,91.46,91.43,81.53,1.43,2010831,95.74,63.74,44.05,5.38,2.48,True,False,T2
 HMY,Harmony Gold Mining Company Limited,10.62,Basic Materials,2026-10-20,16.72,-0.06,17.06,17.33,18.04,19.17,18.11,0.54,3559158,26.06,13.03,-17.23,5.29,2.39,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,V1"
 GRDN,Guardian Pharmacy Services Inc. Class A Common Stock,2.54,Consumer Staples,2026-10-20,41.87,4.31,40.4,41.03,42.21,40.82,37.73,1.48,504890,48.33,25.01,61.72,5.28,2.38,False,False,"U:objem,T2"
-PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,2.27,Real Estate,2026-10-20,20.71,3.03,20.24,19.09,18.67,18.51,15.72,0.75,2199219,20.92,9.99,91.58,5.23,2.33,True,True,
+PEB,Pebblebrook Hotel Trust Common Shares of Beneficial Interest,2.27,Real Estate,2026-10-20,20.71,3.03,20.24,19.09,18.67,18.51,15.72,0.75,2199219,20.92,9.99,91.58,5.23,2.33,True,False,T6
 CELH,Celsius Holdings Inc. Common Stock,7.52,Consumer Staples,2026-10-20,29.96,0.81,30.05,28.0,27.94,29.36,35.45,1.08,8819841,66.0,23.56,-53.51,5.23,2.33,False,False,"U:>15% pod maximom,U:rok v strate,T1,V1"
 MDLZ,Mondelez International Inc. Class A Common Stock,80.84,Consumer Staples,2026-10-20,63.99,1.03,63.98,60.73,60.21,61.75,60.03,1.18,8106211,66.65,51.2,1.88,5.14,2.24,True,True,
-APLE,Apple Hospitality REIT Inc. Common Shares,4.06,Real Estate,2026-10-20,17.82,3.6,17.24,16.46,16.1,16.12,14.41,0.37,2674363,17.85,10.85,52.7,5.13,2.23,True,True,
+APLE,Apple Hospitality REIT Inc. Common Shares,4.06,Real Estate,2026-10-20,17.82,3.6,17.24,16.46,16.1,16.12,14.41,0.37,2674363,17.85,10.85,52.7,5.13,2.23,True,False,T6
 WLYB,John Wiley & Sons Inc. Common Stock,2.69,Consumer Discretionary,2026-10-20,53.04,0.0,53.38,49.73,48.58,50.37,42.8,0.55,2534,55.51,29.62,43.7,5.11,2.21,False,False,"U:objem,V1"
 MICC,The Magnum Ice Cream Company N.V. Ordinary Shares,11.51,Consumer Staples,2026-10-20,18.99,1.01,18.9,18.09,18.19,18.99,17.03,0.42,782500,20.68,12.94,,5.09,2.19,False,False,"U:objem,T1,T2"
 UTHR,United Therapeutics Corporation Common Stock,23.3,Health Care,2026-10-20,553.88,1.98,560.0,528.46,516.93,515.23,527.57,21.19,707766,609.35,409.07,28.01,5.09,2.19,False,False,"U:objem,V1"
-CHH,Choice Hotels International Inc. Common Stock,4.95,Consumer Discretionary,2026-10-20,113.46,3.48,110.75,104.23,101.79,103.48,106.77,3.59,530715,123.82,84.04,14.56,5.06,2.16,False,False,U:objem
+CHH,Choice Hotels International Inc. Common Stock,4.95,Consumer Discretionary,2026-10-20,113.46,3.48,110.75,104.23,101.79,103.48,106.77,3.59,530715,123.82,84.04,14.56,5.06,2.16,False,False,"U:objem,T6"
 SHW,Sherwin-Williams Company (The) Common Stock,80.5,Consumer Discretionary,2026-10-20,336.01,1.33,333.6,325.32,322.74,332.88,333.24,7.72,1746282,377.77,289.86,1.44,5.03,2.13,True,True,
 TFPM,Triple Flag Precious Metals Corp. Common Shares,6.33,Industrials,2026-10-20,30.69,0.23,30.91,30.88,31.5,32.29,33.01,0.86,495338,41.7,26.61,-3.97,5.03,2.13,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,V1"
 TMDX,TransMedics Group Inc. Common Stock,2.48,Health Care,2026-10-20,74.75,4.4,72.81,79.63,82.97,84.91,97.15,4.28,834112,156.0,60.1,-37.66,4.99,2.09,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,T4"
@@ -591,7 +591,7 @@ ASH,Ashland Inc. Common Stock,3.26,Consumer Discretionary,2026-10-20,71.69,0.7,7
 UGI,UGI Corporation Common Stock,8.17,Utilities,2026-10-20,38.58,1.34,38.64,37.05,36.96,37.35,36.62,0.79,1976506,41.34,31.65,17.77,4.75,1.85,True,False,V1
 SCCO,Southern Copper Corporation Common Stock,168.35,Basic Materials,2026-10-20,202.34,0.28,203.08,203.06,202.0,201.36,185.57,7.12,1073951,220.78,115.74,55.73,4.75,1.85,True,False,V1
 PKG,Packaging Corporation of America Common Stock,21.06,Consumer Discretionary,2026-10-20,238.92,1.07,239.27,232.58,232.71,237.96,227.99,4.61,608607,259.98,191.5,16.05,4.7,1.8,False,False,"U:objem,T2,V1"
-CCI,Crown Castle Inc. Common Stock,34.49,Real Estate,2026-10-20,81.14,0.1,82.72,72.84,70.93,74.08,82.31,2.85,3937428,100.5,65.32,-17.93,4.7,1.8,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,V1"
+CCI,Crown Castle Inc. Common Stock,34.49,Real Estate,2026-10-20,81.14,0.1,82.72,72.84,70.93,74.08,82.31,2.85,3937428,100.5,65.32,-17.93,4.7,1.8,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T6,V1"
 EW,Edwards Lifesciences Corporation Common Stock,50.27,Health Care,2026-10-20,88.29,1.23,87.73,86.38,86.7,88.29,85.16,2.05,3627511,96.29,74.43,17.27,4.65,1.75,True,False,"T1,T2"
 LOGI,Logitech International S.A. Ordinary Shares,15.37,Technology,2026-10-20,109.28,1.8,107.59,102.46,101.8,101.24,99.43,2.9,878996,129.66,83.32,-0.77,4.65,1.75,False,False,"U:objem,U:>15% pod maximom,U:rok v strate"
 AIG,American International Group Inc. New Common Stock,42.18,Finance,2026-10-20,81.88,1.51,81.33,76.63,75.48,76.26,76.63,1.32,3998707,87.29,71.25,5.39,4.64,1.74,True,True,
@@ -637,7 +637,7 @@ KWR,Quaker Houghton Common Stock,2.69,Industrials,2026-10-20,157.97,0.95,157.4,1
 TRU,TransUnion Common Stock,14.01,Finance,2026-10-20,78.23,6.99,74.23,67.25,67.1,74.94,74.37,3.1,2536634,89.12,60.96,-2.36,3.75,0.85,False,False,"U:rok v strate,T3"
 SHC,Sotera Health Company Common Stock,5.03,Health Care,2026-10-20,17.93,1.64,18.1,18.16,18.42,18.62,17.03,0.56,2380057,19.85,13.09,7.3,3.7,0.8,True,False,"T1,T2,V1"
 EWTX,Edgewise Therapeutics Inc. Common Stock,4.12,Health Care,2026-10-20,39.75,4.83,38.25,39.3,41.14,42.08,35.69,1.79,1427380,48.51,14.68,158.28,3.7,0.8,False,False,"U:>15% pod maximom,T1,T2"
-CCL,Carnival Corporation Ltd. Common Shares,35.56,Consumer Discretionary,2026-10-20,27.06,2.31,26.55,25.21,24.17,24.81,27.24,0.85,21488028,34.03,21.45,-6.24,3.68,0.78,False,False,"U:>15% pod maximom,U:rok v strate,T1"
+CCL,Carnival Corporation Ltd. Common Shares,35.56,Consumer Discretionary,2026-10-20,27.06,2.31,26.55,25.21,24.17,24.81,27.24,0.85,21488028,34.03,21.45,-6.24,3.68,0.78,False,False,"U:>15% pod maximom,U:rok v strate,T1,T6"
 JBS,JBS N.V. Class A Common Shares,13.81,Consumer Staples,2026-10-20,12.7,-1.55,13.2,12.16,11.95,12.71,14.17,0.44,5769930,18.65,10.61,-2.91,3.67,0.77,False,False,"U:>15% pod maximom,U:rok v strate,T1,V1"
 CSL,Carlisle Companies Incorporated Common Stock,13.12,Industrials,2026-10-20,339.79,2.82,335.52,326.21,322.86,339.5,352.07,10.23,530661,432.91,293.43,3.18,3.66,0.76,False,False,"U:objem,U:>15% pod maximom,T1"
 MSCI,MSCI Inc. Common Stock,40.97,Consumer Discretionary,2026-10-20,591.69,5.0,567.15,557.19,551.73,559.25,572.31,13.23,617965,644.77,501.08,10.25,3.63,0.73,False,False,U:objem
@@ -647,7 +647,7 @@ SHOO,Steven Madden Ltd. Common Stock,3.29,Consumer Discretionary,2026-10-20,45.0
 AMCR,Amcor plc Ordinary Shares,20.32,Consumer Discretionary,2026-10-20,44.73,1.77,44.45,42.43,42.08,44.08,42.86,0.89,3499979,50.94,36.25,9.77,3.52,0.62,True,True,
 TGTX,TG Therapeutics Inc. Common Stock,8.16,Health Care,2026-10-20,54.53,2.31,54.97,54.83,55.44,54.32,42.73,2.09,1959987,59.3,26.76,55.27,3.51,0.61,True,False,"T2,V1"
 KBR,KBR Inc. Common Stock,4.63,Industrials,2026-10-20,36.84,0.22,36.81,35.25,35.14,36.43,37.32,1.1,1465996,45.37,29.94,-15.35,3.43,0.53,False,False,"U:>15% pod maximom,U:rok v strate,T1"
-MO,Altria Group Inc.,123.71,Health Care,2026-10-20,74.64,0.74,74.85,70.45,69.24,68.92,68.18,1.45,8695907,77.06,54.7,15.9,3.42,0.52,True,False,V1
+MO,Altria Group Inc.,123.71,Health Care,2026-10-20,74.64,0.74,74.85,70.45,69.24,68.92,68.18,1.45,8695907,77.06,54.7,15.9,3.42,0.52,True,False,"T6,V1"
 BKH,Black Hills Corporation Common Stock,5.83,Utilities,2026-10-20,77.53,1.48,76.85,73.41,72.06,72.86,72.99,2.14,1012973,78.69,62.27,19.59,3.4,0.5,True,True,
 MFC,Manulife Financial Corporation Common Stock,73.53,Finance,2026-10-20,44.48,0.95,44.4,43.2,43.25,43.4,39.67,0.7,2059004,45.33,31.68,39.65,3.35,0.45,True,False,T2
 CNO,CNO Financial Group Inc. Common Stock,5.0,Finance,2026-10-20,54.86,1.46,54.8,53.72,53.86,54.41,48.03,0.93,914738,57.59,38.99,38.89,3.35,0.45,False,False,"U:objem,T2"
@@ -673,7 +673,7 @@ CNX,CNX Resources Corporation Common Stock,5.28,Energy,2026-10-20,35.58,-0.28,36
 YUM,Yum! Brands Inc.,40.89,Consumer Discretionary,2026-10-20,151.6,1.18,150.25,142.5,139.56,145.5,153.54,2.73,2374457,170.14,134.26,2.32,2.73,-0.17,True,False,"T1,T5"
 LBTYB,Liberty Global Ltd. Class B Common Shares,4.1,Telecommunications,2026-10-20,12.06,0.42,12.41,12.28,12.38,12.58,13.09,0.51,12158,29.01,10.2,11.56,2.73,-0.17,False,False,"U:objem,U:>15% pod maximom,T1,T2,T5,V1"
 ACGL,Arch Capital Group Ltd. Common Stock,34.29,Finance,2026-10-20,101.29,0.81,101.35,96.21,95.28,97.27,96.45,1.86,2846393,107.09,82.45,16.47,2.7,-0.2,True,False,"T5,V1"
-PHI,PLDT Inc. Sponsored ADR,4.33,Telecommunications,2026-10-20,20.23,1.0,20.27,18.37,17.85,18.48,20.1,0.58,171731,24.51,16.71,6.7,2.69,-0.21,False,False,"U:objem,U:>15% pod maximom,T3,T5,V1"
+PHI,PLDT Inc. Sponsored ADR,4.33,Telecommunications,2026-10-20,20.23,1.0,20.27,18.37,17.85,18.48,20.1,0.58,171731,24.51,16.71,6.7,2.69,-0.21,False,False,"U:objem,U:>15% pod maximom,T3,T5,T6,V1"
 BFH,Bread Financial Holdings Inc. Common Stock,3.94,Consumer Discretionary,2026-10-20,104.61,2.11,103.74,100.36,101.63,104.77,90.65,3.22,540053,114.53,59.16,74.55,2.69,-0.21,False,False,"U:objem,T1,T2,T5"
 APG,APi Group Corporation Common Stock,17.32,Consumer Discretionary,2026-10-20,39.99,-0.2,40.55,39.72,39.01,39.93,41.96,1.04,3089936,49.99,33.52,14.85,2.67,-0.23,False,False,"U:>15% pod maximom,T1,T5,V1"
 ADI,Analog Devices Inc. Common Stock,191.09,Technology,2026-10-20,397.05,0.68,406.83,402.54,396.51,383.66,367.41,13.06,3538215,445.91,223.47,61.26,2.67,-0.23,True,False,"T5,V1"
@@ -683,7 +683,7 @@ GPC,Genuine Parts Company Common Stock,17.95,Consumer Discretionary,2026-10-20,1
 QSR,Restaurant Brands International Inc. Common Shares,33.79,Consumer Discretionary,2026-10-20,75.11,1.04,74.64,71.61,71.35,74.97,73.8,1.44,2797750,81.96,64.52,10.85,2.62,-0.28,True,False,T5
 CHE,Chemed Corp,6.64,Health Care,2026-10-20,516.07,1.53,511.81,506.76,504.3,516.67,459.67,10.61,153374,557.0,365.21,15.98,2.49,-0.41,False,False,"U:objem,T1,T5"
 PEN,Penumbra Inc. Common Stock,12.7,Health Care,2026-10-20,324.34,0.6,322.86,319.37,318.57,321.06,327.18,1.83,332473,362.41,221.26,30.98,2.48,-0.42,False,False,"U:objem,T1,T5"
-BBWI,Bath & Body Works Inc.,4.0,Consumer Discretionary,2026-10-20,20.55,3.58,20.18,17.72,16.99,18.16,19.83,0.82,6614044,27.4,14.28,-20.29,2.44,-0.46,False,False,"U:>15% pod maximom,U:rok v strate,T3,T5"
+BBWI,Bath & Body Works Inc.,4.0,Consumer Discretionary,2026-10-20,20.55,3.58,20.18,17.72,16.99,18.16,19.83,0.82,6614044,27.4,14.28,-20.29,2.44,-0.46,False,False,"U:>15% pod maximom,U:rok v strate,T3,T5,T6"
 CPRT,Copart Inc. (DE) Common Stock,25.48,Consumer Discretionary,2026-10-20,27.83,1.16,27.8,27.33,27.84,29.93,32.78,0.84,10991207,45.89,25.72,-37.82,2.43,-0.47,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 STLD,Steel Dynamics Inc.,35.14,Industrials,2026-10-20,244.37,-0.33,248.55,235.73,234.18,238.56,220.85,7.48,1074596,288.74,144.78,67.06,2.4,-0.5,False,False,"U:>15% pod maximom,T5,V1"
 IDXX,IDEXX Laboratories Inc. Common Stock,43.79,Health Care,2026-10-20,557.93,0.38,563.95,527.52,518.43,533.88,578.51,12.53,549169,769.98,500.61,-13.29,2.37,-0.53,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T5,V1"
@@ -703,7 +703,7 @@ FCNCA,First Citizens BancShares Inc. Class A Common Stock,23.68,Finance,2026-10-
 BE,Bloom Energy Corporation Class A Common Stock,66.63,Energy,2026-10-20,222.65,-1.58,233.5,266.35,277.35,249.0,217.61,17.44,15580373,351.28,75.7,104.15,2.03,-0.87,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T5,V1"
 KEYS,Keysight Technologies Inc. Common Stock,57.18,Industrials,2026-10-20,334.16,-0.51,342.48,363.79,362.64,343.73,312.09,13.09,1227738,389.93,163.28,102.83,2.02,-0.88,True,False,"T1,T5,V1"
 BTX,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest,2.02,,2026-10-20,8.6,0.47,8.65,9.02,9.08,8.94,7.96,0.22,474557,9.49,6.13,30.11,2.02,-0.88,False,False,"U:objem,T1,T2,T5,V1"
-PINS,Pinterest Inc. Class A Common Stock,12.65,Technology,2026-10-20,22.98,2.86,22.47,20.42,19.5,20.97,20.95,0.83,12597796,35.42,13.84,-30.15,1.95,-0.95,False,False,"U:>15% pod maximom,U:rok v strate,T3,T5"
+PINS,Pinterest Inc. Class A Common Stock,12.65,Technology,2026-10-20,22.98,2.86,22.47,20.42,19.5,20.97,20.95,0.83,12597796,35.42,13.84,-30.15,1.95,-0.95,False,False,"U:>15% pod maximom,U:rok v strate,T3,T5,T6"
 FLS,Flowserve Corporation Common Stock,8.96,Industrials,2026-10-20,69.93,-0.81,71.14,72.48,73.41,75.49,76.4,2.52,1649173,92.41,50.64,36.5,1.95,-0.95,False,False,"U:>15% pod maximom,T1,T2,T5,V1"
 APD,Air Products and Chemicals Inc. Common Stock,66.51,Basic Materials,2026-10-20,302.58,1.32,301.5,285.06,281.8,293.65,288.24,5.56,1065855,314.87,229.11,19.03,1.88,-1.02,True,False,T5
 PTGX,Protagonist Therapeutics Inc. Common Stock,8.7,Health Care,2026-10-20,137.99,2.64,134.97,139.14,141.41,144.92,114.26,6.09,636395,160.81,73.08,79.86,1.88,-1.02,False,False,"U:objem,T1,T2,T5"
@@ -716,13 +716,13 @@ OGN,Organon & Co. Common Stock ,3.61,Health Care,2026-10-20,13.76,0.07,13.77,13.
 MSM,MSC Industrial Direct Company Inc. Common Stock,7.16,Industrials,2026-10-20,129.53,1.0,130.93,127.83,125.63,123.33,107.95,3.33,683506,133.65,78.8,49.0,1.77,-1.13,False,False,"U:objem,T5,V1"
 PAYX,Paychex Inc. Common Stock,39.42,Industrials,2026-10-20,112.62,1.69,111.21,104.01,105.25,114.18,103.37,2.31,2991461,128.78,85.45,-11.04,1.7,-1.2,False,False,"U:rok v strate,T1,T2,T5"
 HAL,Halliburton Company Common Stock,27.48,Energy,2026-10-20,33.59,1.85,33.45,32.58,32.71,34.13,35.71,0.85,10614377,43.59,22.22,48.5,1.7,-1.2,False,False,"U:>15% pod maximom,T1,T2,T5"
-VFC,V.F. Corporation Common Stock,6.74,Industrials,2026-10-20,17.46,1.87,17.21,15.12,14.13,14.23,17.03,0.63,8665063,22.27,12.46,21.0,1.69,-1.21,False,False,"U:>15% pod maximom,T3,T5"
+VFC,V.F. Corporation Common Stock,6.74,Industrials,2026-10-20,17.46,1.87,17.21,15.12,14.13,14.23,17.03,0.63,8665063,22.27,12.46,21.0,1.69,-1.21,False,False,"U:>15% pod maximom,T3,T5,T6"
 ITRI,Itron Inc. Common Stock,3.6,Industrials,2026-10-20,84.62,3.02,84.99,86.52,88.55,92.61,91.2,2.59,759688,142.0,77.77,-36.86,1.69,-1.21,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 NOC,Northrop Grumman Corporation Common Stock,72.54,Industrials,2026-10-20,534.0,4.57,517.12,495.59,498.54,524.08,593.48,13.38,854442,774.0,470.06,-11.3,1.66,-1.24,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 SBAC,SBA Communications Corporation Class A Common Stock,19.42,Real Estate,2026-10-20,180.97,-1.16,186.51,172.09,170.9,179.4,190.42,6.17,1004953,224.46,156.6,-8.49,1.66,-1.24,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5,V1"
 T,AT&T Inc.,158.98,Telecommunications,2026-10-20,23.42,0.95,23.42,24.03,24.56,24.91,25.09,0.65,43690280,29.44,19.89,-10.27,1.65,-1.25,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 UTZ,Utz Brands Inc Class A Common Stock ,2.06,Consumer Staples,2026-10-20,14.29,-0.07,14.32,14.28,14.26,14.23,10.21,0.03,2192141,14.36,6.78,14.14,1.64,-1.26,True,False,"T5,V1"
-AGIO,Agios Pharmaceuticals Inc. Common Stock,2.08,Health Care,2026-10-20,36.64,4.99,35.03,32.48,32.6,33.2,31.36,1.47,1101166,46.0,22.24,-14.09,1.64,-1.26,False,False,"U:>15% pod maximom,U:rok v strate,T2,T3,T5"
+AGIO,Agios Pharmaceuticals Inc. Common Stock,2.08,Health Care,2026-10-20,36.64,4.99,35.03,32.48,32.6,33.2,31.36,1.47,1101166,46.0,22.24,-14.09,1.64,-1.26,False,False,"U:>15% pod maximom,U:rok v strate,T2,T3,T5,T6"
 GPOR,Gulfport Energy Corporation Common Shares,2.88,Energy,2026-10-20,161.69,-0.82,167.16,160.02,158.91,167.48,179.61,3.92,296800,225.78,149.18,-12.63,1.62,-1.28,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T5,V1"
 ITT,ITT Inc. Common Stock ,17.74,Industrials,2026-10-20,196.13,-1.15,200.25,203.27,204.38,205.03,198.54,5.37,810571,230.32,166.96,13.71,1.62,-1.28,False,False,"U:objem,T1,T2,T5,V1"
 ACA,Arcosa Inc. Common Stock ,7.23,Industrials,2026-10-20,147.45,0.08,147.36,146.75,146.42,145.92,129.43,0.48,619484,147.68,91.4,57.43,1.6,-1.3,False,False,"U:objem,T5"
@@ -743,7 +743,7 @@ LLYVA,Liberty Live Holdings Inc. Series A Liberty Live Group Common Stock,8.73,C
 LLYVK,Liberty Live Holdings Inc. Series C Liberty Live Group Common Stock,9.02,Consumer Discretionary,2026-10-20,100.49,2.49,100.01,98.47,98.28,100.68,96.85,2.63,285406,109.75,76.93,8.39,1.29,-1.61,False,False,"U:objem,T1,T5"
 VNOM,Viper Energy Inc. Class A Common Stock,16.35,Energy,2026-10-20,45.85,0.7,45.63,42.32,41.65,43.27,44.03,1.1,1835747,51.13,35.1,24.8,1.28,-1.62,True,False,T5
 HCC,Warrior Met Coal Inc. Common Stock,4.49,Energy,2026-10-20,84.13,-1.0,90.79,89.92,90.65,96.19,90.53,3.58,638914,111.42,61.87,24.6,1.24,-1.66,False,False,"U:objem,U:>15% pod maximom,T1,T2,T5,V1"
-HST,Host Hotels & Resorts Inc. Common Stock,16.57,Real Estate,2026-10-20,24.8,2.52,24.22,22.87,22.39,22.59,21.66,0.53,8897107,25.71,15.61,50.39,1.22,-1.68,True,False,T5
+HST,Host Hotels & Resorts Inc. Common Stock,16.57,Real Estate,2026-10-20,24.8,2.52,24.22,22.87,22.39,22.59,21.66,0.53,8897107,25.71,15.61,50.39,1.22,-1.68,True,False,"T5,T6"
 OKE,ONEOK Inc. Common Stock,58.26,Utilities,2026-10-20,92.85,0.47,93.76,89.93,89.94,92.67,87.83,2.29,3598239,99.85,64.02,35.49,1.2,-1.7,True,False,"T2,T5,V1"
 ESNT,Essent Group Ltd. Common Shares,5.85,Finance,2026-10-20,65.84,1.2,65.1,62.7,63.32,66.15,62.8,1.35,693358,70.37,55.34,10.32,1.2,-1.7,False,False,"U:objem,T1,T2,T5"
 PPTA,Perpetua Resources Corp. Common Shares,2.35,Basic Materials,2026-10-20,18.72,-0.27,19.37,20.52,21.77,22.97,25.98,1.07,1108223,37.37,16.43,-31.35,1.19,-1.71,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,T5,V1"
@@ -811,7 +811,7 @@ AEO,American Eagle Outfitters Inc. Common Stock,3.0,Consumer Discretionary,2026-
 PAC,Grupo Aeroportuario Del Pacifico S.A. B. de C.V. Grupo Aeroportuario Del Pacifico S.A. de C.V. (each representing 10 Series B shares),12.08,Consumer Discretionary,2026-10-20,217.41,7.05,205.93,205.28,205.1,206.39,238.21,8.43,142819,300.41,192.65,-0.83,-0.06,-2.96,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T5"
 TSLA,Tesla Inc. Common Stock,1453.67,Industrials,2026-10-20,373.71,1.54,369.58,369.71,370.54,361.11,387.26,11.76,37944463,498.83,297.38,-16.48,-0.08,-2.98,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 AFRM,Affirm Holdings Inc. Class A Common Stock,24.56,Finance,2026-10-20,73.85,1.44,74.93,73.23,72.67,73.63,66.8,4.02,4282163,90.44,42.1,2.46,-0.09,-2.99,False,False,"U:>15% pod maximom,T4,T5,V1"
-RXO,RXO Inc. Common Stock,4.7,Consumer Discretionary,2026-10-20,28.67,0.6,28.88,25.5,23.28,22.83,20.49,1.16,2666823,29.9,10.43,57.96,-0.1,-3.0,True,False,"T3,T5,V1"
+RXO,RXO Inc. Common Stock,4.7,Consumer Discretionary,2026-10-20,28.67,0.6,28.88,25.5,23.28,22.83,20.49,1.16,2666823,29.9,10.43,57.96,-0.1,-3.0,True,False,"T3,T5,T6,V1"
 ED,Consolidated Edison Inc. Common Stock,40.57,Utilities,2026-10-20,111.98,2.09,111.88,105.87,104.48,106.63,108.41,1.99,2247182,116.23,94.96,10.09,-0.1,-3.0,True,False,T5
 NMIH,NMI Holdings Inc. Common Stock,3.08,Finance,2026-10-20,41.64,1.54,41.09,40.12,40.65,42.75,40.12,0.94,605366,46.74,34.84,15.25,-0.12,-3.02,False,False,"U:objem,T1,T2,T5"
 LXP,LXP Industrial Trust Common Stock (Maryland REIT),3.6,Real Estate,2026-10-20,61.07,-0.02,61.11,60.97,60.92,60.87,54.04,0.07,830630,61.61,44.17,25.92,-0.13,-3.03,False,False,"U:objem,T5,V1"
@@ -849,7 +849,7 @@ SLS,SELLAS Life Sciences Group Inc. Common Stock,2.12,Health Care,2026-10-20,11.
 LITE,Lumentum Holdings Inc. Common Stock,75.59,Telecommunications,2026-10-20,822.51,-1.44,874.41,976.17,996.03,930.72,781.98,72.08,4803065,1143.0,152.54,410.88,-0.87,-3.77,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T5,V1"
 BB,BlackBerry Limited Common Stock,4.79,Technology,2026-10-20,8.87,8.7,8.26,8.71,8.65,8.36,6.66,0.52,13806644,13.59,3.12,93.67,-0.89,-3.79,False,False,"U:>15% pod maximom,U:deň >+8%,U:divoký,T4,T5"
 ARMK,Aramark Common Stock,14.69,Consumer Discretionary,2026-10-20,56.12,0.72,55.85,55.02,55.38,57.11,49.45,1.07,2447419,62.65,35.07,44.79,-0.9,-3.8,True,False,"T1,T2,T5"
-MOH,Molina Healthcare Inc Common Stock,10.97,Health Care,2026-10-20,219.72,4.53,212.62,198.08,194.99,200.12,183.97,8.85,727520,244.89,121.06,11.26,-0.91,-3.81,False,False,"U:objem,T3,T5"
+MOH,Molina Healthcare Inc Common Stock,10.97,Health Care,2026-10-20,219.72,4.53,212.62,198.08,194.99,200.12,183.97,8.85,727520,244.89,121.06,11.26,-0.91,-3.81,False,False,"U:objem,T3,T5,T6"
 BETA,Beta Technologies Inc. Class A Common Stock,4.21,Industrials,2026-10-20,18.15,0.89,18.95,20.73,21.61,21.76,19.37,1.29,2517912,39.5,13.43,,-0.98,-3.88,False,False,"U:>15% pod maximom,T1,T2,T4,T5,V1"
 BAM,Brookfield Asset Management Inc Class A Limited Voting Shares,72.21,Real Estate,2026-10-20,45.93,1.59,45.66,45.07,45.17,48.14,48.05,1.18,2799366,56.37,42.2,-15.88,-1.03,-3.93,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 PHG,Koninklijke Philips N.V. NY Registry Shares,25.06,Health Care,2026-10-20,26.0,1.96,25.68,24.7,24.51,25.59,27.31,0.46,1072103,33.44,23.62,-8.68,-1.03,-3.93,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5"
@@ -907,7 +907,7 @@ WSFS,WSFS Financial Corporation Common Stock,3.88,Finance,2026-10-20,77.31,1.83,
 WM,Waste Management Inc. Common Stock,90.5,Utilities,2026-10-20,231.73,2.35,227.18,211.84,208.25,216.34,224.6,4.11,2189380,248.13,194.11,7.58,-1.97,-4.87,True,False,T5
 UBER,Uber Technologies Inc. Common Stock,142.9,Consumer Discretionary,2026-10-20,68.94,-1.46,70.76,69.58,69.75,72.82,74.08,1.71,18041880,100.35,65.41,-26.42,-1.98,-4.88,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 FA,First Advantage Corporation Common Stock,3.25,Technology,2026-10-20,19.56,3.22,19.3,18.91,19.28,20.13,16.1,0.72,1904371,25.15,8.82,38.23,-2.0,-4.9,False,False,"U:>15% pod maximom,T1,T2,T5"
-PLNT,Planet Fitness Inc. Common Stock,3.98,Consumer Discretionary,2026-10-20,52.96,0.13,52.91,45.0,44.3,48.47,64.04,1.84,2299166,114.26,37.03,-44.39,-2.02,-4.92,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T5"
+PLNT,Planet Fitness Inc. Common Stock,3.98,Consumer Discretionary,2026-10-20,52.96,0.13,52.91,45.0,44.3,48.47,64.04,1.84,2299166,114.26,37.03,-44.39,-2.02,-4.92,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T5,T6"
 TAP,Molson Coors Beverage Company Class B Common Stock,7.33,Consumer Staples,2026-10-20,40.2,2.21,39.44,37.53,37.2,39.27,42.73,0.99,3778012,54.82,35.52,-13.73,-2.05,-4.95,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5"
 RCI,Rogers Communication Inc. Common Stock,17.09,Telecommunications,2026-10-20,32.27,1.99,32.05,31.2,31.95,34.19,35.86,0.89,1312995,41.14,29.26,-11.83,-2.06,-4.96,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 SNN,Smith & Nephew SNATS Inc. Common Stock,12.08,Health Care,2026-10-20,29.32,1.66,28.95,27.45,27.16,28.24,31.19,0.51,1542553,37.51,26.12,-19.3,-2.07,-4.97,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5"
@@ -931,7 +931,7 @@ KGC,Kinross Gold Corporation Common Stock,28.24,Basic Materials,2026-10-20,23.64
 EWBC,East West Bancorp Inc. Common Stock,17.19,Finance,2026-10-20,128.27,2.21,126.84,125.89,125.93,128.36,122.43,2.39,748844,137.47,96.03,30.46,-2.53,-5.43,False,False,"U:objem,T1,T2,T5"
 TT,Trane Technologies plc,102.32,Industrials,2026-10-20,461.42,-0.78,466.99,462.17,453.74,454.41,452.38,13.19,1166207,505.87,348.06,10.29,-2.57,-5.47,True,False,"T5,V1"
 CPA,Copa Holdings S.A. Class A Common Stock,5.41,Consumer Discretionary,2026-10-20,135.21,2.88,133.3,133.35,133.29,131.91,132.92,3.92,306488,160.47,107.44,6.35,-2.58,-5.48,False,False,"U:objem,U:>15% pod maximom,T5"
-SYNA,Synaptics Incorporated Common Stock $0.001 Par Value,4.65,Technology,2026-10-20,117.48,0.37,118.09,112.52,106.51,103.98,101.47,2.75,890134,149.11,58.28,61.86,-2.6,-5.5,False,False,"U:objem,U:>15% pod maximom,T5,V1"
+SYNA,Synaptics Incorporated Common Stock $0.001 Par Value,4.65,Technology,2026-10-20,117.48,0.37,118.09,112.52,106.51,103.98,101.47,2.75,890134,149.11,58.28,61.86,-2.6,-5.5,False,False,"U:objem,U:>15% pod maximom,T5,T6,V1"
 NATL,NCR Atleos Corporation Common Stock,3.39,Miscellaneous,2026-10-20,46.56,1.64,45.96,45.71,45.71,46.03,44.17,0.52,768250,48.5,33.31,22.82,-2.61,-5.51,False,False,"U:objem,T2,T5"
 ATR,AptarGroup Inc. Common Stock,7.92,Industrials,2026-10-20,125.77,0.91,125.47,122.14,122.34,126.52,126.73,2.32,458565,146.91,103.23,-3.25,-2.63,-5.53,False,False,"U:objem,U:rok v strate,T1,T2,T5"
 CAG,ConAgra Brands Inc. Common Stock,6.7,Consumer Staples,2026-10-20,14.44,2.92,14.32,13.87,14.08,14.87,15.38,0.43,12133723,20.32,12.53,-21.95,-2.63,-5.53,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
@@ -942,7 +942,7 @@ TFX,Teleflex Incorporated Common Stock,5.49,Health Care,2026-10-20,131.15,1.13,1
 ARES,Ares Management Corporation Class A Common Stock,37.32,Finance,2026-10-20,116.29,2.91,113.93,116.86,119.69,129.09,126.73,3.64,2271519,181.19,95.8,-20.68,-2.74,-5.64,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 GJS,Goldman Sachs Group Securities STRATS Trust for Goldman Sachs Group Securities Series 2006-2,7.23,Finance,2026-10-20,23.01,-0.65,23.16,23.14,23.21,23.29,23.44,0.22,1533,24.68,22.71,0.35,-2.75,-5.65,False,False,"U:objem,T1,T2,T5,V1"
 EXR,Extra Space Storage Inc Common Stock,29.19,Real Estate,2026-10-20,141.05,2.08,139.28,134.35,134.06,138.92,142.03,2.61,1301311,158.88,125.71,-6.88,-2.76,-5.66,False,False,"U:rok v strate,T1,T5"
-UNH,UnitedHealth Group Incorporated Common Stock (DE),365.21,Health Care,2026-10-20,419.26,3.04,408.5,382.36,374.76,387.5,359.9,13.32,5084598,461.62,255.97,15.03,-2.79,-5.69,True,False,T5
+UNH,UnitedHealth Group Incorporated Common Stock (DE),365.21,Health Care,2026-10-20,419.26,3.04,408.5,382.36,374.76,387.5,359.9,13.32,5084598,461.62,255.97,15.03,-2.79,-5.69,True,False,"T5,T6"
 TDY,Teledyne Technologies Incorporated Common Stock,28.73,Industrials,2026-10-20,632.21,2.01,624.22,614.45,610.9,621.57,629.62,11.98,292065,697.67,483.02,10.56,-2.81,-5.71,False,False,"U:objem,T5"
 BBVA,Banco Bilbao Vizcaya Argentaria S.A. Common Stock,143.14,Finance,2026-10-20,25.49,0.95,25.53,26.9,27.64,28.09,24.73,0.6,1545077,29.64,19.44,26.69,-2.82,-5.72,True,False,"T1,T2,T5,V1"
 WELL,Welltower Inc. Common Stock,168.3,Real Estate,2026-10-20,238.08,1.96,235.55,229.94,229.22,233.43,216.59,5.05,2789309,255.2,173.13,33.97,-2.84,-5.74,True,False,T5
@@ -973,7 +973,7 @@ HOMB,Home BancShares Inc. Common Stock,5.83,Finance,2026-10-20,29.39,0.89,29.2,2
 BSAC,Banco Santander - Chile ADS,15.37,Finance,2026-10-20,33.1,1.47,32.97,32.81,33.24,34.1,33.45,0.72,324446,37.72,27.72,18.13,-3.3,-6.2,False,False,"U:objem,T1,T2,T5"
 SSD,Simpson Manufacturing Company Inc. Common Stock,7.24,Consumer Discretionary,2026-10-20,180.6,2.19,177.99,173.77,173.09,178.93,185.01,3.89,279796,213.49,156.32,2.65,-3.32,-6.22,False,False,"U:objem,U:>15% pod maximom,T1,T5"
 BMRN,BioMarin Pharmaceutical Inc. Common Stock,10.58,Health Care,2026-10-20,56.44,3.24,55.12,57.21,59.42,62.52,58.52,1.63,2211212,70.98,49.26,6.35,-3.36,-6.26,False,False,"U:>15% pod maximom,T1,T2,T5"
-ONON,On Holding AG Class A Ordinary Shares,21.37,Consumer Discretionary,2026-10-20,35.42,0.03,35.86,32.76,30.87,30.43,37.23,1.08,9654007,51.08,26.36,-14.59,-3.36,-6.26,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5,V1"
+ONON,On Holding AG Class A Ordinary Shares,21.37,Consumer Discretionary,2026-10-20,35.42,0.03,35.86,32.76,30.87,30.43,37.23,1.08,9654007,51.08,26.36,-14.59,-3.36,-6.26,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5,T6,V1"
 KRYS,Krystal Biotech Inc. Common Stock,9.48,Health Care,2026-10-20,325.42,1.61,321.65,330.31,334.0,339.53,306.23,11.1,358461,382.54,183.03,66.06,-3.38,-6.28,False,False,"U:objem,T1,T2,T5"
 MCRI,Monarch Casino & Resort Inc. Common Stock,2.04,Consumer Discretionary,2026-10-20,114.25,0.58,114.22,116.17,117.81,119.76,111.91,2.3,156355,135.93,88.13,18.37,-3.4,-6.3,False,False,"U:objem,U:>15% pod maximom,T1,T2,T5"
 AGM,Federal Agricultural Mortgage Corporation Common Stock,2.16,Finance,2026-10-20,200.82,0.76,203.85,208.93,213.36,218.31,187.7,5.27,110006,248.29,136.57,26.06,-3.44,-6.34,False,False,"U:objem,U:>15% pod maximom,T1,T2,T5,V1"
@@ -1087,7 +1087,7 @@ WMB,Williams Companies Inc. (The) Common Stock,86.09,Utilities,2026-10-20,70.33,
 TXN,Texas Instruments Incorporated Common Stock,252.19,Technology,2026-10-20,277.78,0.59,283.12,282.47,279.35,272.05,255.29,9.25,6256782,334.03,152.73,54.67,-5.58,-8.48,False,False,"U:>15% pod maximom,T5,V1"
 CCU,Compania Cervecerias Unidas S.A. Common Stock,2.02,Consumer Staples,2026-10-20,10.87,-0.55,10.97,10.83,10.94,11.4,12.05,0.29,131504,15.36,10.25,-14.07,-5.64,-8.54,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 IVZ,Invesco Ltd Common Stock,12.49,Finance,2026-10-20,28.78,1.73,28.66,29.78,30.33,31.09,27.97,0.88,4408285,33.66,20.67,26.01,-5.64,-8.54,True,False,"T1,T2,T5"
-WING,Wingstop Inc. Common Stock,3.62,Consumer Discretionary,2026-10-20,130.31,-1.84,133.76,114.94,108.43,112.84,168.99,5.73,1271334,302.8,95.82,-49.01,-5.65,-8.55,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T5,V1"
+WING,Wingstop Inc. Common Stock,3.62,Consumer Discretionary,2026-10-20,130.31,-1.84,133.76,114.94,108.43,112.84,168.99,5.73,1271334,302.8,95.82,-49.01,-5.65,-8.55,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T5,T6,V1"
 CXW,CoreCivic Inc. Common Stock,2.96,Real Estate,2026-10-20,30.34,1.47,31.17,32.33,33.07,33.15,25.32,1.65,1833404,36.55,15.74,68.37,-5.72,-8.62,False,False,"U:>15% pod maximom,T1,T2,T4,T5,V1"
 VMC,Vulcan Materials Company (Holding Company) Common Stock,33.36,Industrials,2026-10-20,261.92,1.74,259.25,247.05,244.67,257.29,281.57,6.17,1135698,331.09,237.03,-11.35,-5.73,-8.63,False,False,"U:>15% pod maximom,U:rok v strate,T1,T5"
 BVN,Buenaventura Mining Company Inc.,7.66,Basic Materials,2026-10-20,30.24,0.33,30.47,31.64,32.53,33.28,34.03,1.11,1014919,44.67,21.0,17.89,-5.77,-8.67,False,False,"U:>15% pod maximom,T1,T2,T5,V1"
@@ -1189,7 +1189,7 @@ OSW,OneSpaWorld Holdings Limited Common Shares,2.4,Consumer Discretionary,2026-1
 RDW,Redwire Corporation Common Stock,2.11,Industrials,2026-10-20,8.3,-1.89,8.67,10.0,10.69,10.92,11.16,0.61,14220860,26.64,4.87,0.61,-7.68,-10.58,False,False,"U:>15% pod maximom,U:divoký,T1,T2,T4,T5,V1"
 GD,General Dynamics Corporation Common Stock,92.38,Industrials,2026-10-20,344.44,0.88,343.57,334.9,338.12,357.06,354.88,5.83,1169052,400.0,306.77,2.15,-7.7,-10.6,True,False,"T1,T2,T5"
 WTFC,Wintrust Financial Corporation Common Stock,9.61,Finance,2026-10-20,146.28,2.7,145.07,143.82,144.73,149.41,150.02,3.42,526111,167.22,122.0,15.59,-7.73,-10.63,False,False,"U:objem,T1,T2,T5"
-ACI,Albertsons Companies Inc. Class A Common Stock,6.38,Consumer Staples,2026-10-20,13.47,2.51,13.19,12.2,11.99,12.27,15.09,0.45,8909534,20.0,10.86,-31.49,-7.74,-10.64,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T5"
+ACI,Albertsons Companies Inc. Class A Common Stock,6.38,Consumer Staples,2026-10-20,13.47,2.51,13.19,12.2,11.99,12.27,15.09,0.45,8909534,20.0,10.86,-31.49,-7.74,-10.64,False,False,"U:>15% pod maximom,U:rok v strate,T1,T3,T5,T6"
 GL,Globe Life Inc. Common Stock,12.9,Finance,2026-10-20,169.72,1.11,169.52,166.57,167.51,171.0,158.93,2.85,509974,191.55,127.85,25.32,-7.76,-10.66,False,False,"U:objem,T1,T2,T5"
 LNT,Alliant Energy Corporation Common Stock,17.33,Utilities,2026-10-20,68.27,2.12,68.23,65.36,64.86,66.96,70.37,1.19,2552001,78.81,62.54,-0.47,-7.77,-10.67,False,False,"U:rok v strate,T1,T5"
 HIMS,Hims & Hers Health Inc. Class A Common Stock,6.57,Health Care,2026-10-20,29.21,3.77,29.0,29.16,29.22,29.2,27.22,1.95,12175066,52.41,13.74,-43.13,-7.8,-10.7,False,False,"U:>15% pod maximom,U:rok v strate,T2,T4,T5"
@@ -1255,7 +1255,7 @@ PLXS,Plexus Corp. Common Stock,6.26,Technology,2026-10-20,236.44,0.64,239.78,258
 GNRC,Generac Holdlings Inc. Common Stock,11.41,Consumer Discretionary,2026-10-20,194.6,0.67,197.61,208.7,209.89,202.26,216.73,9.94,1241512,296.44,134.8,-0.6,-8.82,-11.72,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,T5,V1"
 SGI,Somnigroup International Inc. Common Stock,14.46,Consumer Discretionary,2026-10-20,63.94,1.82,64.13,62.71,62.89,64.37,74.79,2.02,3175915,98.56,60.08,-23.94,-8.84,-11.74,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 BWA,BorgWarner Inc. Common Stock,11.86,Consumer Discretionary,2026-10-20,58.57,0.58,58.82,60.25,61.34,63.4,60.33,1.69,2303338,78.82,40.73,36.3,-8.84,-11.74,False,False,"U:>15% pod maximom,T1,T2,T5,V1"
-PGNY,Progyny Inc. Common Stock,2.14,Health Care,2026-10-20,28.58,2.66,27.86,26.59,26.4,26.46,24.29,1.01,1135190,33.06,16.1,45.59,-8.84,-11.74,True,False,T5
+PGNY,Progyny Inc. Common Stock,2.14,Health Care,2026-10-20,28.58,2.66,27.86,26.59,26.4,26.46,24.29,1.01,1135190,33.06,16.1,45.59,-8.84,-11.74,True,False,"T5,T6"
 CVCO,Cavco Industries Inc. Common Stock When Issued,3.93,Consumer Discretionary,2026-10-20,519.54,1.68,528.75,544.92,550.51,557.06,554.21,22.09,109374,713.01,443.34,-9.04,-8.86,-11.76,False,False,"U:objem,U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 TER,Teradyne Inc. Common Stock,52.46,Industrials,2026-10-20,336.59,0.32,348.38,389.86,397.17,379.05,346.06,22.25,2873225,487.91,135.83,141.82,-8.9,-11.8,False,False,"U:>15% pod maximom,T1,T2,T4,T5,V1"
 WFRD,Weatherford International plc Ordinary Shares,5.51,Consumer Discretionary,2026-10-20,79.34,2.92,77.47,79.22,80.7,85.97,93.08,2.8,952693,113.15,62.84,22.21,-8.92,-11.82,False,False,"U:objem,U:>15% pod maximom,T1,T2,T5"
@@ -1286,8 +1286,8 @@ MDU,MDU Resources Group Inc. Common Stock (Holding Company),3.98,Industrials,202
 CBU,Community Financial System Inc. Common Stock,3.15,Finance,2026-10-20,60.81,1.6,60.54,59.89,60.38,61.91,62.81,1.18,252352,71.11,53.46,8.51,-9.52,-12.42,False,False,"U:objem,T1,T2,T5"
 XYL,Xylem Inc. Common Stock New,24.17,Industrials,2026-10-20,105.02,1.44,104.68,102.85,103.79,108.02,118.92,2.19,2195784,154.27,98.58,-28.44,-9.57,-12.47,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 GEV,GE Vernova Inc. Common Stock,241.95,Technology,2026-10-20,890.33,-1.99,939.0,965.64,970.57,960.19,936.01,46.12,2259104,1195.94,530.16,49.87,-9.61,-12.51,False,False,"U:>15% pod maximom,T1,T2,T4,T5,V1"
-PRVA,Privia Health Group Inc. Common Stock,2.87,Health Care,2026-10-20,22.93,2.18,22.8,20.75,20.11,20.8,22.72,0.63,1248952,28.82,18.92,-13.14,-9.62,-12.52,False,False,"U:>15% pod maximom,U:rok v strate,T3,T5"
-ACHC,Acadia Healthcare Company Inc. Common Stock,2.81,Health Care,2026-10-20,31.43,4.14,30.51,29.12,28.55,28.9,25.1,1.18,1825593,35.83,11.43,31.18,-9.63,-12.53,True,False,T5
+PRVA,Privia Health Group Inc. Common Stock,2.87,Health Care,2026-10-20,22.93,2.18,22.8,20.75,20.11,20.8,22.72,0.63,1248952,28.82,18.92,-13.14,-9.62,-12.52,False,False,"U:>15% pod maximom,U:rok v strate,T3,T5,T6"
+ACHC,Acadia Healthcare Company Inc. Common Stock,2.81,Health Care,2026-10-20,31.43,4.14,30.51,29.12,28.55,28.9,25.1,1.18,1825593,35.83,11.43,31.18,-9.63,-12.53,True,False,"T5,T6"
 PHM,PulteGroup Inc. Common Stock,20.79,Consumer Discretionary,2026-10-20,114.53,3.27,113.73,114.73,116.41,120.67,124.26,3.35,1626438,144.5,107.16,-7.09,-9.64,-12.54,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 WAL,Western Alliance Bancorporation Common Stock (DE),8.03,Finance,2026-10-20,75.3,2.27,74.5,75.18,76.29,77.87,80.39,2.17,1107328,97.23,65.82,-0.13,-9.72,-12.62,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
 AUB,Atlantic Union Bankshares Corporation Common Stock,5.39,Finance,2026-10-20,38.21,1.19,38.14,38.12,38.36,39.61,38.96,0.79,1119536,43.62,30.87,11.33,-9.75,-12.65,True,False,"T1,T2,T5"
@@ -1734,7 +1734,7 @@ ERAS,Erasca Inc. Common Stock,4.76,Health Care,2026-10-20,14.62,7.34,13.98,14.56
 BIDU,Baidu Inc. ADS,27.15,Technology,2026-10-20,80.5,0.9,81.21,84.86,87.27,90.88,117.23,2.22,2598842,165.3,79.65,-34.08,-25.13,-28.03,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 LUNR,Intuitive Machines Inc. Class A Common Stock,2.46,Industrials,2026-10-20,10.54,-1.86,11.2,13.48,14.48,15.03,20.08,0.9,8539238,46.75,7.78,-18.23,-25.2,-28.1,False,False,"U:>15% pod maximom,U:divoký,U:rok v strate,T1,T2,T4,T5,V1"
 FLG,Flagstar Bank N.A. Common Stock,4.55,Finance,2026-10-20,11.12,1.46,11.11,11.56,11.93,12.66,13.53,0.28,4965871,15.44,10.57,-3.64,-25.27,-28.17,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5"
-SEZL,Sezzle Inc. Common Stock,4.33,Finance,2026-10-20,130.19,1.67,131.7,117.74,114.35,119.29,106.3,7.29,588426,195.71,49.5,72.05,-25.28,-28.18,False,False,"U:objem,U:>15% pod maximom,T3,T4,T5,V1"
+SEZL,Sezzle Inc. Common Stock,4.33,Finance,2026-10-20,130.19,1.67,131.7,117.74,114.35,119.29,106.3,7.29,588426,195.71,49.5,72.05,-25.28,-28.18,False,False,"U:objem,U:>15% pod maximom,T3,T4,T5,T6,V1"
 STLA,Stellantis N.V. Common Shares,12.43,Industrials,2026-10-20,4.33,0.93,4.33,4.47,4.61,4.94,6.82,0.19,24718458,12.22,4.19,-59.49,-25.34,-28.24,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T5,V1"
 BULL,Webull Corporation Class A Ordinary Shares,3.19,Finance,2026-10-20,6.03,2.2,6.14,6.67,7.15,7.9,6.95,0.45,14452568,11.97,4.5,-47.47,-25.56,-28.46,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,T5,V1"
 DNN,Denison Mines Corp Ordinary Shares (Canada),2.05,Basic Materials,2026-10-20,2.27,0.0,2.32,2.48,2.64,2.93,3.37,0.14,26454100,4.43,2.1,-22.53,-25.57,-28.47,False,False,"U:>15% pod maximom,U:rok v strate,T1,T2,T4,T5,V1"
