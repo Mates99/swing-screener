@@ -2,7 +2,8 @@ name: Denny screening
 
 on:
   schedule:
-    - cron: "30 3 * * 2-6"   # 05:30 SELČ, po zatvorení amerického trhu (utorok až sobota)
+       - cron: "17 23 * * 1-5"  # hlavný beh večer po zatvorení trhu
+       - cron: "47 2 * * 2-6"   # záložný beh v noci   # 05:30 SELČ, po zatvorení amerického trhu (utorok až sobota)
   workflow_dispatch: {}       # tlačidlo "Run workflow" na ručné spustenie
 
 permissions:
