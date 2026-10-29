@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-10-29 02:30",
+ "generated_utc": "2026-10-29 08:56",
  "last_session": "2026-10-28",
  "universe_source": "nasdaq",
  "funnel": {
   "universe": 1923,
   "evaluated_fresh": 1877,
-  "stale": 1,
-  "missing": 45,
+  "stale": 0,
+  "missing": 46,
   "sito": 421,
   "passed_T_and_V": 27,
   "finalists_checked": 20
@@ -283,7 +283,7 @@
    "earnings_date": null,
    "bdays_to_earnings": null,
    "earnings_source": "nie je v najbližších 45 dňoch",
-   "revenue_growth_pct": -15.2,
+   "revenue_growth_pct": -8.7,
    "revenue_source": "výkaz",
    "F1_earnings_ok": true,
    "F2_revenue_ok": false
@@ -517,7 +517,7 @@
    "earnings_date": "2026-11-04",
    "bdays_to_earnings": 4,
    "earnings_source": "nasdaq",
-   "revenue_growth_pct": 7.0,
+   "revenue_growth_pct": 2.9,
    "revenue_source": "výkaz",
    "F1_earnings_ok": false,
    "F2_revenue_ok": true
