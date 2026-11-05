@@ -1,11 +1,11 @@
 {
- "generated_utc": "2026-11-05 03:29",
+ "generated_utc": "2026-11-05 09:51",
  "last_session": "2026-11-04",
  "universe_source": "nasdaq",
  "funnel": {
   "universe": 1898,
-  "evaluated_fresh": 1853,
-  "stale": 1,
+  "evaluated_fresh": 1854,
+  "stale": 0,
   "missing": 44,
   "sito": 443,
   "passed_T_and_V": 59,
