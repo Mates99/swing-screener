@@ -1,25 +1,25 @@
 {
- "generated_utc": "2026-11-20 03:58",
+ "generated_utc": "2026-11-20 10:31",
  "last_session": "2026-11-19",
  "universe_source": "nasdaq",
  "funnel": {
   "universe": 1869,
-  "evaluated_fresh": 1181,
-  "stale": 647,
-  "missing": 41,
-  "sito": 244,
-  "passed_T_and_V": 1,
-  "finalists_checked": 1
+  "evaluated_fresh": 1831,
+  "stale": 0,
+  "missing": 38,
+  "sito": 355,
+  "passed_T_and_V": 2,
+  "finalists_checked": 2
  },
  "first_fail_after_sito": {
-  "T1": 78,
-  "V1": 74,
-  "T7": 59,
-  "T6": 10,
-  "T2": 9,
-  "T4": 7,
-  "T5": 4,
-  "T3": 2
+  "V1": 107,
+  "T1": 98,
+  "T7": 77,
+  "T4": 22,
+  "T6": 21,
+  "T2": 15,
+  "T3": 7,
+  "T5": 6
  },
  "N1": {
   "SPY": {
@@ -79,9 +79,47 @@
    "revenue_source": "výkaz",
    "F1_earnings_ok": true,
    "F2_revenue_ok": true
+  },
+  {
+   "ticker": "AVPT",
+   "name": "AvePoint Inc. Class A Common Stock",
+   "sector": "Technology",
+   "market_cap_bn": 3.44,
+   "band": "2-5 mld.",
+   "close": 16.94,
+   "entry_cap": 17.28,
+   "sl_hint": 16.07,
+   "tp_hint": 19.35,
+   "rs63_pct": 33.21,
+   "ret63_pct": 26.7,
+   "atr_pct": 3.84,
+   "vs_ma20_pct": 1.68,
+   "vs_ma50_pct": 12.19,
+   "ret20_pct": 5.35,
+   "rs20_pct": 11.64,
+   "trend_age": 39,
+   "earnings_date": null,
+   "bdays_to_earnings": null,
+   "earnings_source": "nie je v najbližších 45 dňoch",
+   "revenue_growth_pct": 19.5,
+   "revenue_source": "výkaz",
+   "F1_earnings_ok": true,
+   "F2_revenue_ok": true
   }
  ],
  "legacy_top": [
+  {
+   "ticker": "AVPT",
+   "close": 16.94,
+   "ret63_pct": 26.7,
+   "rs63_pct": 33.21
+  },
+  {
+   "ticker": "LNTH",
+   "close": 102.1,
+   "ret63_pct": 2.13,
+   "rs63_pct": 8.64
+  },
   {
    "ticker": "PRMB",
    "close": 23.29,
@@ -109,6 +147,24 @@
    "fails": "V1"
   },
   {
+   "ticker": "HAYW",
+   "close": 16.11,
+   "rs20_pct": 33.04,
+   "fails": "V1"
+  },
+  {
+   "ticker": "VNT",
+   "close": 43.62,
+   "rs20_pct": 32.58,
+   "fails": "V1"
+  },
+  {
+   "ticker": "PGNY",
+   "close": 35.45,
+   "rs20_pct": 28.03,
+   "fails": "V1"
+  },
+  {
    "ticker": "GEN",
    "close": 30.15,
    "rs20_pct": 27.42,
@@ -121,33 +177,15 @@
    "fails": "V1"
   },
   {
-   "ticker": "SIRI",
-   "close": 31.98,
-   "rs20_pct": 22.41,
+   "ticker": "PCOR",
+   "close": 73.3,
+   "rs20_pct": 23.97,
    "fails": "V1"
   },
   {
-   "ticker": "EW",
-   "close": 103.88,
-   "rs20_pct": 21.6,
-   "fails": "V1"
-  },
-  {
-   "ticker": "AER",
-   "close": 169.05,
-   "rs20_pct": 20.76,
-   "fails": "V1"
-  },
-  {
-   "ticker": "VFC",
-   "close": 19.93,
-   "rs20_pct": 20.31,
-   "fails": "V1"
-  },
-  {
-   "ticker": "HOG",
-   "close": 32.7,
-   "rs20_pct": 18.62,
+   "ticker": "FWONK",
+   "close": 106.41,
+   "rs20_pct": 23.03,
    "fails": "V1"
   }
  ]
